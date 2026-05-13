@@ -1,0 +1,7940 @@
+{
+  "Aichi": {
+    "kanji": "愛知県",
+    "romaji": "Aichi",
+    "cities": [
+      {
+        "romaji": "Aichi-gun Togo-cho",
+        "kanji": "愛知郡東郷町"
+      },
+      {
+        "romaji": "Aisai-shi",
+        "kanji": "愛西市"
+      },
+      {
+        "romaji": "Ama-gun Kanie-cho",
+        "kanji": "海部郡蟹江町"
+      },
+      {
+        "romaji": "Ama-gun Oharu-cho",
+        "kanji": "海部郡大治町"
+      },
+      {
+        "romaji": "Ama-gun Tobishima-mura",
+        "kanji": "海部郡飛島村"
+      },
+      {
+        "romaji": "Ama-shi",
+        "kanji": "あま市"
+      },
+      {
+        "romaji": "Anjo-shi",
+        "kanji": "安城市"
+      },
+      {
+        "romaji": "Chiryu-shi",
+        "kanji": "知立市"
+      },
+      {
+        "romaji": "Chita-gun Agui-cho",
+        "kanji": "知多郡阿久比町"
+      },
+      {
+        "romaji": "Chita-gun Higashiura-cho",
+        "kanji": "知多郡東浦町"
+      },
+      {
+        "romaji": "Chita-gun Mihama-cho",
+        "kanji": "知多郡美浜町"
+      },
+      {
+        "romaji": "Chita-gun Minamichita-cho",
+        "kanji": "知多郡南知多町"
+      },
+      {
+        "romaji": "Chita-gun Taketoyo-cho",
+        "kanji": "知多郡武豊町"
+      },
+      {
+        "romaji": "Chita-shi",
+        "kanji": "知多市"
+      },
+      {
+        "romaji": "Gamagori-shi",
+        "kanji": "蒲郡市"
+      },
+      {
+        "romaji": "Handa-shi",
+        "kanji": "半田市"
+      },
+      {
+        "romaji": "Hekinan-shi",
+        "kanji": "碧南市"
+      },
+      {
+        "romaji": "Ichinomiya-shi",
+        "kanji": "一宮市"
+      },
+      {
+        "romaji": "Inazawa-shi",
+        "kanji": "稲沢市"
+      },
+      {
+        "romaji": "Inuyama-shi",
+        "kanji": "犬山市"
+      },
+      {
+        "romaji": "Iwakura-shi",
+        "kanji": "岩倉市"
+      },
+      {
+        "romaji": "Kariya-shi",
+        "kanji": "刈谷市"
+      },
+      {
+        "romaji": "Kasugai-shi",
+        "kanji": "春日井市"
+      },
+      {
+        "romaji": "Kitanagoya-shi",
+        "kanji": "北名古屋市"
+      },
+      {
+        "romaji": "Kitashitara-gun Shitara-cho",
+        "kanji": "北設楽郡設楽町"
+      },
+      {
+        "romaji": "Kitashitara-gun Toei-cho",
+        "kanji": "北設楽郡東栄町"
+      },
+      {
+        "romaji": "Kitashitara-gun Toyone-mura",
+        "kanji": "北設楽郡豊根村"
+      },
+      {
+        "romaji": "Kiyosu-shi",
+        "kanji": "清須市"
+      },
+      {
+        "romaji": "Komaki-shi",
+        "kanji": "小牧市"
+      },
+      {
+        "romaji": "Konan-shi",
+        "kanji": "江南市"
+      },
+      {
+        "romaji": "Miyoshi-shi",
+        "kanji": "みよし市"
+      },
+      {
+        "romaji": "Nagakute-shi",
+        "kanji": "長久手市"
+      },
+      {
+        "romaji": "Nagoya-shi",
+        "kanji": "名古屋市"
+      },
+      {
+        "romaji": "Nagoya-shi Atsuta-ku",
+        "kanji": "名古屋市熱田区"
+      },
+      {
+        "romaji": "Nagoya-shi Chikusa-ku",
+        "kanji": "名古屋市千種区"
+      },
+      {
+        "romaji": "Nagoya-shi Higashi-ku",
+        "kanji": "名古屋市東区"
+      },
+      {
+        "romaji": "Nagoya-shi Kita-ku",
+        "kanji": "名古屋市北区"
+      },
+      {
+        "romaji": "Nagoya-shi Meito-ku",
+        "kanji": "名古屋市名東区"
+      },
+      {
+        "romaji": "Nagoya-shi Midori-ku",
+        "kanji": "名古屋市緑区"
+      },
+      {
+        "romaji": "Nagoya-shi Minami-ku",
+        "kanji": "名古屋市南区"
+      },
+      {
+        "romaji": "Nagoya-shi Minato-ku",
+        "kanji": "名古屋市港区"
+      },
+      {
+        "romaji": "Nagoya-shi Mizuho-ku",
+        "kanji": "名古屋市瑞穂区"
+      },
+      {
+        "romaji": "Nagoya-shi Moriyama-ku",
+        "kanji": "名古屋市守山区"
+      },
+      {
+        "romaji": "Nagoya-shi Naka-ku",
+        "kanji": "名古屋市中区"
+      },
+      {
+        "romaji": "Nagoya-shi Nakagawa-ku",
+        "kanji": "名古屋市中川区"
+      },
+      {
+        "romaji": "Nagoya-shi Nakamura-ku",
+        "kanji": "名古屋市中村区"
+      },
+      {
+        "romaji": "Nagoya-shi Nishi-ku",
+        "kanji": "名古屋市西区"
+      },
+      {
+        "romaji": "Nagoya-shi Showa-ku",
+        "kanji": "名古屋市昭和区"
+      },
+      {
+        "romaji": "Nagoya-shi Tempaku-ku",
+        "kanji": "名古屋市天白区"
+      },
+      {
+        "romaji": "Nishikasugai-gun Toyoyama-cho",
+        "kanji": "西春日井郡豊山町"
+      },
+      {
+        "romaji": "Nishio-shi",
+        "kanji": "西尾市"
+      },
+      {
+        "romaji": "Nisshin-shi",
+        "kanji": "日進市"
+      },
+      {
+        "romaji": "Niwa-gun Fuso-cho",
+        "kanji": "丹羽郡扶桑町"
+      },
+      {
+        "romaji": "Niwa-gun Oguchi-cho",
+        "kanji": "丹羽郡大口町"
+      },
+      {
+        "romaji": "Nukata-gun Kota-cho",
+        "kanji": "額田郡幸田町"
+      },
+      {
+        "romaji": "Obu-shi",
+        "kanji": "大府市"
+      },
+      {
+        "romaji": "Okazaki-shi",
+        "kanji": "岡崎市"
+      },
+      {
+        "romaji": "Owariasahi-shi",
+        "kanji": "尾張旭市"
+      },
+      {
+        "romaji": "Seto-shi",
+        "kanji": "瀬戸市"
+      },
+      {
+        "romaji": "Shinshiro-shi",
+        "kanji": "新城市"
+      },
+      {
+        "romaji": "Tahara-shi",
+        "kanji": "田原市"
+      },
+      {
+        "romaji": "Takahama-shi",
+        "kanji": "高浜市"
+      },
+      {
+        "romaji": "Tokai-shi",
+        "kanji": "東海市"
+      },
+      {
+        "romaji": "Tokoname-shi",
+        "kanji": "常滑市"
+      },
+      {
+        "romaji": "Toyoake-shi",
+        "kanji": "豊明市"
+      },
+      {
+        "romaji": "Toyohashi-shi",
+        "kanji": "豊橋市"
+      },
+      {
+        "romaji": "Toyokawa-shi",
+        "kanji": "豊川市"
+      },
+      {
+        "romaji": "Toyota-shi",
+        "kanji": "豊田市"
+      },
+      {
+        "romaji": "Tsushima-shi",
+        "kanji": "津島市"
+      },
+      {
+        "romaji": "Yatomi-shi",
+        "kanji": "弥富市"
+      }
+    ]
+  },
+  "Akita": {
+    "kanji": "秋田県",
+    "romaji": "Akita",
+    "cities": [
+      {
+        "romaji": "Akita-shi",
+        "kanji": "秋田市"
+      },
+      {
+        "romaji": "Daisen-shi",
+        "kanji": "大仙市"
+      },
+      {
+        "romaji": "Katagami-shi",
+        "kanji": "潟上市"
+      },
+      {
+        "romaji": "Kazuno-gun Kosaka-machi",
+        "kanji": "鹿角郡小坂町"
+      },
+      {
+        "romaji": "Kazuno-shi",
+        "kanji": "鹿角市"
+      },
+      {
+        "romaji": "Kitaakita-gun Kamikoani-mura",
+        "kanji": "北秋田郡上小阿仁村"
+      },
+      {
+        "romaji": "Kitaakita-shi",
+        "kanji": "北秋田市"
+      },
+      {
+        "romaji": "Minamiakita-gun Gojome-machi",
+        "kanji": "南秋田郡五城目町"
+      },
+      {
+        "romaji": "Minamiakita-gun Hachirogata-machi",
+        "kanji": "南秋田郡八郎潟町"
+      },
+      {
+        "romaji": "Minamiakita-gun Ikawa-machi",
+        "kanji": "南秋田郡井川町"
+      },
+      {
+        "romaji": "Minamiakita-gun Ogata-mura",
+        "kanji": "南秋田郡大潟村"
+      },
+      {
+        "romaji": "Nikaho-shi",
+        "kanji": "にかほ市"
+      },
+      {
+        "romaji": "Noshiro-shi",
+        "kanji": "能代市"
+      },
+      {
+        "romaji": "Odate-shi",
+        "kanji": "大館市"
+      },
+      {
+        "romaji": "Oga-shi",
+        "kanji": "男鹿市"
+      },
+      {
+        "romaji": "Ogachi-gun Higashinaruse-mura",
+        "kanji": "雄勝郡東成瀬村"
+      },
+      {
+        "romaji": "Ogachi-gun Ugo-machi",
+        "kanji": "雄勝郡羽後町"
+      },
+      {
+        "romaji": "Semboku-gun Misato-cho",
+        "kanji": "仙北郡美郷町"
+      },
+      {
+        "romaji": "Semboku-shi",
+        "kanji": "仙北市"
+      },
+      {
+        "romaji": "Yamamoto-gun Fujisato-machi",
+        "kanji": "山本郡藤里町"
+      },
+      {
+        "romaji": "Yamamoto-gun Happo-cho",
+        "kanji": "山本郡八峰町"
+      },
+      {
+        "romaji": "Yamamoto-gun Mitane-cho",
+        "kanji": "山本郡三種町"
+      },
+      {
+        "romaji": "Yokote-shi",
+        "kanji": "横手市"
+      },
+      {
+        "romaji": "Yurihonjo-shi",
+        "kanji": "由利本荘市"
+      },
+      {
+        "romaji": "Yuzawa-shi",
+        "kanji": "湯沢市"
+      }
+    ]
+  },
+  "Aomori": {
+    "kanji": "青森県",
+    "romaji": "Aomori",
+    "cities": [
+      {
+        "romaji": "Aomori-shi",
+        "kanji": "青森市"
+      },
+      {
+        "romaji": "Goshogawara-shi",
+        "kanji": "五所川原市"
+      },
+      {
+        "romaji": "Hachinohe-shi",
+        "kanji": "八戸市"
+      },
+      {
+        "romaji": "Higashitsugaru-gun Hiranai-machi",
+        "kanji": "東津軽郡平内町"
+      },
+      {
+        "romaji": "Higashitsugaru-gun Imabetsu-machi",
+        "kanji": "東津軽郡今別町"
+      },
+      {
+        "romaji": "Higashitsugaru-gun Sotogahama-machi",
+        "kanji": "東津軽郡外ケ浜町"
+      },
+      {
+        "romaji": "Higashitsugaru-gun Yomogita-mura",
+        "kanji": "東津軽郡蓬田村"
+      },
+      {
+        "romaji": "Hirakawa-shi",
+        "kanji": "平川市"
+      },
+      {
+        "romaji": "Hirosaki-shi",
+        "kanji": "弘前市"
+      },
+      {
+        "romaji": "Kamikita-gun Noheji-machi",
+        "kanji": "上北郡野辺地町"
+      },
+      {
+        "romaji": "Kamikita-gun Oirase-cho",
+        "kanji": "上北郡おいらせ町"
+      },
+      {
+        "romaji": "Kamikita-gun Rokkasho-mura",
+        "kanji": "上北郡六ヶ所村"
+      },
+      {
+        "romaji": "Kamikita-gun Rokunohe-machi",
+        "kanji": "上北郡六戸町"
+      },
+      {
+        "romaji": "Kamikita-gun Shichinohe-machi",
+        "kanji": "上北郡七戸町"
+      },
+      {
+        "romaji": "Kamikita-gun Tohoku-machi",
+        "kanji": "上北郡東北町"
+      },
+      {
+        "romaji": "Kamikita-gun Yokohama-machi",
+        "kanji": "上北郡横浜町"
+      },
+      {
+        "romaji": "Kitatsugaru-gun Itayanagi-machi",
+        "kanji": "北津軽郡板柳町"
+      },
+      {
+        "romaji": "Kitatsugaru-gun Nakadomari-machi",
+        "kanji": "北津軽郡中泊町"
+      },
+      {
+        "romaji": "Kitatsugaru-gun Tsuruta-machi",
+        "kanji": "北津軽郡鶴田町"
+      },
+      {
+        "romaji": "Kuroishi-shi",
+        "kanji": "黒石市"
+      },
+      {
+        "romaji": "Minamitsugaru-gun Fujisaki-machi",
+        "kanji": "南津軽郡藤崎町"
+      },
+      {
+        "romaji": "Minamitsugaru-gun Inakadate-mura",
+        "kanji": "南津軽郡田舎館村"
+      },
+      {
+        "romaji": "Minamitsugaru-gun Owani-machi",
+        "kanji": "南津軽郡大鰐町"
+      },
+      {
+        "romaji": "Misawa-shi",
+        "kanji": "三沢市"
+      },
+      {
+        "romaji": "Mutsu-shi",
+        "kanji": "むつ市"
+      },
+      {
+        "romaji": "Nakatsugaru-gun Nishimeya-mura",
+        "kanji": "中津軽郡西目屋村"
+      },
+      {
+        "romaji": "Nishitsugaru-gun Ajigasawa-machi",
+        "kanji": "西津軽郡鰺ヶ沢町"
+      },
+      {
+        "romaji": "Nishitsugaru-gun Fukaura-machi",
+        "kanji": "西津軽郡深浦町"
+      },
+      {
+        "romaji": "Sannohe-gun Gonohe-machi",
+        "kanji": "三戸郡五戸町"
+      },
+      {
+        "romaji": "Sannohe-gun Hashikami-cho",
+        "kanji": "三戸郡階上町"
+      },
+      {
+        "romaji": "Sannohe-gun Nambu-cho",
+        "kanji": "三戸郡南部町"
+      },
+      {
+        "romaji": "Sannohe-gun Sannohe-machi",
+        "kanji": "三戸郡三戸町"
+      },
+      {
+        "romaji": "Sannohe-gun Shingo-mura",
+        "kanji": "三戸郡新郷村"
+      },
+      {
+        "romaji": "Sannohe-gun Takko-machi",
+        "kanji": "三戸郡田子町"
+      },
+      {
+        "romaji": "Shimokita-gun Higashidori-mura",
+        "kanji": "下北郡東通村"
+      },
+      {
+        "romaji": "Shimokita-gun Kazamaura-mura",
+        "kanji": "下北郡風間浦村"
+      },
+      {
+        "romaji": "Shimokita-gun Oma-machi",
+        "kanji": "下北郡大間町"
+      },
+      {
+        "romaji": "Shimokita-gun Sai-mura",
+        "kanji": "下北郡佐井村"
+      },
+      {
+        "romaji": "Towada-shi",
+        "kanji": "十和田市"
+      },
+      {
+        "romaji": "Tsugaru-shi",
+        "kanji": "つがる市"
+      }
+    ]
+  },
+  "Chiba": {
+    "kanji": "千葉県",
+    "romaji": "Chiba",
+    "cities": [
+      {
+        "romaji": "Abiko-shi",
+        "kanji": "我孫子市"
+      },
+      {
+        "romaji": "Asahi-shi",
+        "kanji": "旭市"
+      },
+      {
+        "romaji": "Awa-gun Kyonan-machi",
+        "kanji": "安房郡鋸南町"
+      },
+      {
+        "romaji": "Chiba-shi",
+        "kanji": "千葉市"
+      },
+      {
+        "romaji": "Chiba-shi Chuo-ku",
+        "kanji": "千葉市中央区"
+      },
+      {
+        "romaji": "Chiba-shi Hanamigawa-ku",
+        "kanji": "千葉市花見川区"
+      },
+      {
+        "romaji": "Chiba-shi Inage-ku",
+        "kanji": "千葉市稲毛区"
+      },
+      {
+        "romaji": "Chiba-shi Midori-ku",
+        "kanji": "千葉市緑区"
+      },
+      {
+        "romaji": "Chiba-shi Mihama-ku",
+        "kanji": "千葉市美浜区"
+      },
+      {
+        "romaji": "Chiba-shi Wakaba-ku",
+        "kanji": "千葉市若葉区"
+      },
+      {
+        "romaji": "Chosei-gun Chonan-machi",
+        "kanji": "長生郡長南町"
+      },
+      {
+        "romaji": "Chosei-gun Chosei-mura",
+        "kanji": "長生郡長生村"
+      },
+      {
+        "romaji": "Chosei-gun Ichinomiya-machi",
+        "kanji": "長生郡一宮町"
+      },
+      {
+        "romaji": "Chosei-gun Mutsuzawa-machi",
+        "kanji": "長生郡睦沢町"
+      },
+      {
+        "romaji": "Chosei-gun Nagara-machi",
+        "kanji": "長生郡長柄町"
+      },
+      {
+        "romaji": "Chosei-gun Shirako-machi",
+        "kanji": "長生郡白子町"
+      },
+      {
+        "romaji": "Choshi-shi",
+        "kanji": "銚子市"
+      },
+      {
+        "romaji": "Funabashi-shi",
+        "kanji": "船橋市"
+      },
+      {
+        "romaji": "Futtsu-shi",
+        "kanji": "富津市"
+      },
+      {
+        "romaji": "Ichihara-shi",
+        "kanji": "市原市"
+      },
+      {
+        "romaji": "Ichikawa-shi",
+        "kanji": "市川市"
+      },
+      {
+        "romaji": "Imba-gun Sakae-machi",
+        "kanji": "印旛郡栄町"
+      },
+      {
+        "romaji": "Imba-gun Shisui-machi",
+        "kanji": "印旛郡酒々井町"
+      },
+      {
+        "romaji": "Inzai-shi",
+        "kanji": "印西市"
+      },
+      {
+        "romaji": "Isumi-gun Onjuku-machi",
+        "kanji": "夷隅郡御宿町"
+      },
+      {
+        "romaji": "Isumi-gun Otaki-machi",
+        "kanji": "夷隅郡大多喜町"
+      },
+      {
+        "romaji": "Isumi-shi",
+        "kanji": "いすみ市"
+      },
+      {
+        "romaji": "Kamagaya-shi",
+        "kanji": "鎌ヶ谷市"
+      },
+      {
+        "romaji": "Kamogawa-shi",
+        "kanji": "鴨川市"
+      },
+      {
+        "romaji": "Kashiwa-shi",
+        "kanji": "柏市"
+      },
+      {
+        "romaji": "Katori-gun Kozaki-machi",
+        "kanji": "香取郡神崎町"
+      },
+      {
+        "romaji": "Katori-gun Tako-machi",
+        "kanji": "香取郡多古町"
+      },
+      {
+        "romaji": "Katori-gun Tonosho-machi",
+        "kanji": "香取郡東庄町"
+      },
+      {
+        "romaji": "Katori-shi",
+        "kanji": "香取市"
+      },
+      {
+        "romaji": "Katsura-shi",
+        "kanji": "勝浦市"
+      },
+      {
+        "romaji": "Kimitsu-shi",
+        "kanji": "君津市"
+      },
+      {
+        "romaji": "Kisarazu-shi",
+        "kanji": "木更津市"
+      },
+      {
+        "romaji": "Matsudo-shi",
+        "kanji": "松戸市"
+      },
+      {
+        "romaji": "Minamiboso-shi",
+        "kanji": "南房総市"
+      },
+      {
+        "romaji": "Mobara-shi",
+        "kanji": "茂原市"
+      },
+      {
+        "romaji": "Nagareyama-shi",
+        "kanji": "流山市"
+      },
+      {
+        "romaji": "Narashino-shi",
+        "kanji": "習志野市"
+      },
+      {
+        "romaji": "Narita-shi",
+        "kanji": "成田市"
+      },
+      {
+        "romaji": "Noda-shi",
+        "kanji": "野田市"
+      },
+      {
+        "romaji": "Oamishirasato-shi",
+        "kanji": "大網白里市"
+      },
+      {
+        "romaji": "Sakura-shi",
+        "kanji": "佐倉市"
+      },
+      {
+        "romaji": "Sambu-gun Kujukuri-machi",
+        "kanji": "山武郡九十九里町"
+      },
+      {
+        "romaji": "Sambu-gun Shibayama-machi",
+        "kanji": "山武郡芝山町"
+      },
+      {
+        "romaji": "Sambu-gun Yokoshibahikari-machi",
+        "kanji": "山武郡横芝光町"
+      },
+      {
+        "romaji": "Sammu-shi",
+        "kanji": "山武市"
+      },
+      {
+        "romaji": "Shiroi-shi",
+        "kanji": "白井市"
+      },
+      {
+        "romaji": "Sodegaura-shi",
+        "kanji": "袖ヶ浦市"
+      },
+      {
+        "romaji": "Sosa-shi",
+        "kanji": "匝瑳市"
+      },
+      {
+        "romaji": "Tateyama-shi",
+        "kanji": "館山市"
+      },
+      {
+        "romaji": "Togane-shi",
+        "kanji": "東金市"
+      },
+      {
+        "romaji": "Tomisato-shi",
+        "kanji": "富里市"
+      },
+      {
+        "romaji": "Urayasu-shi",
+        "kanji": "浦安市"
+      },
+      {
+        "romaji": "Yachimata-shi",
+        "kanji": "八街市"
+      },
+      {
+        "romaji": "Yachiyo-shi",
+        "kanji": "八千代市"
+      },
+      {
+        "romaji": "Yotsukaido-shi",
+        "kanji": "四街道市"
+      }
+    ]
+  },
+  "Ehime": {
+    "kanji": "愛媛県",
+    "romaji": "Ehime",
+    "cities": [
+      {
+        "romaji": "Imabari-shi",
+        "kanji": "今治市"
+      },
+      {
+        "romaji": "Iyo-gun Masaki-cho",
+        "kanji": "伊予郡松前町"
+      },
+      {
+        "romaji": "Iyo-gun Tobe-cho",
+        "kanji": "伊予郡砥部町"
+      },
+      {
+        "romaji": "Iyo-shi",
+        "kanji": "伊予市"
+      },
+      {
+        "romaji": "Kamiukena-gun Kumakogen-cho",
+        "kanji": "上浮穴郡久万高原町"
+      },
+      {
+        "romaji": "Kita-gun Uchiko-cho",
+        "kanji": "喜多郡内子町"
+      },
+      {
+        "romaji": "Kitauwa-gun Kihoku-cho",
+        "kanji": "北宇和郡鬼北町"
+      },
+      {
+        "romaji": "Kitauwa-gun Matsuno-cho",
+        "kanji": "北宇和郡松野町"
+      },
+      {
+        "romaji": "Matsuyama-shi",
+        "kanji": "松山市"
+      },
+      {
+        "romaji": "Minamiuwa-gun Ainan-cho",
+        "kanji": "南宇和郡愛南町"
+      },
+      {
+        "romaji": "Niihama-shi",
+        "kanji": "新居浜市"
+      },
+      {
+        "romaji": "Nishiuwa-gun Ikata-cho",
+        "kanji": "西宇和郡伊方町"
+      },
+      {
+        "romaji": "Ochi-gun Kamijima-cho",
+        "kanji": "越智郡上島町"
+      },
+      {
+        "romaji": "Ozu-shi",
+        "kanji": "大洲市"
+      },
+      {
+        "romaji": "Saijo-shi",
+        "kanji": "西条市"
+      },
+      {
+        "romaji": "Seiyo-shi",
+        "kanji": "西予市"
+      },
+      {
+        "romaji": "Shikokuchuo-shi",
+        "kanji": "四国中央市"
+      },
+      {
+        "romaji": "Toon-shi",
+        "kanji": "東温市"
+      },
+      {
+        "romaji": "Uwajima-shi",
+        "kanji": "宇和島市"
+      },
+      {
+        "romaji": "Yawatahama-shi",
+        "kanji": "八幡浜市"
+      }
+    ]
+  },
+  "Fukui": {
+    "kanji": "福井県",
+    "romaji": "Fukui",
+    "cities": [
+      {
+        "romaji": "Awara-shi",
+        "kanji": "あわら市"
+      },
+      {
+        "romaji": "Echizen-shi",
+        "kanji": "越前市"
+      },
+      {
+        "romaji": "Fukui-shi",
+        "kanji": "福井市"
+      },
+      {
+        "romaji": "Imadate-gun Ikeda-cho",
+        "kanji": "今立郡池田町"
+      },
+      {
+        "romaji": "Katsuyama-shi",
+        "kanji": "勝山市"
+      },
+      {
+        "romaji": "Mikata-gun Mihama-cho",
+        "kanji": "三方郡美浜町"
+      },
+      {
+        "romaji": "Mikatakaminaka-gun Wakasa-cho",
+        "kanji": "三方上中郡若狭町"
+      },
+      {
+        "romaji": "Nanjo-gun Minamiechizen-cho",
+        "kanji": "南条郡南越前町"
+      },
+      {
+        "romaji": "Nyu-gun Echizen-cho",
+        "kanji": "丹生郡越前町"
+      },
+      {
+        "romaji": "Obama-shi",
+        "kanji": "小浜市"
+      },
+      {
+        "romaji": "Oi-gun Oi-cho",
+        "kanji": "大飯郡おおい町"
+      },
+      {
+        "romaji": "Oi-gun Takahama-cho",
+        "kanji": "大飯郡高浜町"
+      },
+      {
+        "romaji": "Ono-shi",
+        "kanji": "大野市"
+      },
+      {
+        "romaji": "Sabae-shi",
+        "kanji": "鯖江市"
+      },
+      {
+        "romaji": "Sakai-shi",
+        "kanji": "坂井市"
+      },
+      {
+        "romaji": "Tsuruga-shi",
+        "kanji": "敦賀市"
+      },
+      {
+        "romaji": "Yoshida-gun Eiheiji-cho",
+        "kanji": "吉田郡永平寺町"
+      }
+    ]
+  },
+  "Fukuoka": {
+    "kanji": "福岡県",
+    "romaji": "Fukuoka",
+    "cities": [
+      {
+        "romaji": "Asakura-gun Chikuzen-machi",
+        "kanji": "朝倉郡筑前町"
+      },
+      {
+        "romaji": "Asakura-gun Toho-mura",
+        "kanji": "朝倉郡東峰村"
+      },
+      {
+        "romaji": "Asakura-shi",
+        "kanji": "朝倉市"
+      },
+      {
+        "romaji": "Buzen-shi",
+        "kanji": "豊前市"
+      },
+      {
+        "romaji": "Chikugo-shi",
+        "kanji": "筑後市"
+      },
+      {
+        "romaji": "Chikujo-gun Chikujo-machi",
+        "kanji": "築上郡築上町"
+      },
+      {
+        "romaji": "Chikujo-gun Koge-machi",
+        "kanji": "築上郡上毛町"
+      },
+      {
+        "romaji": "Chikujo-gun Yoshitomi-machi",
+        "kanji": "築上郡吉富町"
+      },
+      {
+        "romaji": "Chikushino-shi",
+        "kanji": "筑紫野市"
+      },
+      {
+        "romaji": "Dazaifu-shi",
+        "kanji": "太宰府市"
+      },
+      {
+        "romaji": "Fukuoka-shi",
+        "kanji": "福岡市"
+      },
+      {
+        "romaji": "Fukuoka-shi Chuo-ku",
+        "kanji": "福岡市中央区"
+      },
+      {
+        "romaji": "Fukuoka-shi Hakata-ku",
+        "kanji": "福岡市博多区"
+      },
+      {
+        "romaji": "Fukuoka-shi Higashi-ku",
+        "kanji": "福岡市東区"
+      },
+      {
+        "romaji": "Fukuoka-shi Jonan-ku",
+        "kanji": "福岡市城南区"
+      },
+      {
+        "romaji": "Fukuoka-shi Minami-ku",
+        "kanji": "福岡市南区"
+      },
+      {
+        "romaji": "Fukuoka-shi Nishi-ku",
+        "kanji": "福岡市西区"
+      },
+      {
+        "romaji": "Fukuoka-shi Sawara-ku",
+        "kanji": "福岡市早良区"
+      },
+      {
+        "romaji": "Fukutsu-shi",
+        "kanji": "福津市"
+      },
+      {
+        "romaji": "Iizuka-shi",
+        "kanji": "飯塚市"
+      },
+      {
+        "romaji": "Itoshima-shi",
+        "kanji": "糸島市"
+      },
+      {
+        "romaji": "Kaho-gun Keisen-machi",
+        "kanji": "嘉穂郡桂川町"
+      },
+      {
+        "romaji": "Kama-shi",
+        "kanji": "嘉麻市"
+      },
+      {
+        "romaji": "Kasuga-shi",
+        "kanji": "春日市"
+      },
+      {
+        "romaji": "Kasuya-gun Hisayama-machi",
+        "kanji": "糟屋郡久山町"
+      },
+      {
+        "romaji": "Kasuya-gun Kasuya-machi",
+        "kanji": "糟屋郡粕屋町"
+      },
+      {
+        "romaji": "Kasuya-gun Sasaguri-machi",
+        "kanji": "糟屋郡篠栗町"
+      },
+      {
+        "romaji": "Kasuya-gun Shime-machi",
+        "kanji": "糟屋郡志免町"
+      },
+      {
+        "romaji": "Kasuya-gun Shingu-machi",
+        "kanji": "糟屋郡新宮町"
+      },
+      {
+        "romaji": "Kasuya-gun Sue-machi",
+        "kanji": "糟屋郡須恵町"
+      },
+      {
+        "romaji": "Kasuya-gun Umi-machi",
+        "kanji": "糟屋郡宇美町"
+      },
+      {
+        "romaji": "Kitakyushu-shi",
+        "kanji": "北九州市"
+      },
+      {
+        "romaji": "Kitakyushu-shi Kokurakita-ku",
+        "kanji": "北九州市小倉北区"
+      },
+      {
+        "romaji": "Kitakyushu-shi Kokuraminami-ku",
+        "kanji": "北九州市小倉南区"
+      },
+      {
+        "romaji": "Kitakyushu-shi Moji-ku",
+        "kanji": "北九州市門司区"
+      },
+      {
+        "romaji": "Kitakyushu-shi Tobata-ku",
+        "kanji": "北九州市戸畑区"
+      },
+      {
+        "romaji": "Kitakyushu-shi Wakamatsu-ku",
+        "kanji": "北九州市若松区"
+      },
+      {
+        "romaji": "Kitakyushu-shi Yahatahigashi-ku",
+        "kanji": "北九州市八幡東区"
+      },
+      {
+        "romaji": "Kitakyushu-shi Yahatanishi-ku",
+        "kanji": "北九州市八幡西区"
+      },
+      {
+        "romaji": "Koga-shi",
+        "kanji": "古賀市"
+      },
+      {
+        "romaji": "Kurate-gun Kotake-machi",
+        "kanji": "鞍手郡小竹町"
+      },
+      {
+        "romaji": "Kurate-gun Kurate-machi",
+        "kanji": "鞍手郡鞍手町"
+      },
+      {
+        "romaji": "Kurume-shi",
+        "kanji": "久留米市"
+      },
+      {
+        "romaji": "Mii-gun Tachiarai-machi",
+        "kanji": "三井郡大刀洗町"
+      },
+      {
+        "romaji": "Miyako-gun Kanda-machi",
+        "kanji": "京都郡苅田町"
+      },
+      {
+        "romaji": "Miyako-gun Miyako-machi",
+        "kanji": "京都郡みやこ町"
+      },
+      {
+        "romaji": "Miyama-shi",
+        "kanji": "みやま市"
+      },
+      {
+        "romaji": "Miyawaka-shi",
+        "kanji": "宮若市"
+      },
+      {
+        "romaji": "Mizuma-gun Oki-machi",
+        "kanji": "三潴郡大木町"
+      },
+      {
+        "romaji": "Munakata-shi",
+        "kanji": "宗像市"
+      },
+      {
+        "romaji": "Nakagawa-shi",
+        "kanji": "那珂川市"
+      },
+      {
+        "romaji": "Nakama-shi",
+        "kanji": "中間市"
+      },
+      {
+        "romaji": "Nogata-shi",
+        "kanji": "直方市"
+      },
+      {
+        "romaji": "Ogori-shi",
+        "kanji": "小郡市"
+      },
+      {
+        "romaji": "Okawa-shi",
+        "kanji": "大川市"
+      },
+      {
+        "romaji": "Omuta-shi",
+        "kanji": "大牟田市"
+      },
+      {
+        "romaji": "Onga-gun Ashiya-machi",
+        "kanji": "遠賀郡芦屋町"
+      },
+      {
+        "romaji": "Onga-gun Mizumaki-machi",
+        "kanji": "遠賀郡水巻町"
+      },
+      {
+        "romaji": "Onga-gun Okagaki-machi",
+        "kanji": "遠賀郡岡垣町"
+      },
+      {
+        "romaji": "Onga-gun Onga-cho",
+        "kanji": "遠賀郡遠賀町"
+      },
+      {
+        "romaji": "Onojo-shi",
+        "kanji": "大野城市"
+      },
+      {
+        "romaji": "Tagawa-gun Aka-mura",
+        "kanji": "田川郡赤村"
+      },
+      {
+        "romaji": "Tagawa-gun Fukuchi-machi",
+        "kanji": "田川郡福智町"
+      },
+      {
+        "romaji": "Tagawa-gun Itoda-machi",
+        "kanji": "田川郡糸田町"
+      },
+      {
+        "romaji": "Tagawa-gun Kawara-machi",
+        "kanji": "田川郡香春町"
+      },
+      {
+        "romaji": "Tagawa-gun Kawasaki-machi",
+        "kanji": "田川郡川崎町"
+      },
+      {
+        "romaji": "Tagawa-gun Oto-machi",
+        "kanji": "田川郡大任町"
+      },
+      {
+        "romaji": "Tagawa-gun Soeda-machi",
+        "kanji": "田川郡添田町"
+      },
+      {
+        "romaji": "Tagawa-shi",
+        "kanji": "田川市"
+      },
+      {
+        "romaji": "Ukiha-shi",
+        "kanji": "うきは市"
+      },
+      {
+        "romaji": "Yame-gun Hirokawa-machi",
+        "kanji": "八女郡広川町"
+      },
+      {
+        "romaji": "Yame-shi",
+        "kanji": "八女市"
+      },
+      {
+        "romaji": "Yanagawa-shi",
+        "kanji": "柳川市"
+      },
+      {
+        "romaji": "Yukuhashi-shi",
+        "kanji": "行橋市"
+      }
+    ]
+  },
+  "Fukushima": {
+    "kanji": "福島県",
+    "romaji": "Fukushima",
+    "cities": [
+      {
+        "romaji": "Adachi-gun Otama-mura",
+        "kanji": "安達郡大玉村"
+      },
+      {
+        "romaji": "Aizuwakamatsu-shi",
+        "kanji": "会津若松市"
+      },
+      {
+        "romaji": "Date-gun Kawamata-machi",
+        "kanji": "伊達郡川俣町"
+      },
+      {
+        "romaji": "Date-gun Kori-machi",
+        "kanji": "伊達郡桑折町"
+      },
+      {
+        "romaji": "Date-gun Kunimi-machi",
+        "kanji": "伊達郡国見町"
+      },
+      {
+        "romaji": "Date-shi",
+        "kanji": "伊達市"
+      },
+      {
+        "romaji": "Fukushima-shi",
+        "kanji": "福島市"
+      },
+      {
+        "romaji": "Futaba-gun Futaba-machi",
+        "kanji": "双葉郡双葉町"
+      },
+      {
+        "romaji": "Futaba-gun Hirono-machi",
+        "kanji": "双葉郡広野町"
+      },
+      {
+        "romaji": "Futaba-gun Katsurao-mura",
+        "kanji": "双葉郡葛尾村"
+      },
+      {
+        "romaji": "Futaba-gun Kawauchi-mura",
+        "kanji": "双葉郡川内村"
+      },
+      {
+        "romaji": "Futaba-gun Namie-machi",
+        "kanji": "双葉郡浪江町"
+      },
+      {
+        "romaji": "Futaba-gun Naraha-machi",
+        "kanji": "双葉郡楢葉町"
+      },
+      {
+        "romaji": "Futaba-gun Okuma-machi",
+        "kanji": "双葉郡大熊町"
+      },
+      {
+        "romaji": "Futaba-gun Tomioka-machi",
+        "kanji": "双葉郡富岡町"
+      },
+      {
+        "romaji": "Higashishirakawa-gun Hanawa-machi",
+        "kanji": "東白川郡塙町"
+      },
+      {
+        "romaji": "Higashishirakawa-gun Samegawa-mura",
+        "kanji": "東白川郡鮫川村"
+      },
+      {
+        "romaji": "Higashishirakawa-gun Tanagura-machi",
+        "kanji": "東白川郡棚倉町"
+      },
+      {
+        "romaji": "Higashishirakawa-gun Yamatsuri Mach",
+        "kanji": "東白川郡矢祭町"
+      },
+      {
+        "romaji": "Ishikawa-gun Asakawa-machi",
+        "kanji": "石川郡浅川町"
+      },
+      {
+        "romaji": "Ishikawa-gun Furudono-machi",
+        "kanji": "石川郡古殿町"
+      },
+      {
+        "romaji": "Ishikawa-gun Hirata-mura",
+        "kanji": "石川郡平田村"
+      },
+      {
+        "romaji": "Ishikawa-gun Ishikawa-machi",
+        "kanji": "石川郡石川町"
+      },
+      {
+        "romaji": "Ishikawa-gun Tamakawa-mura",
+        "kanji": "石川郡玉川村"
+      },
+      {
+        "romaji": "Iwaki-shi",
+        "kanji": "いわき市"
+      },
+      {
+        "romaji": "Iwase-gun Kagamiishi-machi",
+        "kanji": "岩瀬郡鏡石町"
+      },
+      {
+        "romaji": "Iwase-gun Tenei-mura",
+        "kanji": "岩瀬郡天栄村"
+      },
+      {
+        "romaji": "Kawanuma-gun Aizubange-machi",
+        "kanji": "河沼郡会津坂下町"
+      },
+      {
+        "romaji": "Kawanuma-gun Yanaizu-machi",
+        "kanji": "河沼郡柳津町"
+      },
+      {
+        "romaji": "Kawanuma-gun Yugawa-mura",
+        "kanji": "河沼郡湯川村"
+      },
+      {
+        "romaji": "Kitakata-shi",
+        "kanji": "喜多方市"
+      },
+      {
+        "romaji": "Koriyama-shi",
+        "kanji": "郡山市"
+      },
+      {
+        "romaji": "Minamiaizu-gun Hinoemata-mura",
+        "kanji": "南会津郡檜枝岐村"
+      },
+      {
+        "romaji": "Minamiaizu-gun Minamiaizu-machi",
+        "kanji": "南会津郡南会津町"
+      },
+      {
+        "romaji": "Minamiaizu-gun Shimogo-machi",
+        "kanji": "南会津郡下郷町"
+      },
+      {
+        "romaji": "Minamiaizu-gun Tadami-machi",
+        "kanji": "南会津郡只見町"
+      },
+      {
+        "romaji": "Minamisoma-shi",
+        "kanji": "南相馬市"
+      },
+      {
+        "romaji": "Motomiya-shi",
+        "kanji": "本宮市"
+      },
+      {
+        "romaji": "Nihommatsu-shi",
+        "kanji": "二本松市"
+      },
+      {
+        "romaji": "Nishishirakawa-gun Izumizaki-mura",
+        "kanji": "西白河郡泉崎村"
+      },
+      {
+        "romaji": "Nishishirakawa-gun Nakajima-mura",
+        "kanji": "西白河郡中島村"
+      },
+      {
+        "romaji": "Nishishirakawa-gun Nishigo-mura",
+        "kanji": "西白河郡西郷村"
+      },
+      {
+        "romaji": "Nishishirakawa-gun Yabuki-machi",
+        "kanji": "西白河郡矢吹町"
+      },
+      {
+        "romaji": "Onuma-gun Aizumisato-machi",
+        "kanji": "大沼郡会津美里町"
+      },
+      {
+        "romaji": "Onuma-gun Kaneyama-machi",
+        "kanji": "大沼郡金山町"
+      },
+      {
+        "romaji": "Onuma-gun Mishima-machi",
+        "kanji": "大沼郡三島町"
+      },
+      {
+        "romaji": "Onuma-gun Showa-mura",
+        "kanji": "大沼郡昭和村"
+      },
+      {
+        "romaji": "Shirakawa-shi",
+        "kanji": "白河市"
+      },
+      {
+        "romaji": "Soma-gun Iitate-mura",
+        "kanji": "相馬郡飯舘村"
+      },
+      {
+        "romaji": "Soma-gun Shinchi-machi",
+        "kanji": "相馬郡新地町"
+      },
+      {
+        "romaji": "Soma-shi",
+        "kanji": "相馬市"
+      },
+      {
+        "romaji": "Sukagawa-shi",
+        "kanji": "須賀川市"
+      },
+      {
+        "romaji": "Tamura-gun Miharu-machi",
+        "kanji": "田村郡三春町"
+      },
+      {
+        "romaji": "Tamura-gun Ono-machi",
+        "kanji": "田村郡小野町"
+      },
+      {
+        "romaji": "Tamura-shi",
+        "kanji": "田村市"
+      },
+      {
+        "romaji": "Yama-gun Bandai-machi",
+        "kanji": "耶麻郡磐梯町"
+      },
+      {
+        "romaji": "Yama-gun Inawashiro-machi",
+        "kanji": "耶麻郡猪苗代町"
+      },
+      {
+        "romaji": "Yama-gun Kitashiobara-mura",
+        "kanji": "耶麻郡北塩原村"
+      },
+      {
+        "romaji": "Yama-gun Nishiaizu-machi",
+        "kanji": "耶麻郡西会津町"
+      }
+    ]
+  },
+  "Gifu": {
+    "kanji": "岐阜県",
+    "romaji": "Gifu",
+    "cities": [
+      {
+        "romaji": "Ampachi-gun Ampachi-cho",
+        "kanji": "安八郡安八町"
+      },
+      {
+        "romaji": "Ampachi-gun Godo-cho",
+        "kanji": "安八郡神戸町"
+      },
+      {
+        "romaji": "Ampachi-gun Wanochi-cho",
+        "kanji": "安八郡輪之内町"
+      },
+      {
+        "romaji": "Ena-shi",
+        "kanji": "恵那市"
+      },
+      {
+        "romaji": "Fuwa-gun Sekigahara-cho",
+        "kanji": "不破郡関ケ原町"
+      },
+      {
+        "romaji": "Fuwa-gun Tarui-cho",
+        "kanji": "不破郡垂井町"
+      },
+      {
+        "romaji": "Gero-shi",
+        "kanji": "下呂市"
+      },
+      {
+        "romaji": "Gifu-shi",
+        "kanji": "岐阜市"
+      },
+      {
+        "romaji": "Gujo-shi",
+        "kanji": "郡上市"
+      },
+      {
+        "romaji": "Hashima-gun Ginan-cho",
+        "kanji": "羽島郡岐南町"
+      },
+      {
+        "romaji": "Hashima-gun Kasamatsu-cho",
+        "kanji": "羽島郡笠松町"
+      },
+      {
+        "romaji": "Hashima-shi",
+        "kanji": "羽島市"
+      },
+      {
+        "romaji": "Hida-shi",
+        "kanji": "飛騨市"
+      },
+      {
+        "romaji": "Ibi-gun Ibigawa-cho",
+        "kanji": "揖斐郡揖斐川町"
+      },
+      {
+        "romaji": "Ibi-gun Ikeda-cho",
+        "kanji": "揖斐郡池田町"
+      },
+      {
+        "romaji": "Ibi-gun Ono-cho",
+        "kanji": "揖斐郡大野町"
+      },
+      {
+        "romaji": "Kaizu-shi",
+        "kanji": "海津市"
+      },
+      {
+        "romaji": "Kakamigahara-shi",
+        "kanji": "各務原市"
+      },
+      {
+        "romaji": "Kamo-gun Hichiso-cho",
+        "kanji": "加茂郡七宗町"
+      },
+      {
+        "romaji": "Kamo-gun Higashishirakawa-mura",
+        "kanji": "加茂郡東白川村"
+      },
+      {
+        "romaji": "Kamo-gun Kawabe-cho",
+        "kanji": "加茂郡川辺町"
+      },
+      {
+        "romaji": "Kamo-gun Sakahogi-cho",
+        "kanji": "加茂郡坂祝町"
+      },
+      {
+        "romaji": "Kamo-gun Shirakawa-cho",
+        "kanji": "加茂郡白川町"
+      },
+      {
+        "romaji": "Kamo-gun Tomika-cho",
+        "kanji": "加茂郡富加町"
+      },
+      {
+        "romaji": "Kamo-gun Yaotsu-cho",
+        "kanji": "加茂郡八百津町"
+      },
+      {
+        "romaji": "Kani-gun Mitake-cho",
+        "kanji": "可児郡御嵩町"
+      },
+      {
+        "romaji": "Kani-shi",
+        "kanji": "可児市"
+      },
+      {
+        "romaji": "Mino-shi",
+        "kanji": "美濃市"
+      },
+      {
+        "romaji": "Minokamo-shi",
+        "kanji": "美濃加茂市"
+      },
+      {
+        "romaji": "Mizuho-shi",
+        "kanji": "瑞穂市"
+      },
+      {
+        "romaji": "Mizunami-shi",
+        "kanji": "瑞浪市"
+      },
+      {
+        "romaji": "Motosu-gun Kitagata-cho",
+        "kanji": "本巣郡北方町"
+      },
+      {
+        "romaji": "Motosu-shi",
+        "kanji": "本巣市"
+      },
+      {
+        "romaji": "Nakatsugawa-shi",
+        "kanji": "中津川市"
+      },
+      {
+        "romaji": "Ogaki-shi",
+        "kanji": "大垣市"
+      },
+      {
+        "romaji": "Ono-gun Shirakawa-mura",
+        "kanji": "大野郡白川村"
+      },
+      {
+        "romaji": "Seki-shi",
+        "kanji": "関市"
+      },
+      {
+        "romaji": "Tajimi-shi",
+        "kanji": "多治見市"
+      },
+      {
+        "romaji": "Takayama-shi",
+        "kanji": "高山市"
+      },
+      {
+        "romaji": "Toki-shi",
+        "kanji": "土岐市"
+      },
+      {
+        "romaji": "Yamagata-shi",
+        "kanji": "山県市"
+      },
+      {
+        "romaji": "Yoro-gun Yoro-cho",
+        "kanji": "養老郡養老町"
+      }
+    ]
+  },
+  "Gunma": {
+    "kanji": "群馬県",
+    "romaji": "Gunma",
+    "cities": [
+      {
+        "romaji": "Agatsuma-gun Higashiagatsuma-machi",
+        "kanji": "吾妻郡東吾妻町"
+      },
+      {
+        "romaji": "Agatsuma-gun Kusatsu-machi",
+        "kanji": "吾妻郡草津町"
+      },
+      {
+        "romaji": "Agatsuma-gun Naganohara-machi",
+        "kanji": "吾妻郡長野原町"
+      },
+      {
+        "romaji": "Agatsuma-gun Nakanojo-machi",
+        "kanji": "吾妻郡中之条町"
+      },
+      {
+        "romaji": "Agatsuma-gun Takayama-mura",
+        "kanji": "吾妻郡高山村"
+      },
+      {
+        "romaji": "Agatsuma-gun Tsumagoi-mura",
+        "kanji": "吾妻郡嬬恋村"
+      },
+      {
+        "romaji": "Annaka-shi",
+        "kanji": "安中市"
+      },
+      {
+        "romaji": "Fujioka-shi",
+        "kanji": "藤岡市"
+      },
+      {
+        "romaji": "Isesaki-shi",
+        "kanji": "伊勢崎市"
+      },
+      {
+        "romaji": "Kanra-gun Kanra-machi",
+        "kanji": "甘楽郡甘楽町"
+      },
+      {
+        "romaji": "Kanra-gun Nammoku-mura",
+        "kanji": "甘楽郡南牧村"
+      },
+      {
+        "romaji": "Kanra-gun Shimonita-machi",
+        "kanji": "甘楽郡下仁田町"
+      },
+      {
+        "romaji": "Kiryu-shi",
+        "kanji": "桐生市"
+      },
+      {
+        "romaji": "Kitagumma-gun Shinto-mura",
+        "kanji": "北群馬郡榛東村"
+      },
+      {
+        "romaji": "Kitagumma-gun Yoshioka-machi",
+        "kanji": "北群馬郡吉岡町"
+      },
+      {
+        "romaji": "Maebashi-shi",
+        "kanji": "前橋市"
+      },
+      {
+        "romaji": "Midori-shi",
+        "kanji": "みどり市"
+      },
+      {
+        "romaji": "Numata-shi",
+        "kanji": "沼田市"
+      },
+      {
+        "romaji": "Ora-gun Chiyoda-machi",
+        "kanji": "邑楽郡千代田町"
+      },
+      {
+        "romaji": "Ora-gun Itakura-machi",
+        "kanji": "邑楽郡板倉町"
+      },
+      {
+        "romaji": "Ora-gun Meiwa-machi",
+        "kanji": "邑楽郡明和町"
+      },
+      {
+        "romaji": "Ora-gun Oizumi-machi",
+        "kanji": "邑楽郡大泉町"
+      },
+      {
+        "romaji": "Ora-gun Ora-machi",
+        "kanji": "邑楽郡邑楽町"
+      },
+      {
+        "romaji": "Ota-shi",
+        "kanji": "太田市"
+      },
+      {
+        "romaji": "Sawa-gun Tamamura-machi",
+        "kanji": "佐波郡玉村町"
+      },
+      {
+        "romaji": "Shibukawa-shi",
+        "kanji": "渋川市"
+      },
+      {
+        "romaji": "Takasaki-shi",
+        "kanji": "高崎市"
+      },
+      {
+        "romaji": "Tano-gun Kanna-machi",
+        "kanji": "多野郡神流町"
+      },
+      {
+        "romaji": "Tano-gun Ueno-mura",
+        "kanji": "多野郡上野村"
+      },
+      {
+        "romaji": "Tatebayashi-shi",
+        "kanji": "館林市"
+      },
+      {
+        "romaji": "Tomioka-shi",
+        "kanji": "富岡市"
+      },
+      {
+        "romaji": "Tone-gun Katashina-mura",
+        "kanji": "利根郡片品村"
+      },
+      {
+        "romaji": "Tone-gun Kawaba-mura",
+        "kanji": "利根郡川場村"
+      },
+      {
+        "romaji": "Tone-gun Minakami-machi",
+        "kanji": "利根郡みなかみ町"
+      },
+      {
+        "romaji": "Tone-gun Showa-mura",
+        "kanji": "利根郡昭和村"
+      }
+    ]
+  },
+  "Hiroshima": {
+    "kanji": "広島県",
+    "romaji": "Hiroshima",
+    "cities": [
+      {
+        "romaji": "Aki-gun Fuchu-cho",
+        "kanji": "安芸郡府中町"
+      },
+      {
+        "romaji": "Aki-gun Kaita-cho",
+        "kanji": "安芸郡海田町"
+      },
+      {
+        "romaji": "Aki-gun Kumano-cho",
+        "kanji": "安芸郡熊野町"
+      },
+      {
+        "romaji": "Aki-gun Saka-cho",
+        "kanji": "安芸郡坂町"
+      },
+      {
+        "romaji": "Akitakata-shi",
+        "kanji": "安芸高田市"
+      },
+      {
+        "romaji": "Etajima-shi",
+        "kanji": "江田島市"
+      },
+      {
+        "romaji": "Fuchu-shi",
+        "kanji": "府中市"
+      },
+      {
+        "romaji": "Fukuyama-shi",
+        "kanji": "福山市"
+      },
+      {
+        "romaji": "Hatsukaichi-shi",
+        "kanji": "廿日市市"
+      },
+      {
+        "romaji": "Higashihiroshima-shi",
+        "kanji": "東広島市"
+      },
+      {
+        "romaji": "Hiroshima-shi",
+        "kanji": "広島市"
+      },
+      {
+        "romaji": "Hiroshima-shi Aki-ku",
+        "kanji": "広島市安芸区"
+      },
+      {
+        "romaji": "Hiroshima-shi Asakita-ku",
+        "kanji": "広島市安佐北区"
+      },
+      {
+        "romaji": "Hiroshima-shi Asaminami-ku",
+        "kanji": "広島市安佐南区"
+      },
+      {
+        "romaji": "Hiroshima-shi Higashi-ku",
+        "kanji": "広島市東区"
+      },
+      {
+        "romaji": "Hiroshima-shi Minami-ku",
+        "kanji": "広島市南区"
+      },
+      {
+        "romaji": "Hiroshima-shi Naka-ku",
+        "kanji": "広島市中区"
+      },
+      {
+        "romaji": "Hiroshima-shi Nishi-ku",
+        "kanji": "広島市西区"
+      },
+      {
+        "romaji": "Hiroshima-shi Saeki-ku",
+        "kanji": "広島市佐伯区"
+      },
+      {
+        "romaji": "Jinseki-gun Jinsekikogen-cho",
+        "kanji": "神石郡神石高原町"
+      },
+      {
+        "romaji": "Kure-shi",
+        "kanji": "呉市"
+      },
+      {
+        "romaji": "Mihara-shi",
+        "kanji": "三原市"
+      },
+      {
+        "romaji": "Miyoshi-shi",
+        "kanji": "三次市"
+      },
+      {
+        "romaji": "Onomichi-shi",
+        "kanji": "尾道市"
+      },
+      {
+        "romaji": "Otake-shi",
+        "kanji": "大竹市"
+      },
+      {
+        "romaji": "Sera-gun Sera-cho",
+        "kanji": "世羅郡世羅町"
+      },
+      {
+        "romaji": "Shobara-shi",
+        "kanji": "庄原市"
+      },
+      {
+        "romaji": "Takehara-shi",
+        "kanji": "竹原市"
+      },
+      {
+        "romaji": "Toyota-gun Osakikamijima-cho",
+        "kanji": "豊田郡大崎上島町"
+      },
+      {
+        "romaji": "Yamagata-gun Akiota-cho",
+        "kanji": "山県郡安芸太田町"
+      },
+      {
+        "romaji": "Yamagata-gun Kitahiroshima-cho",
+        "kanji": "山県郡北広島町"
+      }
+    ]
+  },
+  "Hokkaido": {
+    "kanji": "北海道",
+    "romaji": "Hokkaido",
+    "cities": [
+      {
+        "romaji": "Abashiri-gun Bihoro-cho",
+        "kanji": "網走郡美幌町"
+      },
+      {
+        "romaji": "Abashiri-gun Ozora-cho",
+        "kanji": "網走郡大空町"
+      },
+      {
+        "romaji": "Abashiri-gun Tsubetsu-cho",
+        "kanji": "網走郡津別町"
+      },
+      {
+        "romaji": "Abashiri-shi",
+        "kanji": "網走市"
+      },
+      {
+        "romaji": "Abuta-gun Kimobetsu-cho",
+        "kanji": "虻田郡喜茂別町"
+      },
+      {
+        "romaji": "Abuta-gun Kutchan-cho",
+        "kanji": "虻田郡倶知安町"
+      },
+      {
+        "romaji": "Abuta-gun Kyogoku-cho",
+        "kanji": "虻田郡京極町"
+      },
+      {
+        "romaji": "Abuta-gun Makkari-mura",
+        "kanji": "虻田郡真狩村"
+      },
+      {
+        "romaji": "Abuta-gun Niseko-cho",
+        "kanji": "虻田郡ニセコ町"
+      },
+      {
+        "romaji": "Abuta-gun Rusutsu-mura",
+        "kanji": "虻田郡留寿都村"
+      },
+      {
+        "romaji": "Abuta-gun Toyako-cho",
+        "kanji": "虻田郡洞爺湖町"
+      },
+      {
+        "romaji": "Abuta-gun Toyora-cho",
+        "kanji": "虻田郡豊浦町"
+      },
+      {
+        "romaji": "Akabira-shi",
+        "kanji": "赤平市"
+      },
+      {
+        "romaji": "Akan-gun Tsurui-mura",
+        "kanji": "阿寒郡鶴居村"
+      },
+      {
+        "romaji": "Akkeshi-gun Akkeshi-cho",
+        "kanji": "厚岸郡厚岸町"
+      },
+      {
+        "romaji": "Akkeshi-gun Hamanaka-cho",
+        "kanji": "厚岸郡浜中町"
+      },
+      {
+        "romaji": "Asahikawa-shi",
+        "kanji": "旭川市"
+      },
+      {
+        "romaji": "Ashibetsu-shi",
+        "kanji": "芦別市"
+      },
+      {
+        "romaji": "Ashoro-gun Ashoro-cho",
+        "kanji": "足寄郡足寄町"
+      },
+      {
+        "romaji": "Ashoro-gun Rikubetsu-cho",
+        "kanji": "足寄郡陸別町"
+      },
+      {
+        "romaji": "Bibai-shi",
+        "kanji": "美唄市"
+      },
+      {
+        "romaji": "Chitose-shi",
+        "kanji": "千歳市"
+      },
+      {
+        "romaji": "Date-shi",
+        "kanji": "伊達市"
+      },
+      {
+        "romaji": "Ebetsu-shi",
+        "kanji": "江別市"
+      },
+      {
+        "romaji": "Eniwa-shi",
+        "kanji": "恵庭市"
+      },
+      {
+        "romaji": "Esashi-gun Esashi-cho",
+        "kanji": "枝幸郡枝幸町"
+      },
+      {
+        "romaji": "Esashi-gun Hamatombetsu-cho",
+        "kanji": "枝幸郡浜頓別町"
+      },
+      {
+        "romaji": "Esashi-gun Nakatombetsu-cho",
+        "kanji": "枝幸郡中頓別町"
+      },
+      {
+        "romaji": "Fukagawa-shi",
+        "kanji": "深川市"
+      },
+      {
+        "romaji": "Furano-shi",
+        "kanji": "富良野市"
+      },
+      {
+        "romaji": "Furu-gun Kamoenai-mura",
+        "kanji": "古宇郡神恵内村"
+      },
+      {
+        "romaji": "Furu-gun Tomari-mura",
+        "kanji": "古宇郡泊村"
+      },
+      {
+        "romaji": "Furubira-gun Furubira-cho",
+        "kanji": "古平郡古平町"
+      },
+      {
+        "romaji": "Futami-gun Yakumo-cho",
+        "kanji": "二海郡八雲町"
+      },
+      {
+        "romaji": "Hakodate-shi",
+        "kanji": "函館市"
+      },
+      {
+        "romaji": "Hidaka-gun Shinhidaka-cho",
+        "kanji": "日高郡新ひだか町"
+      },
+      {
+        "romaji": "Hiro-gun Hiro-cho",
+        "kanji": "広尾郡広尾町"
+      },
+      {
+        "romaji": "Hiro-gun Taiki-cho",
+        "kanji": "広尾郡大樹町"
+      },
+      {
+        "romaji": "Hiyama-gun Assabu-cho",
+        "kanji": "檜山郡厚沢部町"
+      },
+      {
+        "romaji": "Hiyama-gun Esashi-cho",
+        "kanji": "檜山郡江差町"
+      },
+      {
+        "romaji": "Hiyama-gun Kaminokuni-cho",
+        "kanji": "檜山郡上ノ国町"
+      },
+      {
+        "romaji": "Hokuto-shi",
+        "kanji": "北斗市"
+      },
+      {
+        "romaji": "Horoizumi-gun Erimo-cho",
+        "kanji": "幌泉郡えりも町"
+      },
+      {
+        "romaji": "Ishikari-gun Shinshinotsu-mura",
+        "kanji": "石狩郡新篠津村"
+      },
+      {
+        "romaji": "Ishikari-gun Tobetsu-cho",
+        "kanji": "石狩郡当別町"
+      },
+      {
+        "romaji": "Ishikari-shi",
+        "kanji": "石狩市"
+      },
+      {
+        "romaji": "Isoya-gun Rankoshi-cho",
+        "kanji": "磯谷郡蘭越町"
+      },
+      {
+        "romaji": "Iwamizawa-shi",
+        "kanji": "岩見沢市"
+      },
+      {
+        "romaji": "Iwanai-gun Iwanai-cho",
+        "kanji": "岩内郡岩内町"
+      },
+      {
+        "romaji": "Iwanai-gun Kyowa-cho",
+        "kanji": "岩内郡共和町"
+      },
+      {
+        "romaji": "Kabato-gun Shintotsukawa-cho",
+        "kanji": "樺戸郡新十津川町"
+      },
+      {
+        "romaji": "Kabato-gun Tsukigata-cho",
+        "kanji": "樺戸郡月形町"
+      },
+      {
+        "romaji": "Kabato-gun Urausu-cho",
+        "kanji": "樺戸郡浦臼町"
+      },
+      {
+        "romaji": "Kameda-gun Nanae-cho",
+        "kanji": "亀田郡七飯町"
+      },
+      {
+        "romaji": "Kamiiso-gun Kikonai-cho",
+        "kanji": "上磯郡木古内町"
+      },
+      {
+        "romaji": "Kamiiso-gun Shiriuchi-cho",
+        "kanji": "上磯郡知内町"
+      },
+      {
+        "romaji": "Kamikawa-gun Aibetsu-cho",
+        "kanji": "上川郡愛別町"
+      },
+      {
+        "romaji": "Kamikawa-gun Biei-cho",
+        "kanji": "上川郡美瑛町"
+      },
+      {
+        "romaji": "Kamikawa-gun Higashikagura-cho",
+        "kanji": "上川郡東神楽町"
+      },
+      {
+        "romaji": "Kamikawa-gun Higashikawa-cho",
+        "kanji": "上川郡東川町"
+      },
+      {
+        "romaji": "Kamikawa-gun Kamikawa-cho",
+        "kanji": "上川郡上川町"
+      },
+      {
+        "romaji": "Kamikawa-gun Kembuchi-cho",
+        "kanji": "上川郡剣淵町"
+      },
+      {
+        "romaji": "Kamikawa-gun Pippu-cho",
+        "kanji": "上川郡比布町"
+      },
+      {
+        "romaji": "Kamikawa-gun Shimizu-cho",
+        "kanji": "上川郡清水町"
+      },
+      {
+        "romaji": "Kamikawa-gun Shimokawa-cho",
+        "kanji": "上川郡下川町"
+      },
+      {
+        "romaji": "Kamikawa-gun Shintoku-cho",
+        "kanji": "上川郡新得町"
+      },
+      {
+        "romaji": "Kamikawa-gun Takasu-cho",
+        "kanji": "上川郡鷹栖町"
+      },
+      {
+        "romaji": "Kamikawa-gun Toma-cho",
+        "kanji": "上川郡当麻町"
+      },
+      {
+        "romaji": "Kamikawa-gun Wassamu-cho",
+        "kanji": "上川郡和寒町"
+      },
+      {
+        "romaji": "Kasai-gun Memuro-cho",
+        "kanji": "河西郡芽室町"
+      },
+      {
+        "romaji": "Kasai-gun Nakasatsunai-mura",
+        "kanji": "河西郡中札内村"
+      },
+      {
+        "romaji": "Kasai-gun Sarabetsu-mura",
+        "kanji": "河西郡更別村"
+      },
+      {
+        "romaji": "Kato-gun Kamishihoro-cho",
+        "kanji": "河東郡上士幌町"
+      },
+      {
+        "romaji": "Kato-gun Otofuke-cho",
+        "kanji": "河東郡音更町"
+      },
+      {
+        "romaji": "Kato-gun Shihoro-cho",
+        "kanji": "河東郡士幌町"
+      },
+      {
+        "romaji": "Kato-gun Shikaoi-cho",
+        "kanji": "河東郡鹿追町"
+      },
+      {
+        "romaji": "Kawakami-gun Shibecha-cho",
+        "kanji": "川上郡標茶町"
+      },
+      {
+        "romaji": "Kawakami-gun Teshikaga-cho",
+        "kanji": "川上郡弟子屈町"
+      },
+      {
+        "romaji": "Kayabe-gun Mori-machi",
+        "kanji": "茅部郡森町"
+      },
+      {
+        "romaji": "Kayabe-gun Shikabe-cho",
+        "kanji": "茅部郡鹿部町"
+      },
+      {
+        "romaji": "Kitahiroshima-shi",
+        "kanji": "北広島市"
+      },
+      {
+        "romaji": "Kitami-shi",
+        "kanji": "北見市"
+      },
+      {
+        "romaji": "Kudo-gun Setana-cho",
+        "kanji": "久遠郡せたな町"
+      },
+      {
+        "romaji": "Kushiro-gun Kushiro-cho",
+        "kanji": "釧路郡釧路町"
+      },
+      {
+        "romaji": "Kushiro-shi",
+        "kanji": "釧路市"
+      },
+      {
+        "romaji": "Mashike-gun Mashike-cho",
+        "kanji": "増毛郡増毛町"
+      },
+      {
+        "romaji": "Matsumae-gun Fukushima-cho",
+        "kanji": "松前郡福島町"
+      },
+      {
+        "romaji": "Matsumae-gun Matsumae-cho",
+        "kanji": "松前郡松前町"
+      },
+      {
+        "romaji": "Menashi-gun Rausu-cho",
+        "kanji": "目梨郡羅臼町"
+      },
+      {
+        "romaji": "Mikasa-shi",
+        "kanji": "三笠市"
+      },
+      {
+        "romaji": "Mombetsu-gun Engaru-cho",
+        "kanji": "紋別郡遠軽町"
+      },
+      {
+        "romaji": "Mombetsu-gun Nishiokoppe-mura",
+        "kanji": "紋別郡西興部村"
+      },
+      {
+        "romaji": "Mombetsu-gun Okoppe-cho",
+        "kanji": "紋別郡興部町"
+      },
+      {
+        "romaji": "Mombetsu-gun Omu-cho",
+        "kanji": "紋別郡雄武町"
+      },
+      {
+        "romaji": "Mombetsu-gun Takinoe-cho",
+        "kanji": "紋別郡滝上町"
+      },
+      {
+        "romaji": "Mombetsu-gun Yubetsu-cho",
+        "kanji": "紋別郡湧別町"
+      },
+      {
+        "romaji": "Mombetsu-shi",
+        "kanji": "紋別市"
+      },
+      {
+        "romaji": "Muroran-shi",
+        "kanji": "室蘭市"
+      },
+      {
+        "romaji": "Nakagawa-gun Bifuka-cho",
+        "kanji": "中川郡美深町"
+      },
+      {
+        "romaji": "Nakagawa-gun Hombetsu-cho",
+        "kanji": "中川郡本別町"
+      },
+      {
+        "romaji": "Nakagawa-gun Ikeda-cho",
+        "kanji": "中川郡池田町"
+      },
+      {
+        "romaji": "Nakagawa-gun Makubetsu-cho",
+        "kanji": "中川郡幕別町"
+      },
+      {
+        "romaji": "Nakagawa-gun Nakagawa-cho",
+        "kanji": "中川郡中川町"
+      },
+      {
+        "romaji": "Nakagawa-gun Otoineppu-mura",
+        "kanji": "中川郡音威子府村"
+      },
+      {
+        "romaji": "Nakagawa-gun Toyokoro-cho",
+        "kanji": "中川郡豊頃町"
+      },
+      {
+        "romaji": "Nayoro-shi",
+        "kanji": "名寄市"
+      },
+      {
+        "romaji": "Nemuro-shi",
+        "kanji": "根室市"
+      },
+      {
+        "romaji": "Niikappu-gun Niikappu-cho",
+        "kanji": "新冠郡新冠町"
+      },
+      {
+        "romaji": "Nishi-gun Otobe-cho",
+        "kanji": "爾志郡乙部町"
+      },
+      {
+        "romaji": "Noboribetsu-shi",
+        "kanji": "登別市"
+      },
+      {
+        "romaji": "Notsuke-gun Betsukai-cho",
+        "kanji": "野付郡別海町"
+      },
+      {
+        "romaji": "Obihiro-shi",
+        "kanji": "帯広市"
+      },
+      {
+        "romaji": "Okushiri-gun Okushiri-cho",
+        "kanji": "奥尻郡奥尻町"
+      },
+      {
+        "romaji": "Otaru-shi",
+        "kanji": "小樽市"
+      },
+      {
+        "romaji": "Rebun-gun Rebun-cho",
+        "kanji": "礼文郡礼文町"
+      },
+      {
+        "romaji": "Rishiri-gun Rishiri-cho",
+        "kanji": "利尻郡利尻町"
+      },
+      {
+        "romaji": "Rishiri-gun Rishirifuji-cho",
+        "kanji": "利尻郡利尻富士町"
+      },
+      {
+        "romaji": "Rumoi-gun Obira-cho",
+        "kanji": "留萌郡小平町"
+      },
+      {
+        "romaji": "Rumoi-shi",
+        "kanji": "留萌市"
+      },
+      {
+        "romaji": "Samani-gun Samani-cho",
+        "kanji": "様似郡様似町"
+      },
+      {
+        "romaji": "Sapporo-shi",
+        "kanji": "札幌市"
+      },
+      {
+        "romaji": "Sapporo-shi Atsubetsu-ku",
+        "kanji": "札幌市厚別区"
+      },
+      {
+        "romaji": "Sapporo-shi Chuo-ku",
+        "kanji": "札幌市中央区"
+      },
+      {
+        "romaji": "Sapporo-shi Higashi-ku",
+        "kanji": "札幌市東区"
+      },
+      {
+        "romaji": "Sapporo-shi Kita-ku",
+        "kanji": "札幌市北区"
+      },
+      {
+        "romaji": "Sapporo-shi Kiyota-ku",
+        "kanji": "札幌市清田区"
+      },
+      {
+        "romaji": "Sapporo-shi Minami-ku",
+        "kanji": "札幌市南区"
+      },
+      {
+        "romaji": "Sapporo-shi Nishi-ku",
+        "kanji": "札幌市西区"
+      },
+      {
+        "romaji": "Sapporo-shi Shiroishi-ku",
+        "kanji": "札幌市白石区"
+      },
+      {
+        "romaji": "Sapporo-shi Teine-ku",
+        "kanji": "札幌市手稲区"
+      },
+      {
+        "romaji": "Sapporo-shi Toyohira-ku",
+        "kanji": "札幌市豊平区"
+      },
+      {
+        "romaji": "Saru-gun Biratori-cho",
+        "kanji": "沙流郡平取町"
+      },
+      {
+        "romaji": "Saru-gun Hidaka-cho",
+        "kanji": "沙流郡日高町"
+      },
+      {
+        "romaji": "Setana-gun Imakane-cho",
+        "kanji": "瀬棚郡今金町"
+      },
+      {
+        "romaji": "Shakotan-gun Shakotan-cho",
+        "kanji": "積丹郡積丹町"
+      },
+      {
+        "romaji": "Shari-gun Kiyosato-cho",
+        "kanji": "斜里郡清里町"
+      },
+      {
+        "romaji": "Shari-gun Koshimizu-cho",
+        "kanji": "斜里郡小清水町"
+      },
+      {
+        "romaji": "Shari-gun Shari-cho",
+        "kanji": "斜里郡斜里町"
+      },
+      {
+        "romaji": "Shibetsu-gun Nakashibetsu-cho",
+        "kanji": "標津郡中標津町"
+      },
+      {
+        "romaji": "Shibetsu-gun Shibetsu-cho",
+        "kanji": "標津郡標津町"
+      },
+      {
+        "romaji": "Shibetsu-shi",
+        "kanji": "士別市"
+      },
+      {
+        "romaji": "Shimamaki-gun Shimamaki-mura",
+        "kanji": "島牧郡島牧村"
+      },
+      {
+        "romaji": "Shiranuka-gun Shiranuka-cho",
+        "kanji": "白糠郡白糠町"
+      },
+      {
+        "romaji": "Shiraoi-gun Shiraoi-cho",
+        "kanji": "白老郡白老町"
+      },
+      {
+        "romaji": "Sorachi-gun Kamifurano-cho",
+        "kanji": "空知郡上富良野町"
+      },
+      {
+        "romaji": "Sorachi-gun Kamisunagawa-cho",
+        "kanji": "空知郡上砂川町"
+      },
+      {
+        "romaji": "Sorachi-gun Minamifurano-cho",
+        "kanji": "空知郡南富良野町"
+      },
+      {
+        "romaji": "Sorachi-gun Naie-cho",
+        "kanji": "空知郡奈井江町"
+      },
+      {
+        "romaji": "Sorachi-gun Nakafurano-cho",
+        "kanji": "空知郡中富良野町"
+      },
+      {
+        "romaji": "Sorachi-gun Namporo-cho",
+        "kanji": "空知郡南幌町"
+      },
+      {
+        "romaji": "Soya-gun Sarufutsu-mura",
+        "kanji": "宗谷郡猿払村"
+      },
+      {
+        "romaji": "Sunagawa-shi",
+        "kanji": "砂川市"
+      },
+      {
+        "romaji": "Suttsu-gun Kuromatsunai-cho",
+        "kanji": "寿都郡黒松内町"
+      },
+      {
+        "romaji": "Suttsu-gun Suttsu-cho",
+        "kanji": "寿都郡寿都町"
+      },
+      {
+        "romaji": "Takikawa-shi",
+        "kanji": "滝川市"
+      },
+      {
+        "romaji": "Teshio-gun Embetsu-cho",
+        "kanji": "天塩郡遠別町"
+      },
+      {
+        "romaji": "Teshio-gun Horonobe-cho",
+        "kanji": "天塩郡幌延町"
+      },
+      {
+        "romaji": "Teshio-gun Teshio-cho",
+        "kanji": "天塩郡天塩町"
+      },
+      {
+        "romaji": "Teshio-gun Toyotomi-cho",
+        "kanji": "天塩郡豊富町"
+      },
+      {
+        "romaji": "Tokachi-gun Urahoro-cho",
+        "kanji": "十勝郡浦幌町"
+      },
+      {
+        "romaji": "Tokoro-gun Kunneppu-cho",
+        "kanji": "常呂郡訓子府町"
+      },
+      {
+        "romaji": "Tokoro-gun Oketo-cho",
+        "kanji": "常呂郡置戸町"
+      },
+      {
+        "romaji": "Tokoro-gun Saroma-cho",
+        "kanji": "常呂郡佐呂間町"
+      },
+      {
+        "romaji": "Tomakomai-shi",
+        "kanji": "苫小牧市"
+      },
+      {
+        "romaji": "Tomamae-gun Haboro-cho",
+        "kanji": "苫前郡羽幌町"
+      },
+      {
+        "romaji": "Tomamae-gun Shosambetsu-mura",
+        "kanji": "苫前郡初山別村"
+      },
+      {
+        "romaji": "Tomamae-gun Tomamae-cho",
+        "kanji": "苫前郡苫前町"
+      },
+      {
+        "romaji": "Urakawa-gun Urakawa-cho",
+        "kanji": "浦河郡浦河町"
+      },
+      {
+        "romaji": "Uryu-gun Chippubetsu-cho",
+        "kanji": "雨竜郡秩父別町"
+      },
+      {
+        "romaji": "Uryu-gun Hokuryu-cho",
+        "kanji": "雨竜郡北竜町"
+      },
+      {
+        "romaji": "Uryu-gun Horokanai-cho",
+        "kanji": "雨竜郡幌加内町"
+      },
+      {
+        "romaji": "Uryu-gun Moseushi-cho",
+        "kanji": "雨竜郡妹背牛町"
+      },
+      {
+        "romaji": "Uryu-gun Numata-cho",
+        "kanji": "雨竜郡沼田町"
+      },
+      {
+        "romaji": "Uryu-gun Uryu-cho",
+        "kanji": "雨竜郡雨竜町"
+      },
+      {
+        "romaji": "Usu-gun Sobetsu-cho",
+        "kanji": "有珠郡壮瞥町"
+      },
+      {
+        "romaji": "Utashinai-shi",
+        "kanji": "歌志内市"
+      },
+      {
+        "romaji": "Wakkanai-shi",
+        "kanji": "稚内市"
+      },
+      {
+        "romaji": "Yamakoshi-gun Oshamambe-cho",
+        "kanji": "山越郡長万部町"
+      },
+      {
+        "romaji": "Yoichi-gun Akaigawa-mura",
+        "kanji": "余市郡赤井川村"
+      },
+      {
+        "romaji": "Yoichi-gun Niki-cho",
+        "kanji": "余市郡仁木町"
+      },
+      {
+        "romaji": "Yoichi-gun Yoichi-cho",
+        "kanji": "余市郡余市町"
+      },
+      {
+        "romaji": "Yubari-gun Kuriyama-cho",
+        "kanji": "夕張郡栗山町"
+      },
+      {
+        "romaji": "Yubari-gun Naganuma-cho",
+        "kanji": "夕張郡長沼町"
+      },
+      {
+        "romaji": "Yubari-gun Yuni-cho",
+        "kanji": "夕張郡由仁町"
+      },
+      {
+        "romaji": "Yubari-shi",
+        "kanji": "夕張市"
+      },
+      {
+        "romaji": "Yufutsu-gun Abira-cho",
+        "kanji": "勇払郡安平町"
+      },
+      {
+        "romaji": "Yufutsu-gun Atsuma-cho",
+        "kanji": "勇払郡厚真町"
+      },
+      {
+        "romaji": "Yufutsu-gun Mukawa-cho",
+        "kanji": "勇払郡むかわ町"
+      },
+      {
+        "romaji": "Yufutsu-gun Shimukappu-mura",
+        "kanji": "勇払郡占冠村"
+      }
+    ]
+  },
+  "Hyogo": {
+    "kanji": "兵庫県",
+    "romaji": "Hyogo",
+    "cities": [
+      {
+        "romaji": "Aioi-shi",
+        "kanji": "相生市"
+      },
+      {
+        "romaji": "Akashi-shi",
+        "kanji": "明石市"
+      },
+      {
+        "romaji": "Ako-gun Kamigori-cho",
+        "kanji": "赤穂郡上郡町"
+      },
+      {
+        "romaji": "Ako-shi",
+        "kanji": "赤穂市"
+      },
+      {
+        "romaji": "Amagasaki-shi",
+        "kanji": "尼崎市"
+      },
+      {
+        "romaji": "Asago-shi",
+        "kanji": "朝来市"
+      },
+      {
+        "romaji": "Ashiya-shi",
+        "kanji": "芦屋市"
+      },
+      {
+        "romaji": "Awaji-shi",
+        "kanji": "淡路市"
+      },
+      {
+        "romaji": "Himeji-shi",
+        "kanji": "姫路市"
+      },
+      {
+        "romaji": "Ibo-gun Taishi-cho",
+        "kanji": "揖保郡太子町"
+      },
+      {
+        "romaji": "Itami-shi",
+        "kanji": "伊丹市"
+      },
+      {
+        "romaji": "Kako-gun Harima-cho",
+        "kanji": "加古郡播磨町"
+      },
+      {
+        "romaji": "Kako-gun Inami-cho",
+        "kanji": "加古郡稲美町"
+      },
+      {
+        "romaji": "Kakogawa-shi",
+        "kanji": "加古川市"
+      },
+      {
+        "romaji": "Kanzaki-gun Fukusaki-cho",
+        "kanji": "神崎郡福崎町"
+      },
+      {
+        "romaji": "Kanzaki-gun Ichikawa-cho",
+        "kanji": "神崎郡市川町"
+      },
+      {
+        "romaji": "Kanzaki-gun Kamikawa-cho",
+        "kanji": "神崎郡神河町"
+      },
+      {
+        "romaji": "Kasai-shi",
+        "kanji": "加西市"
+      },
+      {
+        "romaji": "Kato-shi",
+        "kanji": "加東市"
+      },
+      {
+        "romaji": "Kawabe-gun Inagawa-cho",
+        "kanji": "川辺郡猪名川町"
+      },
+      {
+        "romaji": "Kawanishi-shi",
+        "kanji": "川西市"
+      },
+      {
+        "romaji": "Kobe-shi",
+        "kanji": "神戸市"
+      },
+      {
+        "romaji": "Kobe-shi Chuo-ku",
+        "kanji": "神戸市中央区"
+      },
+      {
+        "romaji": "Kobe-shi Higashinada-ku",
+        "kanji": "神戸市東灘区"
+      },
+      {
+        "romaji": "Kobe-shi Hyogo-ku",
+        "kanji": "神戸市兵庫区"
+      },
+      {
+        "romaji": "Kobe-shi Kita-ku",
+        "kanji": "神戸市北区"
+      },
+      {
+        "romaji": "Kobe-shi Nada-ku",
+        "kanji": "神戸市灘区"
+      },
+      {
+        "romaji": "Kobe-shi Nagata-ku",
+        "kanji": "神戸市長田区"
+      },
+      {
+        "romaji": "Kobe-shi Nishi-ku",
+        "kanji": "神戸市西区"
+      },
+      {
+        "romaji": "Kobe-shi Suma-ku",
+        "kanji": "神戸市須磨区"
+      },
+      {
+        "romaji": "Kobe-shi Tarumi-ku",
+        "kanji": "神戸市垂水区"
+      },
+      {
+        "romaji": "Mikata-gun Kami-cho",
+        "kanji": "美方郡香美町"
+      },
+      {
+        "romaji": "Mikata-gun Shinonsen-cho",
+        "kanji": "美方郡新温泉町"
+      },
+      {
+        "romaji": "Miki-shi",
+        "kanji": "三木市"
+      },
+      {
+        "romaji": "Minamiawaji-shi",
+        "kanji": "南あわじ市"
+      },
+      {
+        "romaji": "Nishinomiya-shi",
+        "kanji": "西宮市"
+      },
+      {
+        "romaji": "Nishiwaki-shi",
+        "kanji": "西脇市"
+      },
+      {
+        "romaji": "Ono-shi",
+        "kanji": "小野市"
+      },
+      {
+        "romaji": "Sanda-shi",
+        "kanji": "三田市"
+      },
+      {
+        "romaji": "Sayo-gun Sayo-cho",
+        "kanji": "佐用郡佐用町"
+      },
+      {
+        "romaji": "Shiso-shi",
+        "kanji": "宍粟市"
+      },
+      {
+        "romaji": "Sumoto-shi",
+        "kanji": "洲本市"
+      },
+      {
+        "romaji": "Taka-gun Taka-cho",
+        "kanji": "多可郡多可町"
+      },
+      {
+        "romaji": "Takarazuka-shi",
+        "kanji": "宝塚市"
+      },
+      {
+        "romaji": "Takasago-shi",
+        "kanji": "高砂市"
+      },
+      {
+        "romaji": "Tamba-shi",
+        "kanji": "丹波市"
+      },
+      {
+        "romaji": "Tambasasayama-shi",
+        "kanji": "丹波篠山市"
+      },
+      {
+        "romaji": "Tatsuno-shi",
+        "kanji": "たつの市"
+      },
+      {
+        "romaji": "Toyoka-shi",
+        "kanji": "豊岡市"
+      },
+      {
+        "romaji": "Yabu-shi",
+        "kanji": "養父市"
+      }
+    ]
+  },
+  "Ibaraki": {
+    "kanji": "茨城県",
+    "romaji": "Ibaraki",
+    "cities": [
+      {
+        "romaji": "Bando-shi",
+        "kanji": "坂東市"
+      },
+      {
+        "romaji": "Chikusei-shi",
+        "kanji": "筑西市"
+      },
+      {
+        "romaji": "Higashiibaraki-gun Ibaraki-machi",
+        "kanji": "東茨城郡茨城町"
+      },
+      {
+        "romaji": "Higashiibaraki-gun Oarai-machi",
+        "kanji": "東茨城郡大洗町"
+      },
+      {
+        "romaji": "Higashiibaraki-gun Shirosato-machi",
+        "kanji": "東茨城郡城里町"
+      },
+      {
+        "romaji": "Hitachi-shi",
+        "kanji": "日立市"
+      },
+      {
+        "romaji": "Hitachinaka-shi",
+        "kanji": "ひたちなか市"
+      },
+      {
+        "romaji": "Hitachiomiya-shi",
+        "kanji": "常陸大宮市"
+      },
+      {
+        "romaji": "Hitachiota-shi",
+        "kanji": "常陸太田市"
+      },
+      {
+        "romaji": "Hokota-shi",
+        "kanji": "鉾田市"
+      },
+      {
+        "romaji": "Inashiki-gun Ami-machi",
+        "kanji": "稲敷郡阿見町"
+      },
+      {
+        "romaji": "Inashiki-gun Kawachi-machi",
+        "kanji": "稲敷郡河内町"
+      },
+      {
+        "romaji": "Inashiki-gun Miho-mura",
+        "kanji": "稲敷郡美浦村"
+      },
+      {
+        "romaji": "Inashiki-shi",
+        "kanji": "稲敷市"
+      },
+      {
+        "romaji": "Ishioka-shi",
+        "kanji": "石岡市"
+      },
+      {
+        "romaji": "Itako-shi",
+        "kanji": "潮来市"
+      },
+      {
+        "romaji": "Joso-shi",
+        "kanji": "常総市"
+      },
+      {
+        "romaji": "Kamisu-shi",
+        "kanji": "神栖市"
+      },
+      {
+        "romaji": "Kasama-shi",
+        "kanji": "笠間市"
+      },
+      {
+        "romaji": "Kashima-shi",
+        "kanji": "鹿嶋市"
+      },
+      {
+        "romaji": "Kasumigaura-shi",
+        "kanji": "かすみがうら市"
+      },
+      {
+        "romaji": "Kitaibaraki-shi",
+        "kanji": "北茨城市"
+      },
+      {
+        "romaji": "Kitasoma-gun Tone-machi",
+        "kanji": "北相馬郡利根町"
+      },
+      {
+        "romaji": "Koga-shi",
+        "kanji": "古河市"
+      },
+      {
+        "romaji": "Kuji-gun Daigo-machi",
+        "kanji": "久慈郡大子町"
+      },
+      {
+        "romaji": "Mito-shi",
+        "kanji": "水戸市"
+      },
+      {
+        "romaji": "Moriya-shi",
+        "kanji": "守谷市"
+      },
+      {
+        "romaji": "Naka-gun Tokai-mura",
+        "kanji": "那珂郡東海村"
+      },
+      {
+        "romaji": "Naka-shi",
+        "kanji": "那珂市"
+      },
+      {
+        "romaji": "Namegata-shi",
+        "kanji": "行方市"
+      },
+      {
+        "romaji": "Omitama-shi",
+        "kanji": "小美玉市"
+      },
+      {
+        "romaji": "Ryugasaki-shi",
+        "kanji": "龍ヶ崎市"
+      },
+      {
+        "romaji": "Sakuragawa-shi",
+        "kanji": "桜川市"
+      },
+      {
+        "romaji": "Sashima-gun Goka-machi",
+        "kanji": "猿島郡五霞町"
+      },
+      {
+        "romaji": "Sashima-gun Sakai-machi",
+        "kanji": "猿島郡境町"
+      },
+      {
+        "romaji": "Shimotsuma-shi",
+        "kanji": "下妻市"
+      },
+      {
+        "romaji": "Takahagi-shi",
+        "kanji": "高萩市"
+      },
+      {
+        "romaji": "Toride-shi",
+        "kanji": "取手市"
+      },
+      {
+        "romaji": "Tsuchiura-shi",
+        "kanji": "土浦市"
+      },
+      {
+        "romaji": "Tsukuba-shi",
+        "kanji": "つくば市"
+      },
+      {
+        "romaji": "Tsukubamirai-shi",
+        "kanji": "つくばみらい市"
+      },
+      {
+        "romaji": "Ushiku-shi",
+        "kanji": "牛久市"
+      },
+      {
+        "romaji": "Yuki-gun Yachiyo-machi",
+        "kanji": "結城郡八千代町"
+      },
+      {
+        "romaji": "Yuki-shi",
+        "kanji": "結城市"
+      }
+    ]
+  },
+  "Ishikawa": {
+    "kanji": "石川県",
+    "romaji": "Ishikawa",
+    "cities": [
+      {
+        "romaji": "Hakui-gun Hodatsushimizu-cho",
+        "kanji": "羽咋郡宝達志水町"
+      },
+      {
+        "romaji": "Hakui-gun Shika-machi",
+        "kanji": "羽咋郡志賀町"
+      },
+      {
+        "romaji": "Hakui-shi",
+        "kanji": "羽咋市"
+      },
+      {
+        "romaji": "Hakusan-shi",
+        "kanji": "白山市"
+      },
+      {
+        "romaji": "Hosu-gun Anamizu-machi",
+        "kanji": "鳳珠郡穴水町"
+      },
+      {
+        "romaji": "Hosu-gun Noto-cho",
+        "kanji": "鳳珠郡能登町"
+      },
+      {
+        "romaji": "Kaga-shi",
+        "kanji": "加賀市"
+      },
+      {
+        "romaji": "Kahoku-gun Tsubata-machi",
+        "kanji": "河北郡津幡町"
+      },
+      {
+        "romaji": "Kahoku-gun Uchinada-machi",
+        "kanji": "河北郡内灘町"
+      },
+      {
+        "romaji": "Kahoku-shi",
+        "kanji": "かほく市"
+      },
+      {
+        "romaji": "Kanazawa-shi",
+        "kanji": "金沢市"
+      },
+      {
+        "romaji": "Kashima-gun Nakanoto-machi",
+        "kanji": "鹿島郡中能登町"
+      },
+      {
+        "romaji": "Komatsu-shi",
+        "kanji": "小松市"
+      },
+      {
+        "romaji": "Nanao-shi",
+        "kanji": "七尾市"
+      },
+      {
+        "romaji": "Nomi-gun Kawakita-machi",
+        "kanji": "能美郡川北町"
+      },
+      {
+        "romaji": "Nomi-shi",
+        "kanji": "能美市"
+      },
+      {
+        "romaji": "Nonoichi-shi",
+        "kanji": "野々市市"
+      },
+      {
+        "romaji": "Suzu-shi",
+        "kanji": "珠洲市"
+      },
+      {
+        "romaji": "Wajima-shi",
+        "kanji": "輪島市"
+      }
+    ]
+  },
+  "Iwate": {
+    "kanji": "岩手県",
+    "romaji": "Iwate",
+    "cities": [
+      {
+        "romaji": "Hachimantai-shi",
+        "kanji": "八幡平市"
+      },
+      {
+        "romaji": "Hanamaki-shi",
+        "kanji": "花巻市"
+      },
+      {
+        "romaji": "Ichinoseki-shi",
+        "kanji": "一関市"
+      },
+      {
+        "romaji": "Isawa-gun Kanegasaki-cho",
+        "kanji": "胆沢郡金ケ崎町"
+      },
+      {
+        "romaji": "Iwate-gun Iwate-machi",
+        "kanji": "岩手郡岩手町"
+      },
+      {
+        "romaji": "Iwate-gun Kuzumaki-machi",
+        "kanji": "岩手郡葛巻町"
+      },
+      {
+        "romaji": "Iwate-gun Shizukuishi-cho",
+        "kanji": "岩手郡雫石町"
+      },
+      {
+        "romaji": "Kamaishi-shi",
+        "kanji": "釜石市"
+      },
+      {
+        "romaji": "Kamihei-gun Otsuchi-cho",
+        "kanji": "上閉伊郡大槌町"
+      },
+      {
+        "romaji": "Kesen-gun Sumita-cho",
+        "kanji": "気仙郡住田町"
+      },
+      {
+        "romaji": "Kitakami-shi",
+        "kanji": "北上市"
+      },
+      {
+        "romaji": "Kuji-shi",
+        "kanji": "久慈市"
+      },
+      {
+        "romaji": "Kunohe-gun Hirono-cho",
+        "kanji": "九戸郡洋野町"
+      },
+      {
+        "romaji": "Kunohe-gun Karumai-machi",
+        "kanji": "九戸郡軽米町"
+      },
+      {
+        "romaji": "Kunohe-gun Kunohe-mura",
+        "kanji": "九戸郡九戸村"
+      },
+      {
+        "romaji": "Kunohe-gun Noda-mura",
+        "kanji": "九戸郡野田村"
+      },
+      {
+        "romaji": "Miyako-shi",
+        "kanji": "宮古市"
+      },
+      {
+        "romaji": "Morioka-shi",
+        "kanji": "盛岡市"
+      },
+      {
+        "romaji": "Ninohe-gun Ichinohe-machi",
+        "kanji": "二戸郡一戸町"
+      },
+      {
+        "romaji": "Ninohe-shi",
+        "kanji": "二戸市"
+      },
+      {
+        "romaji": "Nishiiwai-gun Hiraizumi-cho",
+        "kanji": "西磐井郡平泉町"
+      },
+      {
+        "romaji": "Ofunato-shi",
+        "kanji": "大船渡市"
+      },
+      {
+        "romaji": "Oshu-shi",
+        "kanji": "奥州市"
+      },
+      {
+        "romaji": "Rikuzentakata-shi",
+        "kanji": "陸前高田市"
+      },
+      {
+        "romaji": "Shimohei-gun Fudai-mura",
+        "kanji": "下閉伊郡普代村"
+      },
+      {
+        "romaji": "Shimohei-gun Iwaizumi-cho",
+        "kanji": "下閉伊郡岩泉町"
+      },
+      {
+        "romaji": "Shimohei-gun Tanohata-mura",
+        "kanji": "下閉伊郡田野畑村"
+      },
+      {
+        "romaji": "Shimohei-gun Yamada-machi",
+        "kanji": "下閉伊郡山田町"
+      },
+      {
+        "romaji": "Shiwa-gun Shiwa-cho",
+        "kanji": "紫波郡紫波町"
+      },
+      {
+        "romaji": "Shiwa-gun Yahaba-cho",
+        "kanji": "紫波郡矢巾町"
+      },
+      {
+        "romaji": "Takizawa-shi",
+        "kanji": "滝沢市"
+      },
+      {
+        "romaji": "Tono-shi",
+        "kanji": "遠野市"
+      },
+      {
+        "romaji": "Waga-gun Nishiwaga-machi",
+        "kanji": "和賀郡西和賀町"
+      }
+    ]
+  },
+  "Kagawa": {
+    "kanji": "香川県",
+    "romaji": "Kagawa",
+    "cities": [
+      {
+        "romaji": "Ayauta-gun Ayagawa-cho",
+        "kanji": "綾歌郡綾川町"
+      },
+      {
+        "romaji": "Ayauta-gun Utazu-cho",
+        "kanji": "綾歌郡宇多津町"
+      },
+      {
+        "romaji": "Higashikagawa-shi",
+        "kanji": "東かがわ市"
+      },
+      {
+        "romaji": "Kagawa-gun Naoshima-cho",
+        "kanji": "香川郡直島町"
+      },
+      {
+        "romaji": "Kanonji-shi",
+        "kanji": "観音寺市"
+      },
+      {
+        "romaji": "Kita-gun Miki-cho",
+        "kanji": "木田郡三木町"
+      },
+      {
+        "romaji": "Marugame-shi",
+        "kanji": "丸亀市"
+      },
+      {
+        "romaji": "Mitoyo-shi",
+        "kanji": "三豊市"
+      },
+      {
+        "romaji": "Nakatado-gun Kotohira-cho",
+        "kanji": "仲多度郡琴平町"
+      },
+      {
+        "romaji": "Nakatado-gun Manno-cho",
+        "kanji": "仲多度郡まんのう町"
+      },
+      {
+        "romaji": "Nakatado-gun Tadotsu-cho",
+        "kanji": "仲多度郡多度津町"
+      },
+      {
+        "romaji": "Sakaide-shi",
+        "kanji": "坂出市"
+      },
+      {
+        "romaji": "Sanuki-shi",
+        "kanji": "さぬき市"
+      },
+      {
+        "romaji": "Shozu-gun Shodoshima-cho",
+        "kanji": "小豆郡小豆島町"
+      },
+      {
+        "romaji": "Shozu-gun Tonosho-cho",
+        "kanji": "小豆郡土庄町"
+      },
+      {
+        "romaji": "Takamatsu-shi",
+        "kanji": "高松市"
+      },
+      {
+        "romaji": "Zentsuji-shi",
+        "kanji": "善通寺市"
+      }
+    ]
+  },
+  "Kagoshima": {
+    "kanji": "鹿児島県",
+    "romaji": "Kagoshima",
+    "cities": [
+      {
+        "romaji": "Aira-gun Yusui-cho",
+        "kanji": "姶良郡湧水町"
+      },
+      {
+        "romaji": "Aira-shi",
+        "kanji": "姶良市"
+      },
+      {
+        "romaji": "Akune-shi",
+        "kanji": "阿久根市"
+      },
+      {
+        "romaji": "Amami-shi",
+        "kanji": "奄美市"
+      },
+      {
+        "romaji": "Hioki-shi",
+        "kanji": "日置市"
+      },
+      {
+        "romaji": "Ibusuki-shi",
+        "kanji": "指宿市"
+      },
+      {
+        "romaji": "Ichikikushikino-shi",
+        "kanji": "いちき串木野市"
+      },
+      {
+        "romaji": "Isa-shi",
+        "kanji": "伊佐市"
+      },
+      {
+        "romaji": "Izumi-gun Nagashima-cho",
+        "kanji": "出水郡長島町"
+      },
+      {
+        "romaji": "Izumi-shi",
+        "kanji": "出水市"
+      },
+      {
+        "romaji": "Kagoshima-gun Mishima-mura",
+        "kanji": "鹿児島郡三島村"
+      },
+      {
+        "romaji": "Kagoshima-gun Toshima-mura",
+        "kanji": "鹿児島郡十島村"
+      },
+      {
+        "romaji": "Kagoshima-shi",
+        "kanji": "鹿児島市"
+      },
+      {
+        "romaji": "Kanoya-shi",
+        "kanji": "鹿屋市"
+      },
+      {
+        "romaji": "Kimotsuki-gun Higashikushira-cho",
+        "kanji": "肝属郡東串良町"
+      },
+      {
+        "romaji": "Kimotsuki-gun Kimotsuki-cho",
+        "kanji": "肝属郡肝付町"
+      },
+      {
+        "romaji": "Kimotsuki-gun Kinko-cho",
+        "kanji": "肝属郡錦江町"
+      },
+      {
+        "romaji": "Kimotsuki-gun Minamiosumi-cho",
+        "kanji": "肝属郡南大隅町"
+      },
+      {
+        "romaji": "Kirishima-shi",
+        "kanji": "霧島市"
+      },
+      {
+        "romaji": "Kumage-gun Minamitane-cho",
+        "kanji": "熊毛郡南種子町"
+      },
+      {
+        "romaji": "Kumage-gun Nakatane-cho",
+        "kanji": "熊毛郡中種子町"
+      },
+      {
+        "romaji": "Kumage-gun Yakushima-cho",
+        "kanji": "熊毛郡屋久島町"
+      },
+      {
+        "romaji": "Makurazaki-shi",
+        "kanji": "枕崎市"
+      },
+      {
+        "romaji": "Minamikyushu-shi",
+        "kanji": "南九州市"
+      },
+      {
+        "romaji": "Minamisatsuma-shi",
+        "kanji": "南さつま市"
+      },
+      {
+        "romaji": "Nishinomote-shi",
+        "kanji": "西之表市"
+      },
+      {
+        "romaji": "Oshima-gun Amagi-cho",
+        "kanji": "大島郡天城町"
+      },
+      {
+        "romaji": "Oshima-gun China-cho",
+        "kanji": "大島郡知名町"
+      },
+      {
+        "romaji": "Oshima-gun Isen-cho",
+        "kanji": "大島郡伊仙町"
+      },
+      {
+        "romaji": "Oshima-gun Kikai-cho",
+        "kanji": "大島郡喜界町"
+      },
+      {
+        "romaji": "Oshima-gun Setochi-cho",
+        "kanji": "大島郡瀬戸内町"
+      },
+      {
+        "romaji": "Oshima-gun Tatsugo-cho",
+        "kanji": "大島郡龍郷町"
+      },
+      {
+        "romaji": "Oshima-gun Tokunoshima-cho",
+        "kanji": "大島郡徳之島町"
+      },
+      {
+        "romaji": "Oshima-gun Uken-son",
+        "kanji": "大島郡宇検村"
+      },
+      {
+        "romaji": "Oshima-gun Wadomari-cho",
+        "kanji": "大島郡和泊町"
+      },
+      {
+        "romaji": "Oshima-gun Yamato-son",
+        "kanji": "大島郡大和村"
+      },
+      {
+        "romaji": "Oshima-gun Yoron-cho",
+        "kanji": "大島郡与論町"
+      },
+      {
+        "romaji": "Satsuma-gun Satsuma-cho",
+        "kanji": "薩摩郡さつま町"
+      },
+      {
+        "romaji": "Satsumasendai-shi",
+        "kanji": "薩摩川内市"
+      },
+      {
+        "romaji": "Shibushi-shi",
+        "kanji": "志布志市"
+      },
+      {
+        "romaji": "So-gun Osaki-cho",
+        "kanji": "曽於郡大崎町"
+      },
+      {
+        "romaji": "So-shi",
+        "kanji": "曽於市"
+      },
+      {
+        "romaji": "Tarumizu-shi",
+        "kanji": "垂水市"
+      }
+    ]
+  },
+  "Kanagawa": {
+    "kanji": "神奈川県",
+    "romaji": "Kanagawa",
+    "cities": [
+      {
+        "romaji": "Aiko-gun Aikawa-machi",
+        "kanji": "愛甲郡愛川町"
+      },
+      {
+        "romaji": "Aiko-gun Kiyokawa-mura",
+        "kanji": "愛甲郡清川村"
+      },
+      {
+        "romaji": "Ashigarakami-gun Kaisei-machi",
+        "kanji": "足柄上郡開成町"
+      },
+      {
+        "romaji": "Ashigarakami-gun Matsuda-machi",
+        "kanji": "足柄上郡松田町"
+      },
+      {
+        "romaji": "Ashigarakami-gun Nakai-machi",
+        "kanji": "足柄上郡中井町"
+      },
+      {
+        "romaji": "Ashigarakami-gun Oi-machi",
+        "kanji": "足柄上郡大井町"
+      },
+      {
+        "romaji": "Ashigarakami-gun Yamakita-machi",
+        "kanji": "足柄上郡山北町"
+      },
+      {
+        "romaji": "Ashigarashimo-gun Hakone-machi",
+        "kanji": "足柄下郡箱根町"
+      },
+      {
+        "romaji": "Ashigarashimo-gun Manazuru-machi",
+        "kanji": "足柄下郡真鶴町"
+      },
+      {
+        "romaji": "Ashigarashimo-gun Yugawara-machi",
+        "kanji": "足柄下郡湯河原町"
+      },
+      {
+        "romaji": "Atsugi-shi",
+        "kanji": "厚木市"
+      },
+      {
+        "romaji": "Ayase-shi",
+        "kanji": "綾瀬市"
+      },
+      {
+        "romaji": "Chigasaki-shi",
+        "kanji": "茅ヶ崎市"
+      },
+      {
+        "romaji": "Ebina-shi",
+        "kanji": "海老名市"
+      },
+      {
+        "romaji": "Fujisawa-shi",
+        "kanji": "藤沢市"
+      },
+      {
+        "romaji": "Hadano-shi",
+        "kanji": "秦野市"
+      },
+      {
+        "romaji": "Hiratsuka-shi",
+        "kanji": "平塚市"
+      },
+      {
+        "romaji": "Isehara-shi",
+        "kanji": "伊勢原市"
+      },
+      {
+        "romaji": "Kamakura-shi",
+        "kanji": "鎌倉市"
+      },
+      {
+        "romaji": "Kawasaki-shi",
+        "kanji": "川崎市"
+      },
+      {
+        "romaji": "Kawasaki-shi Asao-ku",
+        "kanji": "川崎市麻生区"
+      },
+      {
+        "romaji": "Kawasaki-shi Kawasaki-ku",
+        "kanji": "川崎市川崎区"
+      },
+      {
+        "romaji": "Kawasaki-shi Miyamae-ku",
+        "kanji": "川崎市宮前区"
+      },
+      {
+        "romaji": "Kawasaki-shi Nakahara-ku",
+        "kanji": "川崎市中原区"
+      },
+      {
+        "romaji": "Kawasaki-shi Saiwai-ku",
+        "kanji": "川崎市幸区"
+      },
+      {
+        "romaji": "Kawasaki-shi Takatsu-ku",
+        "kanji": "川崎市高津区"
+      },
+      {
+        "romaji": "Kawasaki-shi Tama-ku",
+        "kanji": "川崎市多摩区"
+      },
+      {
+        "romaji": "Koza-gun Samukawa-machi",
+        "kanji": "高座郡寒川町"
+      },
+      {
+        "romaji": "Minamiashigara-shi",
+        "kanji": "南足柄市"
+      },
+      {
+        "romaji": "Miura-gun Hayama-machi",
+        "kanji": "三浦郡葉山町"
+      },
+      {
+        "romaji": "Miura-shi",
+        "kanji": "三浦市"
+      },
+      {
+        "romaji": "Naka-gun Ninomiya-machi",
+        "kanji": "中郡二宮町"
+      },
+      {
+        "romaji": "Naka-gun Oiso-machi",
+        "kanji": "中郡大磯町"
+      },
+      {
+        "romaji": "Odawara-shi",
+        "kanji": "小田原市"
+      },
+      {
+        "romaji": "Sagamihara-shi",
+        "kanji": "相模原市"
+      },
+      {
+        "romaji": "Sagamihara-shi Chuo-ku",
+        "kanji": "相模原市中央区"
+      },
+      {
+        "romaji": "Sagamihara-shi Midori-ku",
+        "kanji": "相模原市緑区"
+      },
+      {
+        "romaji": "Sagamihara-shi Minami-ku",
+        "kanji": "相模原市南区"
+      },
+      {
+        "romaji": "Yamato-shi",
+        "kanji": "大和市"
+      },
+      {
+        "romaji": "Yokohama-shi",
+        "kanji": "横浜市"
+      },
+      {
+        "romaji": "Yokohama-shi Aoba-ku",
+        "kanji": "横浜市青葉区"
+      },
+      {
+        "romaji": "Yokohama-shi Asahi-ku",
+        "kanji": "横浜市旭区"
+      },
+      {
+        "romaji": "Yokohama-shi Hodogaya-ku",
+        "kanji": "横浜市保土ケ谷区"
+      },
+      {
+        "romaji": "Yokohama-shi Isogo-ku",
+        "kanji": "横浜市磯子区"
+      },
+      {
+        "romaji": "Yokohama-shi Izumi-ku",
+        "kanji": "横浜市泉区"
+      },
+      {
+        "romaji": "Yokohama-shi Kanagawa-ku",
+        "kanji": "横浜市神奈川区"
+      },
+      {
+        "romaji": "Yokohama-shi Kanazawa-ku",
+        "kanji": "横浜市金沢区"
+      },
+      {
+        "romaji": "Yokohama-shi Kohoku-ku",
+        "kanji": "横浜市港北区"
+      },
+      {
+        "romaji": "Yokohama-shi Konan-ku",
+        "kanji": "横浜市港南区"
+      },
+      {
+        "romaji": "Yokohama-shi Midori-ku",
+        "kanji": "横浜市緑区"
+      },
+      {
+        "romaji": "Yokohama-shi Minami-ku",
+        "kanji": "横浜市南区"
+      },
+      {
+        "romaji": "Yokohama-shi Naka-ku",
+        "kanji": "横浜市中区"
+      },
+      {
+        "romaji": "Yokohama-shi Nishi-ku",
+        "kanji": "横浜市西区"
+      },
+      {
+        "romaji": "Yokohama-shi Sakae-ku",
+        "kanji": "横浜市栄区"
+      },
+      {
+        "romaji": "Yokohama-shi Seya-ku",
+        "kanji": "横浜市瀬谷区"
+      },
+      {
+        "romaji": "Yokohama-shi Totsuka-ku",
+        "kanji": "横浜市戸塚区"
+      },
+      {
+        "romaji": "Yokohama-shi Tsurumi-ku",
+        "kanji": "横浜市鶴見区"
+      },
+      {
+        "romaji": "Yokohama-shi Tsuzuki-ku",
+        "kanji": "横浜市都筑区"
+      },
+      {
+        "romaji": "Yokosuka-shi",
+        "kanji": "横須賀市"
+      },
+      {
+        "romaji": "Zama-shi",
+        "kanji": "座間市"
+      },
+      {
+        "romaji": "Zushi-shi",
+        "kanji": "逗子市"
+      }
+    ]
+  },
+  "Kochi": {
+    "kanji": "高知県",
+    "romaji": "Kochi",
+    "cities": [
+      {
+        "romaji": "Agawa-gun Ino-cho",
+        "kanji": "吾川郡いの町"
+      },
+      {
+        "romaji": "Agawa-gun Niyodogawa-cho",
+        "kanji": "吾川郡仁淀川町"
+      },
+      {
+        "romaji": "Aki-gun Geisei-mura",
+        "kanji": "安芸郡芸西村"
+      },
+      {
+        "romaji": "Aki-gun Kitagawa-mura",
+        "kanji": "安芸郡北川村"
+      },
+      {
+        "romaji": "Aki-gun Nahari-cho",
+        "kanji": "安芸郡奈半利町"
+      },
+      {
+        "romaji": "Aki-gun Tano-cho",
+        "kanji": "安芸郡田野町"
+      },
+      {
+        "romaji": "Aki-gun Toyo-cho",
+        "kanji": "安芸郡東洋町"
+      },
+      {
+        "romaji": "Aki-gun Umaji-mura",
+        "kanji": "安芸郡馬路村"
+      },
+      {
+        "romaji": "Aki-gun Yasuda-cho",
+        "kanji": "安芸郡安田町"
+      },
+      {
+        "romaji": "Aki-shi",
+        "kanji": "安芸市"
+      },
+      {
+        "romaji": "Hata-gun Kuroshio-cho",
+        "kanji": "幡多郡黒潮町"
+      },
+      {
+        "romaji": "Hata-gun Mihara-mura",
+        "kanji": "幡多郡三原村"
+      },
+      {
+        "romaji": "Hata-gun Otsuki-cho",
+        "kanji": "幡多郡大月町"
+      },
+      {
+        "romaji": "Kami-shi",
+        "kanji": "香美市"
+      },
+      {
+        "romaji": "Kochi-shi",
+        "kanji": "高知市"
+      },
+      {
+        "romaji": "Konan-shi",
+        "kanji": "香南市"
+      },
+      {
+        "romaji": "Muroto-shi",
+        "kanji": "室戸市"
+      },
+      {
+        "romaji": "Nagaoka-gun Motoyama-cho",
+        "kanji": "長岡郡本山町"
+      },
+      {
+        "romaji": "Nagaoka-gun Otoyo-cho",
+        "kanji": "長岡郡大豊町"
+      },
+      {
+        "romaji": "Nankoku-shi",
+        "kanji": "南国市"
+      },
+      {
+        "romaji": "Shimanto-shi",
+        "kanji": "四万十市"
+      },
+      {
+        "romaji": "Sukumo-shi",
+        "kanji": "宿毛市"
+      },
+      {
+        "romaji": "Susaki-shi",
+        "kanji": "須崎市"
+      },
+      {
+        "romaji": "Takaoka-gun Hidaka-mura",
+        "kanji": "高岡郡日高村"
+      },
+      {
+        "romaji": "Takaoka-gun Nakatosa-cho",
+        "kanji": "高岡郡中土佐町"
+      },
+      {
+        "romaji": "Takaoka-gun Ochi-cho",
+        "kanji": "高岡郡越知町"
+      },
+      {
+        "romaji": "Takaoka-gun Sakawa-cho",
+        "kanji": "高岡郡佐川町"
+      },
+      {
+        "romaji": "Takaoka-gun Shimanto-cho",
+        "kanji": "高岡郡四万十町"
+      },
+      {
+        "romaji": "Takaoka-gun Tsuno-cho",
+        "kanji": "高岡郡津野町"
+      },
+      {
+        "romaji": "Takaoka-gun Yusuhara-cho",
+        "kanji": "高岡郡檮原町"
+      },
+      {
+        "romaji": "Tosa-gun Okawa-mura",
+        "kanji": "土佐郡大川村"
+      },
+      {
+        "romaji": "Tosa-gun Tosa-cho",
+        "kanji": "土佐郡土佐町"
+      },
+      {
+        "romaji": "Tosa-shi",
+        "kanji": "土佐市"
+      },
+      {
+        "romaji": "Tosashimizu-shi",
+        "kanji": "土佐清水市"
+      }
+    ]
+  },
+  "Kumamoto": {
+    "kanji": "熊本県",
+    "romaji": "Kumamoto",
+    "cities": [
+      {
+        "romaji": "Amakusa-gun Reihoku-machi",
+        "kanji": "天草郡苓北町"
+      },
+      {
+        "romaji": "Amakusa-shi",
+        "kanji": "天草市"
+      },
+      {
+        "romaji": "Arao-shi",
+        "kanji": "荒尾市"
+      },
+      {
+        "romaji": "Ashikita-gun Ashikita-machi",
+        "kanji": "葦北郡芦北町"
+      },
+      {
+        "romaji": "Ashikita-gun Tsunagi-machi",
+        "kanji": "葦北郡津奈木町"
+      },
+      {
+        "romaji": "Aso-gun Minamiaso-mura",
+        "kanji": "阿蘇郡南阿蘇村"
+      },
+      {
+        "romaji": "Aso-gun Minamioguni-machi",
+        "kanji": "阿蘇郡南小国町"
+      },
+      {
+        "romaji": "Aso-gun Nishihara-mura",
+        "kanji": "阿蘇郡西原村"
+      },
+      {
+        "romaji": "Aso-gun Oguni-machi",
+        "kanji": "阿蘇郡小国町"
+      },
+      {
+        "romaji": "Aso-gun Takamori-machi",
+        "kanji": "阿蘇郡高森町"
+      },
+      {
+        "romaji": "Aso-gun Ubuyama-mura",
+        "kanji": "阿蘇郡産山村"
+      },
+      {
+        "romaji": "Aso-shi",
+        "kanji": "阿蘇市"
+      },
+      {
+        "romaji": "Hitoyoshi-shi",
+        "kanji": "人吉市"
+      },
+      {
+        "romaji": "Kamiamakusa-shi",
+        "kanji": "上天草市"
+      },
+      {
+        "romaji": "Kamimashiki-gun Kashima-machi",
+        "kanji": "上益城郡嘉島町"
+      },
+      {
+        "romaji": "Kamimashiki-gun Kosa-machi",
+        "kanji": "上益城郡甲佐町"
+      },
+      {
+        "romaji": "Kamimashiki-gun Mashiki-machi",
+        "kanji": "上益城郡益城町"
+      },
+      {
+        "romaji": "Kamimashiki-gun Mifune-machi",
+        "kanji": "上益城郡御船町"
+      },
+      {
+        "romaji": "Kamimashiki-gun Yamato-cho",
+        "kanji": "上益城郡山都町"
+      },
+      {
+        "romaji": "Kikuchi-gun Kikuyo-machi",
+        "kanji": "菊池郡菊陽町"
+      },
+      {
+        "romaji": "Kikuchi-gun Ozu-machi",
+        "kanji": "菊池郡大津町"
+      },
+      {
+        "romaji": "Kikuchi-shi",
+        "kanji": "菊池市"
+      },
+      {
+        "romaji": "Koshi-shi",
+        "kanji": "合志市"
+      },
+      {
+        "romaji": "Kuma-gun Asagiri-cho",
+        "kanji": "球磨郡あさぎり町"
+      },
+      {
+        "romaji": "Kuma-gun Itsuki-mura",
+        "kanji": "球磨郡五木村"
+      },
+      {
+        "romaji": "Kuma-gun Kuma-mura",
+        "kanji": "球磨郡球磨村"
+      },
+      {
+        "romaji": "Kuma-gun Mizukami-mura",
+        "kanji": "球磨郡水上村"
+      },
+      {
+        "romaji": "Kuma-gun Nishiki-machi",
+        "kanji": "球磨郡錦町"
+      },
+      {
+        "romaji": "Kuma-gun Sagara-mura",
+        "kanji": "球磨郡相良村"
+      },
+      {
+        "romaji": "Kuma-gun Taragi-machi",
+        "kanji": "球磨郡多良木町"
+      },
+      {
+        "romaji": "Kuma-gun Yamae-mura",
+        "kanji": "球磨郡山江村"
+      },
+      {
+        "romaji": "Kumamoto-shi",
+        "kanji": "熊本市"
+      },
+      {
+        "romaji": "Kumamoto-shi Chuo-ku",
+        "kanji": "熊本市中央区"
+      },
+      {
+        "romaji": "Kumamoto-shi Higashi-ku",
+        "kanji": "熊本市東区"
+      },
+      {
+        "romaji": "Kumamoto-shi Kita-ku",
+        "kanji": "熊本市北区"
+      },
+      {
+        "romaji": "Kumamoto-shi Minami-ku",
+        "kanji": "熊本市南区"
+      },
+      {
+        "romaji": "Kumamoto-shi Nishi-ku",
+        "kanji": "熊本市西区"
+      },
+      {
+        "romaji": "Minamata-shi",
+        "kanji": "水俣市"
+      },
+      {
+        "romaji": "Shimomashiki-gun Misato-machi",
+        "kanji": "下益城郡美里町"
+      },
+      {
+        "romaji": "Tamana-gun Gyokuto-machi",
+        "kanji": "玉名郡玉東町"
+      },
+      {
+        "romaji": "Tamana-gun Nagasu-machi",
+        "kanji": "玉名郡長洲町"
+      },
+      {
+        "romaji": "Tamana-gun Nagomi-machi",
+        "kanji": "玉名郡和水町"
+      },
+      {
+        "romaji": "Tamana-gun Nankan-machi",
+        "kanji": "玉名郡南関町"
+      },
+      {
+        "romaji": "Tamana-shi",
+        "kanji": "玉名市"
+      },
+      {
+        "romaji": "Uki-shi",
+        "kanji": "宇城市"
+      },
+      {
+        "romaji": "Uto-shi",
+        "kanji": "宇土市"
+      },
+      {
+        "romaji": "Yamaga-shi",
+        "kanji": "山鹿市"
+      },
+      {
+        "romaji": "Yatsushiro-gun Hikawa-cho",
+        "kanji": "八代郡氷川町"
+      },
+      {
+        "romaji": "Yatsushiro-shi",
+        "kanji": "八代市"
+      }
+    ]
+  },
+  "Kyoto": {
+    "kanji": "京都府",
+    "romaji": "Kyoto",
+    "cities": [
+      {
+        "romaji": "Ayabe-shi",
+        "kanji": "綾部市"
+      },
+      {
+        "romaji": "Fukuchiyama-shi",
+        "kanji": "福知山市"
+      },
+      {
+        "romaji": "Funai-gun Kyotamba-cho",
+        "kanji": "船井郡京丹波町"
+      },
+      {
+        "romaji": "Joyo-shi",
+        "kanji": "城陽市"
+      },
+      {
+        "romaji": "Kameoka-shi",
+        "kanji": "亀岡市"
+      },
+      {
+        "romaji": "Kizugawa-shi",
+        "kanji": "木津川市"
+      },
+      {
+        "romaji": "Kuse-gun Kumiyama-cho",
+        "kanji": "久世郡久御山町"
+      },
+      {
+        "romaji": "Kyotanabe-shi",
+        "kanji": "京田辺市"
+      },
+      {
+        "romaji": "Kyotango-shi",
+        "kanji": "京丹後市"
+      },
+      {
+        "romaji": "Kyoto-shi",
+        "kanji": "京都市"
+      },
+      {
+        "romaji": "Kyoto-shi Fushimi-ku",
+        "kanji": "京都市伏見区"
+      },
+      {
+        "romaji": "Kyoto-shi Higashiyama-ku",
+        "kanji": "京都市東山区"
+      },
+      {
+        "romaji": "Kyoto-shi Kamigyo-ku",
+        "kanji": "京都市上京区"
+      },
+      {
+        "romaji": "Kyoto-shi Kita-ku",
+        "kanji": "京都市北区"
+      },
+      {
+        "romaji": "Kyoto-shi Minami-ku",
+        "kanji": "京都市南区"
+      },
+      {
+        "romaji": "Kyoto-shi Nakagyo-ku",
+        "kanji": "京都市中京区"
+      },
+      {
+        "romaji": "Kyoto-shi Nishikyo-ku",
+        "kanji": "京都市西京区"
+      },
+      {
+        "romaji": "Kyoto-shi Sakyo-ku",
+        "kanji": "京都市左京区"
+      },
+      {
+        "romaji": "Kyoto-shi Shimogyo-ku",
+        "kanji": "京都市下京区"
+      },
+      {
+        "romaji": "Kyoto-shi Ukyo-ku",
+        "kanji": "京都市右京区"
+      },
+      {
+        "romaji": "Kyoto-shi Yamashina-ku",
+        "kanji": "京都市山科区"
+      },
+      {
+        "romaji": "Maizuru-shi",
+        "kanji": "舞鶴市"
+      },
+      {
+        "romaji": "Miyazu-shi",
+        "kanji": "宮津市"
+      },
+      {
+        "romaji": "Muko-shi",
+        "kanji": "向日市"
+      },
+      {
+        "romaji": "Nagaokakyo-shi",
+        "kanji": "長岡京市"
+      },
+      {
+        "romaji": "Nantan-shi",
+        "kanji": "南丹市"
+      },
+      {
+        "romaji": "Otokuni-gun Oyamazaki-cho",
+        "kanji": "乙訓郡大山崎町"
+      },
+      {
+        "romaji": "Soraku-gun Kasagi-cho",
+        "kanji": "相楽郡笠置町"
+      },
+      {
+        "romaji": "Soraku-gun Minamiyamashiro-mura",
+        "kanji": "相楽郡南山城村"
+      },
+      {
+        "romaji": "Soraku-gun Seika-cho",
+        "kanji": "相楽郡精華町"
+      },
+      {
+        "romaji": "Soraku-gun Wazuka-cho",
+        "kanji": "相楽郡和束町"
+      },
+      {
+        "romaji": "Tsuzuki-gun Ide-cho",
+        "kanji": "綴喜郡井手町"
+      },
+      {
+        "romaji": "Tsuzuki-gun Ujitawara-cho",
+        "kanji": "綴喜郡宇治田原町"
+      },
+      {
+        "romaji": "Uji-shi",
+        "kanji": "宇治市"
+      },
+      {
+        "romaji": "Yawata-shi",
+        "kanji": "八幡市"
+      },
+      {
+        "romaji": "Yosa-gun Ine-cho",
+        "kanji": "与謝郡伊根町"
+      },
+      {
+        "romaji": "Yosa-gun Yosano-cho",
+        "kanji": "与謝郡与謝野町"
+      }
+    ]
+  },
+  "Mie": {
+    "kanji": "三重県",
+    "romaji": "Mie",
+    "cities": [
+      {
+        "romaji": "Iga-shi",
+        "kanji": "伊賀市"
+      },
+      {
+        "romaji": "Inabe-gun Toin-cho",
+        "kanji": "員弁郡東員町"
+      },
+      {
+        "romaji": "Inabe-shi",
+        "kanji": "いなべ市"
+      },
+      {
+        "romaji": "Ise-shi",
+        "kanji": "伊勢市"
+      },
+      {
+        "romaji": "Kameyama-shi",
+        "kanji": "亀山市"
+      },
+      {
+        "romaji": "Kitamuro-gun Kihoku-cho",
+        "kanji": "北牟婁郡紀北町"
+      },
+      {
+        "romaji": "Kumano-shi",
+        "kanji": "熊野市"
+      },
+      {
+        "romaji": "Kuwana-gun Kisosaki-cho",
+        "kanji": "桑名郡木曽岬町"
+      },
+      {
+        "romaji": "Kuwana-shi",
+        "kanji": "桑名市"
+      },
+      {
+        "romaji": "Matsusaka-shi",
+        "kanji": "松阪市"
+      },
+      {
+        "romaji": "Mie-gun Asahi-cho",
+        "kanji": "三重郡朝日町"
+      },
+      {
+        "romaji": "Mie-gun Kawagoe-cho",
+        "kanji": "三重郡川越町"
+      },
+      {
+        "romaji": "Mie-gun Komono-cho",
+        "kanji": "三重郡菰野町"
+      },
+      {
+        "romaji": "Minamimuro-gun Kiho-cho",
+        "kanji": "南牟婁郡紀宝町"
+      },
+      {
+        "romaji": "Minamimuro-gun Mihama-cho",
+        "kanji": "南牟婁郡御浜町"
+      },
+      {
+        "romaji": "Nabari-shi",
+        "kanji": "名張市"
+      },
+      {
+        "romaji": "Owase-shi",
+        "kanji": "尾鷲市"
+      },
+      {
+        "romaji": "Shima-shi",
+        "kanji": "志摩市"
+      },
+      {
+        "romaji": "Suzuka-shi",
+        "kanji": "鈴鹿市"
+      },
+      {
+        "romaji": "Taki-gun Meiwa-cho",
+        "kanji": "多気郡明和町"
+      },
+      {
+        "romaji": "Taki-gun Odai-cho",
+        "kanji": "多気郡大台町"
+      },
+      {
+        "romaji": "Taki-gun Taki-cho",
+        "kanji": "多気郡多気町"
+      },
+      {
+        "romaji": "Toba-shi",
+        "kanji": "鳥羽市"
+      },
+      {
+        "romaji": "Tsu-shi",
+        "kanji": "津市"
+      },
+      {
+        "romaji": "Watarai-gun Minamiise-cho",
+        "kanji": "度会郡南伊勢町"
+      },
+      {
+        "romaji": "Watarai-gun Taiki-cho",
+        "kanji": "度会郡大紀町"
+      },
+      {
+        "romaji": "Watarai-gun Tamaki-cho",
+        "kanji": "度会郡玉城町"
+      },
+      {
+        "romaji": "Watarai-gun Watarai-cho",
+        "kanji": "度会郡度会町"
+      },
+      {
+        "romaji": "Yokkaichi-shi",
+        "kanji": "四日市市"
+      }
+    ]
+  },
+  "Miyagi": {
+    "kanji": "宮城県",
+    "romaji": "Miyagi",
+    "cities": [
+      {
+        "romaji": "Higashimatsushima-shi",
+        "kanji": "東松島市"
+      },
+      {
+        "romaji": "Igu-gun Marumori-machi",
+        "kanji": "伊具郡丸森町"
+      },
+      {
+        "romaji": "Ishinomaki-shi",
+        "kanji": "石巻市"
+      },
+      {
+        "romaji": "Iwanuma-shi",
+        "kanji": "岩沼市"
+      },
+      {
+        "romaji": "Kakuda-shi",
+        "kanji": "角田市"
+      },
+      {
+        "romaji": "Kami-gun Kami-machi",
+        "kanji": "加美郡加美町"
+      },
+      {
+        "romaji": "Kami-gun Shikama-cho",
+        "kanji": "加美郡色麻町"
+      },
+      {
+        "romaji": "Katta-gun Shichikashuku-machi",
+        "kanji": "刈田郡七ヶ宿町"
+      },
+      {
+        "romaji": "Katta-gun Zao-machi",
+        "kanji": "刈田郡蔵王町"
+      },
+      {
+        "romaji": "Kesennuma-shi",
+        "kanji": "気仙沼市"
+      },
+      {
+        "romaji": "Kurihara-shi",
+        "kanji": "栗原市"
+      },
+      {
+        "romaji": "Kurokawa-gun Ohira-mura",
+        "kanji": "黒川郡大衡村"
+      },
+      {
+        "romaji": "Kurokawa-gun Osato-cho",
+        "kanji": "黒川郡大郷町"
+      },
+      {
+        "romaji": "Kurokawa-gun Taiwa-cho",
+        "kanji": "黒川郡大和町"
+      },
+      {
+        "romaji": "Miyagi-gun Matsushima-machi",
+        "kanji": "宮城郡松島町"
+      },
+      {
+        "romaji": "Miyagi-gun Rifu-cho",
+        "kanji": "宮城郡利府町"
+      },
+      {
+        "romaji": "Miyagi-gun Shichigahama-machi",
+        "kanji": "宮城郡七ヶ浜町"
+      },
+      {
+        "romaji": "Motoyoshi-gun Minamisanriku-cho",
+        "kanji": "本吉郡南三陸町"
+      },
+      {
+        "romaji": "Natori-shi",
+        "kanji": "名取市"
+      },
+      {
+        "romaji": "Osaki-shi",
+        "kanji": "大崎市"
+      },
+      {
+        "romaji": "Oshika-gun Onagawa-cho",
+        "kanji": "牡鹿郡女川町"
+      },
+      {
+        "romaji": "Sendai-shi",
+        "kanji": "仙台市"
+      },
+      {
+        "romaji": "Sendai-shi Aoba-ku",
+        "kanji": "仙台市青葉区"
+      },
+      {
+        "romaji": "Sendai-shi Izumi-ku",
+        "kanji": "仙台市泉区"
+      },
+      {
+        "romaji": "Sendai-shi Miyagino-ku",
+        "kanji": "仙台市宮城野区"
+      },
+      {
+        "romaji": "Sendai-shi Taihaku-ku",
+        "kanji": "仙台市太白区"
+      },
+      {
+        "romaji": "Sendai-shi Wakabayashi-ku",
+        "kanji": "仙台市若林区"
+      },
+      {
+        "romaji": "Shibata-gun Kawasaki-machi",
+        "kanji": "柴田郡川崎町"
+      },
+      {
+        "romaji": "Shibata-gun Murata-machi",
+        "kanji": "柴田郡村田町"
+      },
+      {
+        "romaji": "Shibata-gun Ogawara-machi",
+        "kanji": "柴田郡大河原町"
+      },
+      {
+        "romaji": "Shibata-gun Shibata-machi",
+        "kanji": "柴田郡柴田町"
+      },
+      {
+        "romaji": "Shiogama-shi",
+        "kanji": "塩竈市"
+      },
+      {
+        "romaji": "Shiroishi-shi",
+        "kanji": "白石市"
+      },
+      {
+        "romaji": "Tagajo-shi",
+        "kanji": "多賀城市"
+      },
+      {
+        "romaji": "Toda-gun Misato-machi",
+        "kanji": "遠田郡美里町"
+      },
+      {
+        "romaji": "Toda-gun Wakuya-cho",
+        "kanji": "遠田郡涌谷町"
+      },
+      {
+        "romaji": "Tome-shi",
+        "kanji": "登米市"
+      },
+      {
+        "romaji": "Tomiya-shi",
+        "kanji": "富谷市"
+      },
+      {
+        "romaji": "Watari-gun Watari-cho",
+        "kanji": "亘理郡亘理町"
+      },
+      {
+        "romaji": "Watari-gun Yamamoto-cho",
+        "kanji": "亘理郡山元町"
+      }
+    ]
+  },
+  "Miyazaki": {
+    "kanji": "宮崎県",
+    "romaji": "Miyazaki",
+    "cities": [
+      {
+        "romaji": "Ebino-shi",
+        "kanji": "えびの市"
+      },
+      {
+        "romaji": "Higashimorokata-gun Aya-cho",
+        "kanji": "東諸県郡綾町"
+      },
+      {
+        "romaji": "Higashimorokata-gun Kunitomi-cho",
+        "kanji": "東諸県郡国富町"
+      },
+      {
+        "romaji": "Higashiusuki-gun Kadogawa-cho",
+        "kanji": "東臼杵郡門川町"
+      },
+      {
+        "romaji": "Higashiusuki-gun Misato-cho",
+        "kanji": "東臼杵郡美郷町"
+      },
+      {
+        "romaji": "Higashiusuki-gun Morotsuka-son",
+        "kanji": "東臼杵郡諸塚村"
+      },
+      {
+        "romaji": "Higashiusuki-gun Shiiba-son",
+        "kanji": "東臼杵郡椎葉村"
+      },
+      {
+        "romaji": "Hyuga-shi",
+        "kanji": "日向市"
+      },
+      {
+        "romaji": "Kitamorokata-gun Mimata-cho",
+        "kanji": "北諸県郡三股町"
+      },
+      {
+        "romaji": "Kobayashi-shi",
+        "kanji": "小林市"
+      },
+      {
+        "romaji": "Koyu-gun Kawaminami-cho",
+        "kanji": "児湯郡川南町"
+      },
+      {
+        "romaji": "Koyu-gun Kijo-cho",
+        "kanji": "児湯郡木城町"
+      },
+      {
+        "romaji": "Koyu-gun Nishimera-son",
+        "kanji": "児湯郡西米良村"
+      },
+      {
+        "romaji": "Koyu-gun Shintomi-cho",
+        "kanji": "児湯郡新富町"
+      },
+      {
+        "romaji": "Koyu-gun Takanabe-cho",
+        "kanji": "児湯郡高鍋町"
+      },
+      {
+        "romaji": "Koyu-gun Tsuno-cho",
+        "kanji": "児湯郡都農町"
+      },
+      {
+        "romaji": "Kushima-shi",
+        "kanji": "串間市"
+      },
+      {
+        "romaji": "Miyakonojo-shi",
+        "kanji": "都城市"
+      },
+      {
+        "romaji": "Miyazaki-shi",
+        "kanji": "宮崎市"
+      },
+      {
+        "romaji": "Nichinan-shi",
+        "kanji": "日南市"
+      },
+      {
+        "romaji": "Nishimorokata-gun Takaharu-cho",
+        "kanji": "西諸県郡高原町"
+      },
+      {
+        "romaji": "Nishiusuki-gun Gokase-cho",
+        "kanji": "西臼杵郡五ヶ瀬町"
+      },
+      {
+        "romaji": "Nishiusuki-gun Hinokage-cho",
+        "kanji": "西臼杵郡日之影町"
+      },
+      {
+        "romaji": "Nishiusuki-gun Takachiho-cho",
+        "kanji": "西臼杵郡高千穂町"
+      },
+      {
+        "romaji": "Nobeoka-shi",
+        "kanji": "延岡市"
+      },
+      {
+        "romaji": "Saito-shi",
+        "kanji": "西都市"
+      }
+    ]
+  },
+  "Nagano": {
+    "kanji": "長野県",
+    "romaji": "Nagano",
+    "cities": [
+      {
+        "romaji": "Azumino-shi",
+        "kanji": "安曇野市"
+      },
+      {
+        "romaji": "Chiisagata-gun Aoki-mura",
+        "kanji": "小県郡青木村"
+      },
+      {
+        "romaji": "Chiisagata-gun Nagawa-machi",
+        "kanji": "小県郡長和町"
+      },
+      {
+        "romaji": "Chikuma-shi",
+        "kanji": "千曲市"
+      },
+      {
+        "romaji": "Chino-shi",
+        "kanji": "茅野市"
+      },
+      {
+        "romaji": "Hanishina-gun Sakaki-machi",
+        "kanji": "埴科郡坂城町"
+      },
+      {
+        "romaji": "Higashichikuma-gun Asahi-mura",
+        "kanji": "東筑摩郡朝日村"
+      },
+      {
+        "romaji": "Higashichikuma-gun Chikuhoku-mura",
+        "kanji": "東筑摩郡筑北村"
+      },
+      {
+        "romaji": "Higashichikuma-gun Ikusaka-mura",
+        "kanji": "東筑摩郡生坂村"
+      },
+      {
+        "romaji": "Higashichikuma-gun Omi-mura",
+        "kanji": "東筑摩郡麻績村"
+      },
+      {
+        "romaji": "Higashichikuma-gun Yamagata-mura",
+        "kanji": "東筑摩郡山形村"
+      },
+      {
+        "romaji": "Iida-shi",
+        "kanji": "飯田市"
+      },
+      {
+        "romaji": "Iiyama-shi",
+        "kanji": "飯山市"
+      },
+      {
+        "romaji": "Ina-shi",
+        "kanji": "伊那市"
+      },
+      {
+        "romaji": "Kamiina-gun Iijima-machi",
+        "kanji": "上伊那郡飯島町"
+      },
+      {
+        "romaji": "Kamiina-gun Minamiminowa-mura",
+        "kanji": "上伊那郡南箕輪村"
+      },
+      {
+        "romaji": "Kamiina-gun Minowa-machi",
+        "kanji": "上伊那郡箕輪町"
+      },
+      {
+        "romaji": "Kamiina-gun Miyada-mura",
+        "kanji": "上伊那郡宮田村"
+      },
+      {
+        "romaji": "Kamiina-gun Nakagawa-mura",
+        "kanji": "上伊那郡中川村"
+      },
+      {
+        "romaji": "Kamiina-gun Tatsuno-machi",
+        "kanji": "上伊那郡辰野町"
+      },
+      {
+        "romaji": "Kamiminochi-gun Iizuna-machi",
+        "kanji": "上水内郡飯綱町"
+      },
+      {
+        "romaji": "Kamiminochi-gun Ogawa-mura",
+        "kanji": "上水内郡小川村"
+      },
+      {
+        "romaji": "Kamiminochi-gun Shinano-machi",
+        "kanji": "上水内郡信濃町"
+      },
+      {
+        "romaji": "Kamitakai-gun Obuse-machi",
+        "kanji": "上高井郡小布施町"
+      },
+      {
+        "romaji": "Kamitakai-gun Takayama-mura",
+        "kanji": "上高井郡高山村"
+      },
+      {
+        "romaji": "Kiso-gun Agematsu-machi",
+        "kanji": "木曽郡上松町"
+      },
+      {
+        "romaji": "Kiso-gun Kiso-machi",
+        "kanji": "木曽郡木曽町"
+      },
+      {
+        "romaji": "Kiso-gun Kiso-mura",
+        "kanji": "木曽郡木祖村"
+      },
+      {
+        "romaji": "Kiso-gun Nagiso-machi",
+        "kanji": "木曽郡南木曽町"
+      },
+      {
+        "romaji": "Kiso-gun Okuwa-mura",
+        "kanji": "木曽郡大桑村"
+      },
+      {
+        "romaji": "Kiso-gun Otaki-mura",
+        "kanji": "木曽郡王滝村"
+      },
+      {
+        "romaji": "Kitaazumi-gun Hakuba-mura",
+        "kanji": "北安曇郡白馬村"
+      },
+      {
+        "romaji": "Kitaazumi-gun Ikeda-machi",
+        "kanji": "北安曇郡池田町"
+      },
+      {
+        "romaji": "Kitaazumi-gun Matsukawa-mura",
+        "kanji": "北安曇郡松川村"
+      },
+      {
+        "romaji": "Kitaazumi-gun Otari-mura",
+        "kanji": "北安曇郡小谷村"
+      },
+      {
+        "romaji": "Kitasaku-gun Karuizawa-machi",
+        "kanji": "北佐久郡軽井沢町"
+      },
+      {
+        "romaji": "Kitasaku-gun Miyota-machi",
+        "kanji": "北佐久郡御代田町"
+      },
+      {
+        "romaji": "Kitasaku-gun Tateshina-machi",
+        "kanji": "北佐久郡立科町"
+      },
+      {
+        "romaji": "Komagane-shi",
+        "kanji": "駒ヶ根市"
+      },
+      {
+        "romaji": "Komoro-shi",
+        "kanji": "小諸市"
+      },
+      {
+        "romaji": "Matsumoto-shi",
+        "kanji": "松本市"
+      },
+      {
+        "romaji": "Minamisaku-gun Kawakami-mura",
+        "kanji": "南佐久郡川上村"
+      },
+      {
+        "romaji": "Minamisaku-gun Kitaaiki-mura",
+        "kanji": "南佐久郡北相木村"
+      },
+      {
+        "romaji": "Minamisaku-gun Komi-machi",
+        "kanji": "南佐久郡小海町"
+      },
+      {
+        "romaji": "Minamisaku-gun Minamiaiki-mura",
+        "kanji": "南佐久郡南相木村"
+      },
+      {
+        "romaji": "Minamisaku-gun Minamimaki-mura",
+        "kanji": "南佐久郡南牧村"
+      },
+      {
+        "romaji": "Minamisaku-gun Sakuho-machi",
+        "kanji": "南佐久郡佐久穂町"
+      },
+      {
+        "romaji": "Nagano-shi",
+        "kanji": "長野市"
+      },
+      {
+        "romaji": "Nakano-shi",
+        "kanji": "中野市"
+      },
+      {
+        "romaji": "Okaya-shi",
+        "kanji": "岡谷市"
+      },
+      {
+        "romaji": "Omachi-shi",
+        "kanji": "大町市"
+      },
+      {
+        "romaji": "Saku-shi",
+        "kanji": "佐久市"
+      },
+      {
+        "romaji": "Shimoina-gun Achi-mura",
+        "kanji": "下伊那郡阿智村"
+      },
+      {
+        "romaji": "Shimoina-gun Anan-cho",
+        "kanji": "下伊那郡阿南町"
+      },
+      {
+        "romaji": "Shimoina-gun Hiraya-mura",
+        "kanji": "下伊那郡平谷村"
+      },
+      {
+        "romaji": "Shimoina-gun Matsukawa-machi",
+        "kanji": "下伊那郡松川町"
+      },
+      {
+        "romaji": "Shimoina-gun Neba-mura",
+        "kanji": "下伊那郡根羽村"
+      },
+      {
+        "romaji": "Shimoina-gun Oshika-mura",
+        "kanji": "下伊那郡大鹿村"
+      },
+      {
+        "romaji": "Shimoina-gun Shimojo-mura",
+        "kanji": "下伊那郡下條村"
+      },
+      {
+        "romaji": "Shimoina-gun Takagi-mura",
+        "kanji": "下伊那郡喬木村"
+      },
+      {
+        "romaji": "Shimoina-gun Takamori-machi",
+        "kanji": "下伊那郡高森町"
+      },
+      {
+        "romaji": "Shimoina-gun Tenryu-mura",
+        "kanji": "下伊那郡天龍村"
+      },
+      {
+        "romaji": "Shimoina-gun Toyoka-mura",
+        "kanji": "下伊那郡豊丘村"
+      },
+      {
+        "romaji": "Shimoina-gun Urugi-mura",
+        "kanji": "下伊那郡売木村"
+      },
+      {
+        "romaji": "Shimoina-gun Yasuoka-mura",
+        "kanji": "下伊那郡泰阜村"
+      },
+      {
+        "romaji": "Shimominochi-gun Sakae-mura",
+        "kanji": "下水内郡栄村"
+      },
+      {
+        "romaji": "Shimotakai-gun Kijimadaira-mura",
+        "kanji": "下高井郡木島平村"
+      },
+      {
+        "romaji": "Shimotakai-gun Nozawaonsen-mura",
+        "kanji": "下高井郡野沢温泉村"
+      },
+      {
+        "romaji": "Shimotakai-gun Yamanochi-machi",
+        "kanji": "下高井郡山ノ内町"
+      },
+      {
+        "romaji": "Shiojiri-shi",
+        "kanji": "塩尻市"
+      },
+      {
+        "romaji": "Suwa-gun Fujimi-machi",
+        "kanji": "諏訪郡富士見町"
+      },
+      {
+        "romaji": "Suwa-gun Hara-mura",
+        "kanji": "諏訪郡原村"
+      },
+      {
+        "romaji": "Suwa-gun Shimosuwa-machi",
+        "kanji": "諏訪郡下諏訪町"
+      },
+      {
+        "romaji": "Suwa-shi",
+        "kanji": "諏訪市"
+      },
+      {
+        "romaji": "Suzaka-shi",
+        "kanji": "須坂市"
+      },
+      {
+        "romaji": "Tomi-shi",
+        "kanji": "東御市"
+      },
+      {
+        "romaji": "Ueda-shi",
+        "kanji": "上田市"
+      }
+    ]
+  },
+  "Nagasaki": {
+    "kanji": "長崎県",
+    "romaji": "Nagasaki",
+    "cities": [
+      {
+        "romaji": "Goto-shi",
+        "kanji": "五島市"
+      },
+      {
+        "romaji": "Higashisonogi-gun Hasami-cho",
+        "kanji": "東彼杵郡波佐見町"
+      },
+      {
+        "romaji": "Higashisonogi-gun Higashisonogi-cho",
+        "kanji": "東彼杵郡東彼杵町"
+      },
+      {
+        "romaji": "Higashisonogi-gun Kawatana-cho",
+        "kanji": "東彼杵郡川棚町"
+      },
+      {
+        "romaji": "Hirado-shi",
+        "kanji": "平戸市"
+      },
+      {
+        "romaji": "Iki-shi",
+        "kanji": "壱岐市"
+      },
+      {
+        "romaji": "Isahaya-shi",
+        "kanji": "諫早市"
+      },
+      {
+        "romaji": "Kitamatsura-gun Ojika-cho",
+        "kanji": "北松浦郡小値賀町"
+      },
+      {
+        "romaji": "Kitamatsura-gun Saza-cho",
+        "kanji": "北松浦郡佐々町"
+      },
+      {
+        "romaji": "Matsura-shi",
+        "kanji": "松浦市"
+      },
+      {
+        "romaji": "Minamimatsura-gun Shinkamigoto-cho",
+        "kanji": "南松浦郡新上五島町"
+      },
+      {
+        "romaji": "Minamishimabara-shi",
+        "kanji": "南島原市"
+      },
+      {
+        "romaji": "Nagasaki-shi",
+        "kanji": "長崎市"
+      },
+      {
+        "romaji": "Nishisonogi-gun Nagayo-cho",
+        "kanji": "西彼杵郡長与町"
+      },
+      {
+        "romaji": "Nishisonogi-gun Togitsu-cho",
+        "kanji": "西彼杵郡時津町"
+      },
+      {
+        "romaji": "Omura-shi",
+        "kanji": "大村市"
+      },
+      {
+        "romaji": "Saikai-shi",
+        "kanji": "西海市"
+      },
+      {
+        "romaji": "Sasebo-shi",
+        "kanji": "佐世保市"
+      },
+      {
+        "romaji": "Shimabara-shi",
+        "kanji": "島原市"
+      },
+      {
+        "romaji": "Tsushima-shi",
+        "kanji": "対馬市"
+      },
+      {
+        "romaji": "Unzen-shi",
+        "kanji": "雲仙市"
+      }
+    ]
+  },
+  "Nara": {
+    "kanji": "奈良県",
+    "romaji": "Nara",
+    "cities": [
+      {
+        "romaji": "Gojo-shi",
+        "kanji": "五條市"
+      },
+      {
+        "romaji": "Gose-shi",
+        "kanji": "御所市"
+      },
+      {
+        "romaji": "Ikoma-gun Ando-cho",
+        "kanji": "生駒郡安堵町"
+      },
+      {
+        "romaji": "Ikoma-gun Heguri-cho",
+        "kanji": "生駒郡平群町"
+      },
+      {
+        "romaji": "Ikoma-gun Ikaruga-cho",
+        "kanji": "生駒郡斑鳩町"
+      },
+      {
+        "romaji": "Ikoma-gun Sango-cho",
+        "kanji": "生駒郡三郷町"
+      },
+      {
+        "romaji": "Ikoma-shi",
+        "kanji": "生駒市"
+      },
+      {
+        "romaji": "Kashiba-shi",
+        "kanji": "香芝市"
+      },
+      {
+        "romaji": "Kashihara-shi",
+        "kanji": "橿原市"
+      },
+      {
+        "romaji": "Katsuragi-shi",
+        "kanji": "葛城市"
+      },
+      {
+        "romaji": "Kitakatsuragi-gun Kammaki-cho",
+        "kanji": "北葛城郡上牧町"
+      },
+      {
+        "romaji": "Kitakatsuragi-gun Kawai-cho",
+        "kanji": "北葛城郡河合町"
+      },
+      {
+        "romaji": "Kitakatsuragi-gun Koryo-cho",
+        "kanji": "北葛城郡広陵町"
+      },
+      {
+        "romaji": "Kitakatsuragi-gun Oji-cho",
+        "kanji": "北葛城郡王寺町"
+      },
+      {
+        "romaji": "Nara-shi",
+        "kanji": "奈良市"
+      },
+      {
+        "romaji": "Sakurai-shi",
+        "kanji": "桜井市"
+      },
+      {
+        "romaji": "Shiki-gun Kawanishi-cho",
+        "kanji": "磯城郡川西町"
+      },
+      {
+        "romaji": "Shiki-gun Miyake-cho",
+        "kanji": "磯城郡三宅町"
+      },
+      {
+        "romaji": "Shiki-gun Tawaramoto-cho",
+        "kanji": "磯城郡田原本町"
+      },
+      {
+        "romaji": "Takaichi-gun Asuka-mura",
+        "kanji": "高市郡明日香村"
+      },
+      {
+        "romaji": "Takaichi-gun Takatori-cho",
+        "kanji": "高市郡高取町"
+      },
+      {
+        "romaji": "Tenri-shi",
+        "kanji": "天理市"
+      },
+      {
+        "romaji": "Uda-gun Mitsue-mura",
+        "kanji": "宇陀郡御杖村"
+      },
+      {
+        "romaji": "Uda-gun Soni-mura",
+        "kanji": "宇陀郡曽爾村"
+      },
+      {
+        "romaji": "Uda-shi",
+        "kanji": "宇陀市"
+      },
+      {
+        "romaji": "Yamabe-gun Yamazoe-mura",
+        "kanji": "山辺郡山添村"
+      },
+      {
+        "romaji": "Yamatokoriyama-shi",
+        "kanji": "大和郡山市"
+      },
+      {
+        "romaji": "Yamatotakada-shi",
+        "kanji": "大和高田市"
+      },
+      {
+        "romaji": "Yoshino-gun Higashiyoshino-mura",
+        "kanji": "吉野郡東吉野村"
+      },
+      {
+        "romaji": "Yoshino-gun Kamikitayama-mura",
+        "kanji": "吉野郡上北山村"
+      },
+      {
+        "romaji": "Yoshino-gun Kawakami-mura",
+        "kanji": "吉野郡川上村"
+      },
+      {
+        "romaji": "Yoshino-gun Kurotaki-mura",
+        "kanji": "吉野郡黒滝村"
+      },
+      {
+        "romaji": "Yoshino-gun Nosegawa-mura",
+        "kanji": "吉野郡野迫川村"
+      },
+      {
+        "romaji": "Yoshino-gun Oyodo-cho",
+        "kanji": "吉野郡大淀町"
+      },
+      {
+        "romaji": "Yoshino-gun Shimoichi-cho",
+        "kanji": "吉野郡下市町"
+      },
+      {
+        "romaji": "Yoshino-gun Shimokitayama-mura",
+        "kanji": "吉野郡下北山村"
+      },
+      {
+        "romaji": "Yoshino-gun Tenkawa-mura",
+        "kanji": "吉野郡天川村"
+      },
+      {
+        "romaji": "Yoshino-gun Totsukawa-mura",
+        "kanji": "吉野郡十津川村"
+      },
+      {
+        "romaji": "Yoshino-gun Yoshino-cho",
+        "kanji": "吉野郡吉野町"
+      }
+    ]
+  },
+  "Niigata": {
+    "kanji": "新潟県",
+    "romaji": "Niigata",
+    "cities": [
+      {
+        "romaji": "Agano-shi",
+        "kanji": "阿賀野市"
+      },
+      {
+        "romaji": "Gosen-shi",
+        "kanji": "五泉市"
+      },
+      {
+        "romaji": "Higashikambara-gun Aga-machi",
+        "kanji": "東蒲原郡阿賀町"
+      },
+      {
+        "romaji": "Itoigawa-shi",
+        "kanji": "糸魚川市"
+      },
+      {
+        "romaji": "Iwafune-gun Awashimaura-mura",
+        "kanji": "岩船郡粟島浦村"
+      },
+      {
+        "romaji": "Iwafune-gun Sekikawa-mura",
+        "kanji": "岩船郡関川村"
+      },
+      {
+        "romaji": "Joetsu-shi",
+        "kanji": "上越市"
+      },
+      {
+        "romaji": "Kamo-shi",
+        "kanji": "加茂市"
+      },
+      {
+        "romaji": "Kariwa-gun Kariwa-mura",
+        "kanji": "刈羽郡刈羽村"
+      },
+      {
+        "romaji": "Kashiwazaki-shi",
+        "kanji": "柏崎市"
+      },
+      {
+        "romaji": "Kitakambara-gun Seiro-machi",
+        "kanji": "北蒲原郡聖籠町"
+      },
+      {
+        "romaji": "Minamikambara-gun Tagami-machi",
+        "kanji": "南蒲原郡田上町"
+      },
+      {
+        "romaji": "Minamiuonuma-gun Yuzawa-machi",
+        "kanji": "南魚沼郡湯沢町"
+      },
+      {
+        "romaji": "Minamiuonuma-shi",
+        "kanji": "南魚沼市"
+      },
+      {
+        "romaji": "Mitsuke-shi",
+        "kanji": "見附市"
+      },
+      {
+        "romaji": "Murakami-shi",
+        "kanji": "村上市"
+      },
+      {
+        "romaji": "Myoko-shi",
+        "kanji": "妙高市"
+      },
+      {
+        "romaji": "Nagaoka-shi",
+        "kanji": "長岡市"
+      },
+      {
+        "romaji": "Nakauonuma-gun Tsunan-machi",
+        "kanji": "中魚沼郡津南町"
+      },
+      {
+        "romaji": "Niigata-shi",
+        "kanji": "新潟市"
+      },
+      {
+        "romaji": "Niigata-shi Akiha-ku",
+        "kanji": "新潟市秋葉区"
+      },
+      {
+        "romaji": "Niigata-shi Chuo-ku",
+        "kanji": "新潟市中央区"
+      },
+      {
+        "romaji": "Niigata-shi Higashi-ku",
+        "kanji": "新潟市東区"
+      },
+      {
+        "romaji": "Niigata-shi Kita-ku",
+        "kanji": "新潟市北区"
+      },
+      {
+        "romaji": "Niigata-shi Konan-ku",
+        "kanji": "新潟市江南区"
+      },
+      {
+        "romaji": "Niigata-shi Minami-ku",
+        "kanji": "新潟市南区"
+      },
+      {
+        "romaji": "Niigata-shi Nishi-ku",
+        "kanji": "新潟市西区"
+      },
+      {
+        "romaji": "Niigata-shi Nishikan-ku",
+        "kanji": "新潟市西蒲区"
+      },
+      {
+        "romaji": "Nishikambara-gun Yahiko-mura",
+        "kanji": "西蒲原郡弥彦村"
+      },
+      {
+        "romaji": "Ojiya-shi",
+        "kanji": "小千谷市"
+      },
+      {
+        "romaji": "Sado-shi",
+        "kanji": "佐渡市"
+      },
+      {
+        "romaji": "Sanjo-shi",
+        "kanji": "三条市"
+      },
+      {
+        "romaji": "Santo-gun Izumozaki-machi",
+        "kanji": "三島郡出雲崎町"
+      },
+      {
+        "romaji": "Shibata-shi",
+        "kanji": "新発田市"
+      },
+      {
+        "romaji": "Tainai-shi",
+        "kanji": "胎内市"
+      },
+      {
+        "romaji": "Tokamachi-shi",
+        "kanji": "十日町市"
+      },
+      {
+        "romaji": "Tsubame-shi",
+        "kanji": "燕市"
+      },
+      {
+        "romaji": "Uonuma-shi",
+        "kanji": "魚沼市"
+      }
+    ]
+  },
+  "Oita": {
+    "kanji": "大分県",
+    "romaji": "Oita",
+    "cities": [
+      {
+        "romaji": "Beppu-shi",
+        "kanji": "別府市"
+      },
+      {
+        "romaji": "Bungoono-shi",
+        "kanji": "豊後大野市"
+      },
+      {
+        "romaji": "Bungotakada-shi",
+        "kanji": "豊後高田市"
+      },
+      {
+        "romaji": "Hayami-gun Hiji-machi",
+        "kanji": "速見郡日出町"
+      },
+      {
+        "romaji": "Higashikunisaki-gun Himeshima-mura",
+        "kanji": "東国東郡姫島村"
+      },
+      {
+        "romaji": "Hita-shi",
+        "kanji": "日田市"
+      },
+      {
+        "romaji": "Kitsuki-shi",
+        "kanji": "杵築市"
+      },
+      {
+        "romaji": "Kunisaki-shi",
+        "kanji": "国東市"
+      },
+      {
+        "romaji": "Kusu-gun Kokonoe-machi",
+        "kanji": "玖珠郡九重町"
+      },
+      {
+        "romaji": "Kusu-gun Kusu-machi",
+        "kanji": "玖珠郡玖珠町"
+      },
+      {
+        "romaji": "Nakatsu-shi",
+        "kanji": "中津市"
+      },
+      {
+        "romaji": "Oita-shi",
+        "kanji": "大分市"
+      },
+      {
+        "romaji": "Saiki-shi",
+        "kanji": "佐伯市"
+      },
+      {
+        "romaji": "Taketa-shi",
+        "kanji": "竹田市"
+      },
+      {
+        "romaji": "Tsukumi-shi",
+        "kanji": "津久見市"
+      },
+      {
+        "romaji": "Usa-shi",
+        "kanji": "宇佐市"
+      },
+      {
+        "romaji": "Usuki-shi",
+        "kanji": "臼杵市"
+      },
+      {
+        "romaji": "Yufu-shi",
+        "kanji": "由布市"
+      }
+    ]
+  },
+  "Okayama": {
+    "kanji": "岡山県",
+    "romaji": "Okayama",
+    "cities": [
+      {
+        "romaji": "Aida-gun Nishiawakura-son",
+        "kanji": "英田郡西粟倉村"
+      },
+      {
+        "romaji": "Akaiwa-shi",
+        "kanji": "赤磐市"
+      },
+      {
+        "romaji": "Asakuchi-gun Satosho-cho",
+        "kanji": "浅口郡里庄町"
+      },
+      {
+        "romaji": "Asakuchi-shi",
+        "kanji": "浅口市"
+      },
+      {
+        "romaji": "Bizen-shi",
+        "kanji": "備前市"
+      },
+      {
+        "romaji": "Ibara-shi",
+        "kanji": "井原市"
+      },
+      {
+        "romaji": "Kaga-gun Kibichuo-cho",
+        "kanji": "加賀郡吉備中央町"
+      },
+      {
+        "romaji": "Kasaoka-shi",
+        "kanji": "笠岡市"
+      },
+      {
+        "romaji": "Katsuta-gun Nagi-cho",
+        "kanji": "勝田郡奈義町"
+      },
+      {
+        "romaji": "Katsuta-gun Shoo-cho",
+        "kanji": "勝田郡勝央町"
+      },
+      {
+        "romaji": "Kume-gun Kumenan-cho",
+        "kanji": "久米郡久米南町"
+      },
+      {
+        "romaji": "Kume-gun Misaki-cho",
+        "kanji": "久米郡美咲町"
+      },
+      {
+        "romaji": "Kurashiki-shi",
+        "kanji": "倉敷市"
+      },
+      {
+        "romaji": "Maniwa-gun Shinjo-son",
+        "kanji": "真庭郡新庄村"
+      },
+      {
+        "romaji": "Maniwa-shi",
+        "kanji": "真庭市"
+      },
+      {
+        "romaji": "Mimasaka-shi",
+        "kanji": "美作市"
+      },
+      {
+        "romaji": "Niimi-shi",
+        "kanji": "新見市"
+      },
+      {
+        "romaji": "Oda-gun Yakage-cho",
+        "kanji": "小田郡矢掛町"
+      },
+      {
+        "romaji": "Okayama-shi",
+        "kanji": "岡山市"
+      },
+      {
+        "romaji": "Okayama-shi Higashi-ku",
+        "kanji": "岡山市東区"
+      },
+      {
+        "romaji": "Okayama-shi Kita-ku",
+        "kanji": "岡山市北区"
+      },
+      {
+        "romaji": "Okayama-shi Minami-ku",
+        "kanji": "岡山市南区"
+      },
+      {
+        "romaji": "Okayama-shi Naka-ku",
+        "kanji": "岡山市中区"
+      },
+      {
+        "romaji": "Setochi-shi",
+        "kanji": "瀬戸内市"
+      },
+      {
+        "romaji": "Soja-shi",
+        "kanji": "総社市"
+      },
+      {
+        "romaji": "Takahashi-shi",
+        "kanji": "高梁市"
+      },
+      {
+        "romaji": "Tamano-shi",
+        "kanji": "玉野市"
+      },
+      {
+        "romaji": "Tomata-gun Kagamino-cho",
+        "kanji": "苫田郡鏡野町"
+      },
+      {
+        "romaji": "Tsukubo-gun Hayashima-cho",
+        "kanji": "都窪郡早島町"
+      },
+      {
+        "romaji": "Tsuyama-shi",
+        "kanji": "津山市"
+      },
+      {
+        "romaji": "Wake-gun Wake-cho",
+        "kanji": "和気郡和気町"
+      }
+    ]
+  },
+  "Okinawa": {
+    "kanji": "沖縄県",
+    "romaji": "Okinawa",
+    "cities": [
+      {
+        "romaji": "Ginowan-shi",
+        "kanji": "宜野湾市"
+      },
+      {
+        "romaji": "Ishigaki-shi",
+        "kanji": "石垣市"
+      },
+      {
+        "romaji": "Itoman-shi",
+        "kanji": "糸満市"
+      },
+      {
+        "romaji": "Kunigami-gun Ginoza-son",
+        "kanji": "国頭郡宜野座村"
+      },
+      {
+        "romaji": "Kunigami-gun Higashi-son",
+        "kanji": "国頭郡東村"
+      },
+      {
+        "romaji": "Kunigami-gun Ie-son",
+        "kanji": "国頭郡伊江村"
+      },
+      {
+        "romaji": "Kunigami-gun Kin-cho",
+        "kanji": "国頭郡金武町"
+      },
+      {
+        "romaji": "Kunigami-gun Kunigami-son",
+        "kanji": "国頭郡国頭村"
+      },
+      {
+        "romaji": "Kunigami-gun Motobu-cho",
+        "kanji": "国頭郡本部町"
+      },
+      {
+        "romaji": "Kunigami-gun Nakijin-son",
+        "kanji": "国頭郡今帰仁村"
+      },
+      {
+        "romaji": "Kunigami-gun Ogimi-son",
+        "kanji": "国頭郡大宜味村"
+      },
+      {
+        "romaji": "Kunigami-gun Onna-son",
+        "kanji": "国頭郡恩納村"
+      },
+      {
+        "romaji": "Miyako-gun Tarama-son",
+        "kanji": "宮古郡多良間村"
+      },
+      {
+        "romaji": "Miyakojima-shi",
+        "kanji": "宮古島市"
+      },
+      {
+        "romaji": "Nago-shi",
+        "kanji": "名護市"
+      },
+      {
+        "romaji": "Naha-shi",
+        "kanji": "那覇市"
+      },
+      {
+        "romaji": "Nakagami-gun Chatan-cho",
+        "kanji": "中頭郡北谷町"
+      },
+      {
+        "romaji": "Nakagami-gun Kadena-cho",
+        "kanji": "中頭郡嘉手納町"
+      },
+      {
+        "romaji": "Nakagami-gun Kitanakagusuku-son",
+        "kanji": "中頭郡北中城村"
+      },
+      {
+        "romaji": "Nakagami-gun Nakagusuku-son",
+        "kanji": "中頭郡中城村"
+      },
+      {
+        "romaji": "Nakagami-gun Nishihara-cho",
+        "kanji": "中頭郡西原町"
+      },
+      {
+        "romaji": "Nakagami-gun Yomitan-son",
+        "kanji": "中頭郡読谷村"
+      },
+      {
+        "romaji": "Nanjo-shi",
+        "kanji": "南城市"
+      },
+      {
+        "romaji": "Okinawa-shi",
+        "kanji": "沖縄市"
+      },
+      {
+        "romaji": "Shimajiri-gun Aguni-son",
+        "kanji": "島尻郡粟国村"
+      },
+      {
+        "romaji": "Shimajiri-gun Haebaru-cho",
+        "kanji": "島尻郡南風原町"
+      },
+      {
+        "romaji": "Shimajiri-gun Iheya-son",
+        "kanji": "島尻郡伊平屋村"
+      },
+      {
+        "romaji": "Shimajiri-gun Izena-son",
+        "kanji": "島尻郡伊是名村"
+      },
+      {
+        "romaji": "Shimajiri-gun Kitadaito-son",
+        "kanji": "島尻郡北大東村"
+      },
+      {
+        "romaji": "Shimajiri-gun Kumejima-cho",
+        "kanji": "島尻郡久米島町"
+      },
+      {
+        "romaji": "Shimajiri-gun Minamidaito-son",
+        "kanji": "島尻郡南大東村"
+      },
+      {
+        "romaji": "Shimajiri-gun Tokashiki-son",
+        "kanji": "島尻郡渡嘉敷村"
+      },
+      {
+        "romaji": "Shimajiri-gun Tonaki-son",
+        "kanji": "島尻郡渡名喜村"
+      },
+      {
+        "romaji": "Shimajiri-gun Yaese-cho",
+        "kanji": "島尻郡八重瀬町"
+      },
+      {
+        "romaji": "Shimajiri-gun Yonabaru-cho",
+        "kanji": "島尻郡与那原町"
+      },
+      {
+        "romaji": "Shimajiri-gun Zamami-son",
+        "kanji": "島尻郡座間味村"
+      },
+      {
+        "romaji": "Tomigusuku-shi",
+        "kanji": "豊見城市"
+      },
+      {
+        "romaji": "Urasoe-shi",
+        "kanji": "浦添市"
+      },
+      {
+        "romaji": "Uruma-shi",
+        "kanji": "うるま市"
+      },
+      {
+        "romaji": "Yaeyama-gun Taketomi-cho",
+        "kanji": "八重山郡竹富町"
+      },
+      {
+        "romaji": "Yaeyama-gun Yonaguni-cho",
+        "kanji": "八重山郡与那国町"
+      }
+    ]
+  },
+  "Osaka": {
+    "kanji": "大阪府",
+    "romaji": "Osaka",
+    "cities": [
+      {
+        "romaji": "Daito-shi",
+        "kanji": "大東市"
+      },
+      {
+        "romaji": "Fujiidera-shi",
+        "kanji": "藤井寺市"
+      },
+      {
+        "romaji": "Habikino-shi",
+        "kanji": "羽曳野市"
+      },
+      {
+        "romaji": "Hannan-shi",
+        "kanji": "阪南市"
+      },
+      {
+        "romaji": "Higashiosaka-shi",
+        "kanji": "東大阪市"
+      },
+      {
+        "romaji": "Hirakata-shi",
+        "kanji": "枚方市"
+      },
+      {
+        "romaji": "Ibaraki-shi",
+        "kanji": "茨木市"
+      },
+      {
+        "romaji": "Ikeda-shi",
+        "kanji": "池田市"
+      },
+      {
+        "romaji": "Izumi-shi",
+        "kanji": "和泉市"
+      },
+      {
+        "romaji": "Izumiotsu-shi",
+        "kanji": "泉大津市"
+      },
+      {
+        "romaji": "Izumisano-shi",
+        "kanji": "泉佐野市"
+      },
+      {
+        "romaji": "Kadoma-shi",
+        "kanji": "門真市"
+      },
+      {
+        "romaji": "Kaizuka-shi",
+        "kanji": "貝塚市"
+      },
+      {
+        "romaji": "Kashiwara-shi",
+        "kanji": "柏原市"
+      },
+      {
+        "romaji": "Katano-shi",
+        "kanji": "交野市"
+      },
+      {
+        "romaji": "Kawachinagano-shi",
+        "kanji": "河内長野市"
+      },
+      {
+        "romaji": "Kishiwada-shi",
+        "kanji": "岸和田市"
+      },
+      {
+        "romaji": "Matsubara-shi",
+        "kanji": "松原市"
+      },
+      {
+        "romaji": "Minamikawachi-gun Chihayaakasaka Mu",
+        "kanji": "南河内郡千早赤阪村"
+      },
+      {
+        "romaji": "Minamikawachi-gun Kanan-cho",
+        "kanji": "南河内郡河南町"
+      },
+      {
+        "romaji": "Minamikawachi-gun Taishi-cho",
+        "kanji": "南河内郡太子町"
+      },
+      {
+        "romaji": "Mino-shi",
+        "kanji": "箕面市"
+      },
+      {
+        "romaji": "Mishima-gun Shimamoto-cho",
+        "kanji": "三島郡島本町"
+      },
+      {
+        "romaji": "Moriguchi-shi",
+        "kanji": "守口市"
+      },
+      {
+        "romaji": "Neyagawa-shi",
+        "kanji": "寝屋川市"
+      },
+      {
+        "romaji": "Osaka-shi",
+        "kanji": "大阪市"
+      },
+      {
+        "romaji": "Osaka-shi Abeno-ku",
+        "kanji": "大阪市阿倍野区"
+      },
+      {
+        "romaji": "Osaka-shi Asahi-ku",
+        "kanji": "大阪市旭区"
+      },
+      {
+        "romaji": "Osaka-shi Chuo-ku",
+        "kanji": "大阪市中央区"
+      },
+      {
+        "romaji": "Osaka-shi Fukushima-ku",
+        "kanji": "大阪市福島区"
+      },
+      {
+        "romaji": "Osaka-shi Higashinari-ku",
+        "kanji": "大阪市東成区"
+      },
+      {
+        "romaji": "Osaka-shi Higashisumiyoshi-ku",
+        "kanji": "大阪市東住吉区"
+      },
+      {
+        "romaji": "Osaka-shi Higashiyodogawa-ku",
+        "kanji": "大阪市東淀川区"
+      },
+      {
+        "romaji": "Osaka-shi Hirano-ku",
+        "kanji": "大阪市平野区"
+      },
+      {
+        "romaji": "Osaka-shi Ikuno-ku",
+        "kanji": "大阪市生野区"
+      },
+      {
+        "romaji": "Osaka-shi Joto-ku",
+        "kanji": "大阪市城東区"
+      },
+      {
+        "romaji": "Osaka-shi Kita-ku",
+        "kanji": "大阪市北区"
+      },
+      {
+        "romaji": "Osaka-shi Konohana-ku",
+        "kanji": "大阪市此花区"
+      },
+      {
+        "romaji": "Osaka-shi Minato-ku",
+        "kanji": "大阪市港区"
+      },
+      {
+        "romaji": "Osaka-shi Miyakojima-ku",
+        "kanji": "大阪市都島区"
+      },
+      {
+        "romaji": "Osaka-shi Naniwa-ku",
+        "kanji": "大阪市浪速区"
+      },
+      {
+        "romaji": "Osaka-shi Nishi-ku",
+        "kanji": "大阪市西区"
+      },
+      {
+        "romaji": "Osaka-shi Nishinari-ku",
+        "kanji": "大阪市西成区"
+      },
+      {
+        "romaji": "Osaka-shi Nishiyodogawa-ku",
+        "kanji": "大阪市西淀川区"
+      },
+      {
+        "romaji": "Osaka-shi Suminoe-ku",
+        "kanji": "大阪市住之江区"
+      },
+      {
+        "romaji": "Osaka-shi Sumiyoshi-ku",
+        "kanji": "大阪市住吉区"
+      },
+      {
+        "romaji": "Osaka-shi Taisho-ku",
+        "kanji": "大阪市大正区"
+      },
+      {
+        "romaji": "Osaka-shi Tennoji-ku",
+        "kanji": "大阪市天王寺区"
+      },
+      {
+        "romaji": "Osaka-shi Tsurumi-ku",
+        "kanji": "大阪市鶴見区"
+      },
+      {
+        "romaji": "Osaka-shi Yodogawa-ku",
+        "kanji": "大阪市淀川区"
+      },
+      {
+        "romaji": "Osakasayama-shi",
+        "kanji": "大阪狭山市"
+      },
+      {
+        "romaji": "Sakai-shi",
+        "kanji": "堺市"
+      },
+      {
+        "romaji": "Sakai-shi Higashi-ku",
+        "kanji": "堺市東区"
+      },
+      {
+        "romaji": "Sakai-shi Kita-ku",
+        "kanji": "堺市北区"
+      },
+      {
+        "romaji": "Sakai-shi Mihara-ku",
+        "kanji": "堺市美原区"
+      },
+      {
+        "romaji": "Sakai-shi Minami-ku",
+        "kanji": "堺市南区"
+      },
+      {
+        "romaji": "Sakai-shi Naka-ku",
+        "kanji": "堺市中区"
+      },
+      {
+        "romaji": "Sakai-shi Nishi-ku",
+        "kanji": "堺市西区"
+      },
+      {
+        "romaji": "Sakai-shi Sakai-ku",
+        "kanji": "堺市堺区"
+      },
+      {
+        "romaji": "Semboku-gun Tadaoka-cho",
+        "kanji": "泉北郡忠岡町"
+      },
+      {
+        "romaji": "Sennan-gun Kumatori-cho",
+        "kanji": "泉南郡熊取町"
+      },
+      {
+        "romaji": "Sennan-gun Misaki-cho",
+        "kanji": "泉南郡岬町"
+      },
+      {
+        "romaji": "Sennan-gun Tajiri-cho",
+        "kanji": "泉南郡田尻町"
+      },
+      {
+        "romaji": "Sennan-shi",
+        "kanji": "泉南市"
+      },
+      {
+        "romaji": "Settsu-shi",
+        "kanji": "摂津市"
+      },
+      {
+        "romaji": "Shijonawate-shi",
+        "kanji": "四條畷市"
+      },
+      {
+        "romaji": "Suita-shi",
+        "kanji": "吹田市"
+      },
+      {
+        "romaji": "Takaishi-shi",
+        "kanji": "高石市"
+      },
+      {
+        "romaji": "Takatsuki-shi",
+        "kanji": "高槻市"
+      },
+      {
+        "romaji": "Tondabayashi-shi",
+        "kanji": "富田林市"
+      },
+      {
+        "romaji": "Toyonaka-shi",
+        "kanji": "豊中市"
+      },
+      {
+        "romaji": "Toyono-gun Nose-cho",
+        "kanji": "豊能郡能勢町"
+      },
+      {
+        "romaji": "Toyono-gun Toyono-cho",
+        "kanji": "豊能郡豊能町"
+      },
+      {
+        "romaji": "Yao-shi",
+        "kanji": "八尾市"
+      }
+    ]
+  },
+  "Saga": {
+    "kanji": "佐賀県",
+    "romaji": "Saga",
+    "cities": [
+      {
+        "romaji": "Fujitsu-gun Tara-cho",
+        "kanji": "藤津郡太良町"
+      },
+      {
+        "romaji": "Higashimatsura-gun Genkai-cho",
+        "kanji": "東松浦郡玄海町"
+      },
+      {
+        "romaji": "Imari-shi",
+        "kanji": "伊万里市"
+      },
+      {
+        "romaji": "Kanzaki-gun Yoshinogari-cho",
+        "kanji": "神埼郡吉野ヶ里町"
+      },
+      {
+        "romaji": "Kanzaki-shi",
+        "kanji": "神埼市"
+      },
+      {
+        "romaji": "Karatsu-shi",
+        "kanji": "唐津市"
+      },
+      {
+        "romaji": "Kashima-shi",
+        "kanji": "鹿島市"
+      },
+      {
+        "romaji": "Kishima-gun Kohoku-machi",
+        "kanji": "杵島郡江北町"
+      },
+      {
+        "romaji": "Kishima-gun Omachi-cho",
+        "kanji": "杵島郡大町町"
+      },
+      {
+        "romaji": "Kishima-gun Shiroishi-cho",
+        "kanji": "杵島郡白石町"
+      },
+      {
+        "romaji": "Miyaki-gun Kamimine-cho",
+        "kanji": "三養基郡上峰町"
+      },
+      {
+        "romaji": "Miyaki-gun Kiyama-cho",
+        "kanji": "三養基郡基山町"
+      },
+      {
+        "romaji": "Miyaki-gun Miyaki-cho",
+        "kanji": "三養基郡みやき町"
+      },
+      {
+        "romaji": "Nishimatsura-gun Arita-cho",
+        "kanji": "西松浦郡有田町"
+      },
+      {
+        "romaji": "Ogi-shi",
+        "kanji": "小城市"
+      },
+      {
+        "romaji": "Saga-shi",
+        "kanji": "佐賀市"
+      },
+      {
+        "romaji": "Takeo-shi",
+        "kanji": "武雄市"
+      },
+      {
+        "romaji": "Taku-shi",
+        "kanji": "多久市"
+      },
+      {
+        "romaji": "Tosu-shi",
+        "kanji": "鳥栖市"
+      },
+      {
+        "romaji": "Ureshino-shi",
+        "kanji": "嬉野市"
+      }
+    ]
+  },
+  "Saitama": {
+    "kanji": "埼玉県",
+    "romaji": "Saitama",
+    "cities": [
+      {
+        "romaji": "Ageo-shi",
+        "kanji": "上尾市"
+      },
+      {
+        "romaji": "Asaka-shi",
+        "kanji": "朝霞市"
+      },
+      {
+        "romaji": "Chichibu-gun Higashichichibu-mura",
+        "kanji": "秩父郡東秩父村"
+      },
+      {
+        "romaji": "Chichibu-gun Minano-machi",
+        "kanji": "秩父郡皆野町"
+      },
+      {
+        "romaji": "Chichibu-gun Nagatoro-machi",
+        "kanji": "秩父郡長瀞町"
+      },
+      {
+        "romaji": "Chichibu-gun Ogano-machi",
+        "kanji": "秩父郡小鹿野町"
+      },
+      {
+        "romaji": "Chichibu-gun Yokoze-machi",
+        "kanji": "秩父郡横瀬町"
+      },
+      {
+        "romaji": "Chichibu-shi",
+        "kanji": "秩父市"
+      },
+      {
+        "romaji": "Fujimi-shi",
+        "kanji": "富士見市"
+      },
+      {
+        "romaji": "Fujimino-shi",
+        "kanji": "ふじみ野市"
+      },
+      {
+        "romaji": "Fukaya-shi",
+        "kanji": "深谷市"
+      },
+      {
+        "romaji": "Gyoda-shi",
+        "kanji": "行田市"
+      },
+      {
+        "romaji": "Hanno-shi",
+        "kanji": "飯能市"
+      },
+      {
+        "romaji": "Hanyu-shi",
+        "kanji": "羽生市"
+      },
+      {
+        "romaji": "Hasuda-shi",
+        "kanji": "蓮田市"
+      },
+      {
+        "romaji": "Hidaka-shi",
+        "kanji": "日高市"
+      },
+      {
+        "romaji": "Higashimatsuyama-shi",
+        "kanji": "東松山市"
+      },
+      {
+        "romaji": "Hiki-gun Hatoyama-machi",
+        "kanji": "比企郡鳩山町"
+      },
+      {
+        "romaji": "Hiki-gun Kawajima-machi",
+        "kanji": "比企郡川島町"
+      },
+      {
+        "romaji": "Hiki-gun Namegawa-machi",
+        "kanji": "比企郡滑川町"
+      },
+      {
+        "romaji": "Hiki-gun Ogawa-machi",
+        "kanji": "比企郡小川町"
+      },
+      {
+        "romaji": "Hiki-gun Ranzan-machi",
+        "kanji": "比企郡嵐山町"
+      },
+      {
+        "romaji": "Hiki-gun Tokigawa-machi",
+        "kanji": "比企郡ときがわ町"
+      },
+      {
+        "romaji": "Hiki-gun Yoshimi-machi",
+        "kanji": "比企郡吉見町"
+      },
+      {
+        "romaji": "Honjo-shi",
+        "kanji": "本庄市"
+      },
+      {
+        "romaji": "Iruma-gun Miyoshi-machi",
+        "kanji": "入間郡三芳町"
+      },
+      {
+        "romaji": "Iruma-gun Moroyama-machi",
+        "kanji": "入間郡毛呂山町"
+      },
+      {
+        "romaji": "Iruma-gun Ogose-machi",
+        "kanji": "入間郡越生町"
+      },
+      {
+        "romaji": "Iruma-shi",
+        "kanji": "入間市"
+      },
+      {
+        "romaji": "Kasukabe-shi",
+        "kanji": "春日部市"
+      },
+      {
+        "romaji": "Kawagoe-shi",
+        "kanji": "川越市"
+      },
+      {
+        "romaji": "Kawaguchi-shi",
+        "kanji": "川口市"
+      },
+      {
+        "romaji": "Kazo-shi",
+        "kanji": "加須市"
+      },
+      {
+        "romaji": "Kitaadachi-gun Ina-machi",
+        "kanji": "北足立郡伊奈町"
+      },
+      {
+        "romaji": "Kitakatsushika-gun Matsubushi-machi",
+        "kanji": "北葛飾郡松伏町"
+      },
+      {
+        "romaji": "Kitakatsushika-gun Sugito-machi",
+        "kanji": "北葛飾郡杉戸町"
+      },
+      {
+        "romaji": "Kitamoto-shi",
+        "kanji": "北本市"
+      },
+      {
+        "romaji": "Kodama-gun Kamikawa-machi",
+        "kanji": "児玉郡神川町"
+      },
+      {
+        "romaji": "Kodama-gun Kamisato-machi",
+        "kanji": "児玉郡上里町"
+      },
+      {
+        "romaji": "Kodama-gun Misato-machi",
+        "kanji": "児玉郡美里町"
+      },
+      {
+        "romaji": "Konosu-shi",
+        "kanji": "鴻巣市"
+      },
+      {
+        "romaji": "Koshigaya-shi",
+        "kanji": "越谷市"
+      },
+      {
+        "romaji": "Kuki-shi",
+        "kanji": "久喜市"
+      },
+      {
+        "romaji": "Kumagaya-shi",
+        "kanji": "熊谷市"
+      },
+      {
+        "romaji": "Minamisaitama-gun Miyashiro-machi",
+        "kanji": "南埼玉郡宮代町"
+      },
+      {
+        "romaji": "Misato-shi",
+        "kanji": "三郷市"
+      },
+      {
+        "romaji": "Niiza-shi",
+        "kanji": "新座市"
+      },
+      {
+        "romaji": "Okegawa-shi",
+        "kanji": "桶川市"
+      },
+      {
+        "romaji": "Osato-gun Yorii-machi",
+        "kanji": "大里郡寄居町"
+      },
+      {
+        "romaji": "Saitama-shi",
+        "kanji": "さいたま市"
+      },
+      {
+        "romaji": "Saitama-shi Chuo-ku",
+        "kanji": "さいたま市中央区"
+      },
+      {
+        "romaji": "Saitama-shi Iwatsuki-ku",
+        "kanji": "さいたま市岩槻区"
+      },
+      {
+        "romaji": "Saitama-shi Kita-ku",
+        "kanji": "さいたま市北区"
+      },
+      {
+        "romaji": "Saitama-shi Midori-ku",
+        "kanji": "さいたま市緑区"
+      },
+      {
+        "romaji": "Saitama-shi Minami-ku",
+        "kanji": "さいたま市南区"
+      },
+      {
+        "romaji": "Saitama-shi Minuma-ku",
+        "kanji": "さいたま市見沼区"
+      },
+      {
+        "romaji": "Saitama-shi Nishi-ku",
+        "kanji": "さいたま市西区"
+      },
+      {
+        "romaji": "Saitama-shi Omiya-ku",
+        "kanji": "さいたま市大宮区"
+      },
+      {
+        "romaji": "Saitama-shi Sakura-ku",
+        "kanji": "さいたま市桜区"
+      },
+      {
+        "romaji": "Saitama-shi Urawa-ku",
+        "kanji": "さいたま市浦和区"
+      },
+      {
+        "romaji": "Sakado-shi",
+        "kanji": "坂戸市"
+      },
+      {
+        "romaji": "Satte-shi",
+        "kanji": "幸手市"
+      },
+      {
+        "romaji": "Sayama-shi",
+        "kanji": "狭山市"
+      },
+      {
+        "romaji": "Shiki-shi",
+        "kanji": "志木市"
+      },
+      {
+        "romaji": "Shiraoka-shi",
+        "kanji": "白岡市"
+      },
+      {
+        "romaji": "Soka-shi",
+        "kanji": "草加市"
+      },
+      {
+        "romaji": "Toda-shi",
+        "kanji": "戸田市"
+      },
+      {
+        "romaji": "Tokorozawa-shi",
+        "kanji": "所沢市"
+      },
+      {
+        "romaji": "Tsurugashima-shi",
+        "kanji": "鶴ヶ島市"
+      },
+      {
+        "romaji": "Wako-shi",
+        "kanji": "和光市"
+      },
+      {
+        "romaji": "Warabi-shi",
+        "kanji": "蕨市"
+      },
+      {
+        "romaji": "Yashio-shi",
+        "kanji": "八潮市"
+      },
+      {
+        "romaji": "Yoshikawa-shi",
+        "kanji": "吉川市"
+      }
+    ]
+  },
+  "Shiga": {
+    "kanji": "滋賀県",
+    "romaji": "Shiga",
+    "cities": [
+      {
+        "romaji": "Echi-gun Aisho-cho",
+        "kanji": "愛知郡愛荘町"
+      },
+      {
+        "romaji": "Gamo-gun Hino-cho",
+        "kanji": "蒲生郡日野町"
+      },
+      {
+        "romaji": "Gamo-gun Ryuo-cho",
+        "kanji": "蒲生郡竜王町"
+      },
+      {
+        "romaji": "Higashiomi-shi",
+        "kanji": "東近江市"
+      },
+      {
+        "romaji": "Hikone-shi",
+        "kanji": "彦根市"
+      },
+      {
+        "romaji": "Inukami-gun Kora-cho",
+        "kanji": "犬上郡甲良町"
+      },
+      {
+        "romaji": "Inukami-gun Taga-cho",
+        "kanji": "犬上郡多賀町"
+      },
+      {
+        "romaji": "Inukami-gun Toyosato-cho",
+        "kanji": "犬上郡豊郷町"
+      },
+      {
+        "romaji": "Koka-shi",
+        "kanji": "甲賀市"
+      },
+      {
+        "romaji": "Konan-shi",
+        "kanji": "湖南市"
+      },
+      {
+        "romaji": "Kusatsu-shi",
+        "kanji": "草津市"
+      },
+      {
+        "romaji": "Maibara-shi",
+        "kanji": "米原市"
+      },
+      {
+        "romaji": "Moriyama-shi",
+        "kanji": "守山市"
+      },
+      {
+        "romaji": "Nagahama-shi",
+        "kanji": "長浜市"
+      },
+      {
+        "romaji": "Omihachiman-shi",
+        "kanji": "近江八幡市"
+      },
+      {
+        "romaji": "Otsu-shi",
+        "kanji": "大津市"
+      },
+      {
+        "romaji": "Ritto-shi",
+        "kanji": "栗東市"
+      },
+      {
+        "romaji": "Takashima-shi",
+        "kanji": "高島市"
+      },
+      {
+        "romaji": "Yasu-shi",
+        "kanji": "野洲市"
+      }
+    ]
+  },
+  "Shimane": {
+    "kanji": "島根県",
+    "romaji": "Shimane",
+    "cities": [
+      {
+        "romaji": "Gotsu-shi",
+        "kanji": "江津市"
+      },
+      {
+        "romaji": "Hamada-shi",
+        "kanji": "浜田市"
+      },
+      {
+        "romaji": "Iishi-gun Iinan-cho",
+        "kanji": "飯石郡飯南町"
+      },
+      {
+        "romaji": "Izumo-shi",
+        "kanji": "出雲市"
+      },
+      {
+        "romaji": "Kanoashi-gun Tsuwano-cho",
+        "kanji": "鹿足郡津和野町"
+      },
+      {
+        "romaji": "Kanoashi-gun Yoshika-cho",
+        "kanji": "鹿足郡吉賀町"
+      },
+      {
+        "romaji": "Masuda-shi",
+        "kanji": "益田市"
+      },
+      {
+        "romaji": "Matsue-shi",
+        "kanji": "松江市"
+      },
+      {
+        "romaji": "Nita-gun Okuizumo-cho",
+        "kanji": "仁多郡奥出雲町"
+      },
+      {
+        "romaji": "Ochi-gun Kawamoto-machi",
+        "kanji": "邑智郡川本町"
+      },
+      {
+        "romaji": "Ochi-gun Misato-cho",
+        "kanji": "邑智郡美郷町"
+      },
+      {
+        "romaji": "Ochi-gun Onan-cho",
+        "kanji": "邑智郡邑南町"
+      },
+      {
+        "romaji": "Oda-shi",
+        "kanji": "大田市"
+      },
+      {
+        "romaji": "Oki-gun Ama-cho",
+        "kanji": "隠岐郡海士町"
+      },
+      {
+        "romaji": "Oki-gun Chibu-mura",
+        "kanji": "隠岐郡知夫村"
+      },
+      {
+        "romaji": "Oki-gun Nishinoshima-cho",
+        "kanji": "隠岐郡西ノ島町"
+      },
+      {
+        "romaji": "Oki-gun Okinoshima-cho",
+        "kanji": "隠岐郡隠岐の島町"
+      },
+      {
+        "romaji": "Unnan-shi",
+        "kanji": "雲南市"
+      },
+      {
+        "romaji": "Yasugi-shi",
+        "kanji": "安来市"
+      }
+    ]
+  },
+  "Shizuoka": {
+    "kanji": "静岡県",
+    "romaji": "Shizuoka",
+    "cities": [
+      {
+        "romaji": "Atami-shi",
+        "kanji": "熱海市"
+      },
+      {
+        "romaji": "Fuji-shi",
+        "kanji": "富士市"
+      },
+      {
+        "romaji": "Fujieda-shi",
+        "kanji": "藤枝市"
+      },
+      {
+        "romaji": "Fujinomiya-shi",
+        "kanji": "富士宮市"
+      },
+      {
+        "romaji": "Fukuroi-shi",
+        "kanji": "袋井市"
+      },
+      {
+        "romaji": "Gotemba-shi",
+        "kanji": "御殿場市"
+      },
+      {
+        "romaji": "Haibara-gun Kawanehon-cho",
+        "kanji": "榛原郡川根本町"
+      },
+      {
+        "romaji": "Haibara-gun Yoshida-cho",
+        "kanji": "榛原郡吉田町"
+      },
+      {
+        "romaji": "Hamamatsu-shi",
+        "kanji": "浜松市"
+      },
+      {
+        "romaji": "Hamamatsu-shi Hamakita-ku",
+        "kanji": "浜松市浜北区"
+      },
+      {
+        "romaji": "Hamamatsu-shi Higashi-ku",
+        "kanji": "浜松市東区"
+      },
+      {
+        "romaji": "Hamamatsu-shi Kita-ku",
+        "kanji": "浜松市北区"
+      },
+      {
+        "romaji": "Hamamatsu-shi Minami-ku",
+        "kanji": "浜松市南区"
+      },
+      {
+        "romaji": "Hamamatsu-shi Naka-ku",
+        "kanji": "浜松市中区"
+      },
+      {
+        "romaji": "Hamamatsu-shi Nishi-ku",
+        "kanji": "浜松市西区"
+      },
+      {
+        "romaji": "Hamamatsu-shi Tenryu-ku",
+        "kanji": "浜松市天竜区"
+      },
+      {
+        "romaji": "Ito-shi",
+        "kanji": "伊東市"
+      },
+      {
+        "romaji": "Iwata-shi",
+        "kanji": "磐田市"
+      },
+      {
+        "romaji": "Izu-shi",
+        "kanji": "伊豆市"
+      },
+      {
+        "romaji": "Izunokuni-shi",
+        "kanji": "伊豆の国市"
+      },
+      {
+        "romaji": "Kakegawa-shi",
+        "kanji": "掛川市"
+      },
+      {
+        "romaji": "Kamo-gun Higashiizu-cho",
+        "kanji": "賀茂郡東伊豆町"
+      },
+      {
+        "romaji": "Kamo-gun Kawazu-cho",
+        "kanji": "賀茂郡河津町"
+      },
+      {
+        "romaji": "Kamo-gun Matsuzaki-cho",
+        "kanji": "賀茂郡松崎町"
+      },
+      {
+        "romaji": "Kamo-gun Minamiizu-cho",
+        "kanji": "賀茂郡南伊豆町"
+      },
+      {
+        "romaji": "Kamo-gun Nishiizu-cho",
+        "kanji": "賀茂郡西伊豆町"
+      },
+      {
+        "romaji": "Kikugawa-shi",
+        "kanji": "菊川市"
+      },
+      {
+        "romaji": "Kosai-shi",
+        "kanji": "湖西市"
+      },
+      {
+        "romaji": "Makinohara-shi",
+        "kanji": "牧之原市"
+      },
+      {
+        "romaji": "Mishima-shi",
+        "kanji": "三島市"
+      },
+      {
+        "romaji": "Numazu-shi",
+        "kanji": "沼津市"
+      },
+      {
+        "romaji": "Omaezaki-shi",
+        "kanji": "御前崎市"
+      },
+      {
+        "romaji": "Shimada-shi",
+        "kanji": "島田市"
+      },
+      {
+        "romaji": "Shimoda-shi",
+        "kanji": "下田市"
+      },
+      {
+        "romaji": "Shizuoka-shi",
+        "kanji": "静岡市"
+      },
+      {
+        "romaji": "Shizuoka-shi Aoi-ku",
+        "kanji": "静岡市葵区"
+      },
+      {
+        "romaji": "Shizuoka-shi Shimizu-ku",
+        "kanji": "静岡市清水区"
+      },
+      {
+        "romaji": "Shizuoka-shi Suruga-ku",
+        "kanji": "静岡市駿河区"
+      },
+      {
+        "romaji": "Shuchi-gun Mori-machi",
+        "kanji": "周智郡森町"
+      },
+      {
+        "romaji": "Sunto-gun Nagaizumi-cho",
+        "kanji": "駿東郡長泉町"
+      },
+      {
+        "romaji": "Sunto-gun Oyama-cho",
+        "kanji": "駿東郡小山町"
+      },
+      {
+        "romaji": "Sunto-gun Shimizu-cho",
+        "kanji": "駿東郡清水町"
+      },
+      {
+        "romaji": "Susono-shi",
+        "kanji": "裾野市"
+      },
+      {
+        "romaji": "Tagata-gun Kannami-cho",
+        "kanji": "田方郡函南町"
+      },
+      {
+        "romaji": "Yaizu-shi",
+        "kanji": "焼津市"
+      }
+    ]
+  },
+  "Tochigi": {
+    "kanji": "栃木県",
+    "romaji": "Tochigi",
+    "cities": [
+      {
+        "romaji": "Ashikaga-shi",
+        "kanji": "足利市"
+      },
+      {
+        "romaji": "Haga-gun Haga-machi",
+        "kanji": "芳賀郡芳賀町"
+      },
+      {
+        "romaji": "Haga-gun Ichikai-machi",
+        "kanji": "芳賀郡市貝町"
+      },
+      {
+        "romaji": "Haga-gun Mashiko-machi",
+        "kanji": "芳賀郡益子町"
+      },
+      {
+        "romaji": "Haga-gun Motegi-machi",
+        "kanji": "芳賀郡茂木町"
+      },
+      {
+        "romaji": "Kanuma-shi",
+        "kanji": "鹿沼市"
+      },
+      {
+        "romaji": "Kawachi-gun Kaminokawa-machi",
+        "kanji": "河内郡上三川町"
+      },
+      {
+        "romaji": "Moka-shi",
+        "kanji": "真岡市"
+      },
+      {
+        "romaji": "Nasu-gun Nakagawa-machi",
+        "kanji": "那須郡那珂川町"
+      },
+      {
+        "romaji": "Nasu-gun Nasu-machi",
+        "kanji": "那須郡那須町"
+      },
+      {
+        "romaji": "Nasukarasuyama-shi",
+        "kanji": "那須烏山市"
+      },
+      {
+        "romaji": "Nasushiobara-shi",
+        "kanji": "那須塩原市"
+      },
+      {
+        "romaji": "Nikko-shi",
+        "kanji": "日光市"
+      },
+      {
+        "romaji": "Otawara-shi",
+        "kanji": "大田原市"
+      },
+      {
+        "romaji": "Oyama-shi",
+        "kanji": "小山市"
+      },
+      {
+        "romaji": "Sakura-shi",
+        "kanji": "さくら市"
+      },
+      {
+        "romaji": "Sano-shi",
+        "kanji": "佐野市"
+      },
+      {
+        "romaji": "Shimotsuga-gun Mibu-machi",
+        "kanji": "下都賀郡壬生町"
+      },
+      {
+        "romaji": "Shimotsuga-gun Nogi-machi",
+        "kanji": "下都賀郡野木町"
+      },
+      {
+        "romaji": "Shimotsuke-shi",
+        "kanji": "下野市"
+      },
+      {
+        "romaji": "Shioya-gun Shioya-machi",
+        "kanji": "塩谷郡塩谷町"
+      },
+      {
+        "romaji": "Shioya-gun Takanezawa-machi",
+        "kanji": "塩谷郡高根沢町"
+      },
+      {
+        "romaji": "Tochigi-shi",
+        "kanji": "栃木市"
+      },
+      {
+        "romaji": "Utsunomiya-shi",
+        "kanji": "宇都宮市"
+      },
+      {
+        "romaji": "Yaita-shi",
+        "kanji": "矢板市"
+      }
+    ]
+  },
+  "Tokushima": {
+    "kanji": "徳島県",
+    "romaji": "Tokushima",
+    "cities": [
+      {
+        "romaji": "Anan-shi",
+        "kanji": "阿南市"
+      },
+      {
+        "romaji": "Awa-shi",
+        "kanji": "阿波市"
+      },
+      {
+        "romaji": "Itano-gun Aizumi-cho",
+        "kanji": "板野郡藍住町"
+      },
+      {
+        "romaji": "Itano-gun Itano-cho",
+        "kanji": "板野郡板野町"
+      },
+      {
+        "romaji": "Itano-gun Kamiita-cho",
+        "kanji": "板野郡上板町"
+      },
+      {
+        "romaji": "Itano-gun Kitajima-cho",
+        "kanji": "板野郡北島町"
+      },
+      {
+        "romaji": "Itano-gun Matsushige-cho",
+        "kanji": "板野郡松茂町"
+      },
+      {
+        "romaji": "Kaifu-gun Kaiyo-cho",
+        "kanji": "海部郡海陽町"
+      },
+      {
+        "romaji": "Kaifu-gun Minami-cho",
+        "kanji": "海部郡美波町"
+      },
+      {
+        "romaji": "Kaifu-gun Mugi-cho",
+        "kanji": "海部郡牟岐町"
+      },
+      {
+        "romaji": "Katsura-gun Kamikatsu-cho",
+        "kanji": "勝浦郡上勝町"
+      },
+      {
+        "romaji": "Katsura-gun Katsura-cho",
+        "kanji": "勝浦郡勝浦町"
+      },
+      {
+        "romaji": "Komatsushima-shi",
+        "kanji": "小松島市"
+      },
+      {
+        "romaji": "Mima-gun Tsurugi-cho",
+        "kanji": "美馬郡つるぎ町"
+      },
+      {
+        "romaji": "Mima-shi",
+        "kanji": "美馬市"
+      },
+      {
+        "romaji": "Miyoshi-gun Higashimiyoshi-cho",
+        "kanji": "三好郡東みよし町"
+      },
+      {
+        "romaji": "Miyoshi-shi",
+        "kanji": "三好市"
+      },
+      {
+        "romaji": "Myodo-gun Sanagochi-son",
+        "kanji": "名東郡佐那河内村"
+      },
+      {
+        "romaji": "Myozai-gun Ishii-cho",
+        "kanji": "名西郡石井町"
+      },
+      {
+        "romaji": "Myozai-gun Kamiyama-cho",
+        "kanji": "名西郡神山町"
+      },
+      {
+        "romaji": "Naka-gun Naka-cho",
+        "kanji": "那賀郡那賀町"
+      },
+      {
+        "romaji": "Naruto-shi",
+        "kanji": "鳴門市"
+      },
+      {
+        "romaji": "Tokushima-shi",
+        "kanji": "徳島市"
+      },
+      {
+        "romaji": "Yoshinogawa-shi",
+        "kanji": "吉野川市"
+      }
+    ]
+  },
+  "Tokyo": {
+    "kanji": "東京都",
+    "romaji": "Tokyo",
+    "cities": [
+      {
+        "romaji": "Adachi-ku",
+        "kanji": "足立区"
+      },
+      {
+        "romaji": "Akiruno-shi",
+        "kanji": "あきる野市"
+      },
+      {
+        "romaji": "Akishima-shi",
+        "kanji": "昭島市"
+      },
+      {
+        "romaji": "Aogashima-mura",
+        "kanji": "青ヶ島村"
+      },
+      {
+        "romaji": "Arakawa-ku",
+        "kanji": "荒川区"
+      },
+      {
+        "romaji": "Bunkyo-ku",
+        "kanji": "文京区"
+      },
+      {
+        "romaji": "Chiyoda-ku",
+        "kanji": "千代田区"
+      },
+      {
+        "romaji": "Chofu-shi",
+        "kanji": "調布市"
+      },
+      {
+        "romaji": "Chuo-ku",
+        "kanji": "中央区"
+      },
+      {
+        "romaji": "Edogawa-ku",
+        "kanji": "江戸川区"
+      },
+      {
+        "romaji": "Fuchu-shi",
+        "kanji": "府中市"
+      },
+      {
+        "romaji": "Fussa-shi",
+        "kanji": "福生市"
+      },
+      {
+        "romaji": "Hachijo-machi",
+        "kanji": "八丈町"
+      },
+      {
+        "romaji": "Hachioji-shi",
+        "kanji": "八王子市"
+      },
+      {
+        "romaji": "Hamura-shi",
+        "kanji": "羽村市"
+      },
+      {
+        "romaji": "Higashikurume-shi",
+        "kanji": "東久留米市"
+      },
+      {
+        "romaji": "Higashimurayama-shi",
+        "kanji": "東村山市"
+      },
+      {
+        "romaji": "Higashiyamato-shi",
+        "kanji": "東大和市"
+      },
+      {
+        "romaji": "Hino-shi",
+        "kanji": "日野市"
+      },
+      {
+        "romaji": "Inagi-shi",
+        "kanji": "稲城市"
+      },
+      {
+        "romaji": "Itabashi-ku",
+        "kanji": "板橋区"
+      },
+      {
+        "romaji": "Katsushika-ku",
+        "kanji": "葛飾区"
+      },
+      {
+        "romaji": "Kita-ku",
+        "kanji": "北区"
+      },
+      {
+        "romaji": "Kiyose-shi",
+        "kanji": "清瀬市"
+      },
+      {
+        "romaji": "Kodaira-shi",
+        "kanji": "小平市"
+      },
+      {
+        "romaji": "Koganei-shi",
+        "kanji": "小金井市"
+      },
+      {
+        "romaji": "Kokubunji-shi",
+        "kanji": "国分寺市"
+      },
+      {
+        "romaji": "Komae-shi",
+        "kanji": "狛江市"
+      },
+      {
+        "romaji": "Koto-ku",
+        "kanji": "江東区"
+      },
+      {
+        "romaji": "Kozushima-mura",
+        "kanji": "神津島村"
+      },
+      {
+        "romaji": "Kunitachi-shi",
+        "kanji": "国立市"
+      },
+      {
+        "romaji": "Machida-shi",
+        "kanji": "町田市"
+      },
+      {
+        "romaji": "Meguro-ku",
+        "kanji": "目黒区"
+      },
+      {
+        "romaji": "Mikurajima-mura",
+        "kanji": "御蔵島村"
+      },
+      {
+        "romaji": "Minato-ku",
+        "kanji": "港区"
+      },
+      {
+        "romaji": "Mitaka-shi",
+        "kanji": "三鷹市"
+      },
+      {
+        "romaji": "Miyake-mura",
+        "kanji": "三宅村"
+      },
+      {
+        "romaji": "Musashimurayama-shi",
+        "kanji": "武蔵村山市"
+      },
+      {
+        "romaji": "Musashino-shi",
+        "kanji": "武蔵野市"
+      },
+      {
+        "romaji": "Nakano-ku",
+        "kanji": "中野区"
+      },
+      {
+        "romaji": "Nerima-ku",
+        "kanji": "練馬区"
+      },
+      {
+        "romaji": "Niijima-mura",
+        "kanji": "新島村"
+      },
+      {
+        "romaji": "Nishitama-gun Hinode-machi",
+        "kanji": "西多摩郡日の出町"
+      },
+      {
+        "romaji": "Nishitama-gun Hinohara-mura",
+        "kanji": "西多摩郡檜原村"
+      },
+      {
+        "romaji": "Nishitama-gun Mizuho-machi",
+        "kanji": "西多摩郡瑞穂町"
+      },
+      {
+        "romaji": "Nishitama-gun Okutama-machi",
+        "kanji": "西多摩郡奥多摩町"
+      },
+      {
+        "romaji": "Nishitokyo-shi",
+        "kanji": "西東京市"
+      },
+      {
+        "romaji": "Ogasawara-mura",
+        "kanji": "小笠原村"
+      },
+      {
+        "romaji": "Ome-shi",
+        "kanji": "青梅市"
+      },
+      {
+        "romaji": "Oshima-machi",
+        "kanji": "大島町"
+      },
+      {
+        "romaji": "Ota-ku",
+        "kanji": "大田区"
+      },
+      {
+        "romaji": "Setagaya-ku",
+        "kanji": "世田谷区"
+      },
+      {
+        "romaji": "Shibuya-ku",
+        "kanji": "渋谷区"
+      },
+      {
+        "romaji": "Shinagawa-ku",
+        "kanji": "品川区"
+      },
+      {
+        "romaji": "Shinjuku-ku",
+        "kanji": "新宿区"
+      },
+      {
+        "romaji": "Suginami-ku",
+        "kanji": "杉並区"
+      },
+      {
+        "romaji": "Sumida-ku",
+        "kanji": "墨田区"
+      },
+      {
+        "romaji": "Tachikawa-shi",
+        "kanji": "立川市"
+      },
+      {
+        "romaji": "Taito-ku",
+        "kanji": "台東区"
+      },
+      {
+        "romaji": "Tama-shi",
+        "kanji": "多摩市"
+      },
+      {
+        "romaji": "Toshima-ku",
+        "kanji": "豊島区"
+      }
+    ]
+  },
+  "Tottori": {
+    "kanji": "鳥取県",
+    "romaji": "Tottori",
+    "cities": [
+      {
+        "romaji": "Hino-gun Hino-cho",
+        "kanji": "日野郡日野町"
+      },
+      {
+        "romaji": "Hino-gun Kofu-cho",
+        "kanji": "日野郡江府町"
+      },
+      {
+        "romaji": "Hino-gun Nichinan-cho",
+        "kanji": "日野郡日南町"
+      },
+      {
+        "romaji": "Iwami-gun Iwami-cho",
+        "kanji": "岩美郡岩美町"
+      },
+      {
+        "romaji": "Kurayoshi-shi",
+        "kanji": "倉吉市"
+      },
+      {
+        "romaji": "Saihaku-gun Daisen-cho",
+        "kanji": "西伯郡大山町"
+      },
+      {
+        "romaji": "Saihaku-gun Hiezu-son",
+        "kanji": "西伯郡日吉津村"
+      },
+      {
+        "romaji": "Saihaku-gun Hoki-cho",
+        "kanji": "西伯郡伯耆町"
+      },
+      {
+        "romaji": "Saihaku-gun Nambu-cho",
+        "kanji": "西伯郡南部町"
+      },
+      {
+        "romaji": "Sakaiminato-shi",
+        "kanji": "境港市"
+      },
+      {
+        "romaji": "Tohaku-gun Hokuei-cho",
+        "kanji": "東伯郡北栄町"
+      },
+      {
+        "romaji": "Tohaku-gun Kotora-cho",
+        "kanji": "東伯郡琴浦町"
+      },
+      {
+        "romaji": "Tohaku-gun Misasa-cho",
+        "kanji": "東伯郡三朝町"
+      },
+      {
+        "romaji": "Tohaku-gun Yurihama-cho",
+        "kanji": "東伯郡湯梨浜町"
+      },
+      {
+        "romaji": "Tottori-shi",
+        "kanji": "鳥取市"
+      },
+      {
+        "romaji": "Yazu-gun Chizu-cho",
+        "kanji": "八頭郡智頭町"
+      },
+      {
+        "romaji": "Yazu-gun Wakasa-cho",
+        "kanji": "八頭郡若桜町"
+      },
+      {
+        "romaji": "Yazu-gun Yazu-cho",
+        "kanji": "八頭郡八頭町"
+      },
+      {
+        "romaji": "Yonago-shi",
+        "kanji": "米子市"
+      }
+    ]
+  },
+  "Toyama": {
+    "kanji": "富山県",
+    "romaji": "Toyama",
+    "cities": [
+      {
+        "romaji": "Himi-shi",
+        "kanji": "氷見市"
+      },
+      {
+        "romaji": "Imizu-shi",
+        "kanji": "射水市"
+      },
+      {
+        "romaji": "Kurobe-shi",
+        "kanji": "黒部市"
+      },
+      {
+        "romaji": "Nakaniikawa-gun Funahashi-mura",
+        "kanji": "中新川郡舟橋村"
+      },
+      {
+        "romaji": "Nakaniikawa-gun Kamiichi-machi",
+        "kanji": "中新川郡上市町"
+      },
+      {
+        "romaji": "Nakaniikawa-gun Tateyama-machi",
+        "kanji": "中新川郡立山町"
+      },
+      {
+        "romaji": "Namerikawa-shi",
+        "kanji": "滑川市"
+      },
+      {
+        "romaji": "Nanto-shi",
+        "kanji": "南砺市"
+      },
+      {
+        "romaji": "Oyabe-shi",
+        "kanji": "小矢部市"
+      },
+      {
+        "romaji": "Shimoniikawa-gun Asahi-machi",
+        "kanji": "下新川郡朝日町"
+      },
+      {
+        "romaji": "Shimoniikawa-gun Nyuzen-machi",
+        "kanji": "下新川郡入善町"
+      },
+      {
+        "romaji": "Takaoka-shi",
+        "kanji": "高岡市"
+      },
+      {
+        "romaji": "Tonami-shi",
+        "kanji": "砺波市"
+      },
+      {
+        "romaji": "Toyama-shi",
+        "kanji": "富山市"
+      },
+      {
+        "romaji": "Uozu-shi",
+        "kanji": "魚津市"
+      }
+    ]
+  },
+  "Wakayama": {
+    "kanji": "和歌山県",
+    "romaji": "Wakayama",
+    "cities": [
+      {
+        "romaji": "Arida-gun Aridagawa-cho",
+        "kanji": "有田郡有田川町"
+      },
+      {
+        "romaji": "Arida-gun Hirogawa-cho",
+        "kanji": "有田郡広川町"
+      },
+      {
+        "romaji": "Arida-gun Yuasa-cho",
+        "kanji": "有田郡湯浅町"
+      },
+      {
+        "romaji": "Arida-shi",
+        "kanji": "有田市"
+      },
+      {
+        "romaji": "Gobo-shi",
+        "kanji": "御坊市"
+      },
+      {
+        "romaji": "Hashimoto-shi",
+        "kanji": "橋本市"
+      },
+      {
+        "romaji": "Hidaka-gun Hidaka-cho",
+        "kanji": "日高郡日高町"
+      },
+      {
+        "romaji": "Hidaka-gun Hidakagawa-cho",
+        "kanji": "日高郡日高川町"
+      },
+      {
+        "romaji": "Hidaka-gun Inami-cho",
+        "kanji": "日高郡印南町"
+      },
+      {
+        "romaji": "Hidaka-gun Mihama-cho",
+        "kanji": "日高郡美浜町"
+      },
+      {
+        "romaji": "Hidaka-gun Minabe-cho",
+        "kanji": "日高郡みなべ町"
+      },
+      {
+        "romaji": "Hidaka-gun Yura-cho",
+        "kanji": "日高郡由良町"
+      },
+      {
+        "romaji": "Higashimuro-gun Kitayama-mura",
+        "kanji": "東牟婁郡北山村"
+      },
+      {
+        "romaji": "Higashimuro-gun Kozagawa-cho",
+        "kanji": "東牟婁郡古座川町"
+      },
+      {
+        "romaji": "Higashimuro-gun Kushimoto-cho",
+        "kanji": "東牟婁郡串本町"
+      },
+      {
+        "romaji": "Higashimuro-gun Nachikatsura-cho",
+        "kanji": "東牟婁郡那智勝浦町"
+      },
+      {
+        "romaji": "Higashimuro-gun Taiji-cho",
+        "kanji": "東牟婁郡太地町"
+      },
+      {
+        "romaji": "Ito-gun Katsuragi-cho",
+        "kanji": "伊都郡かつらぎ町"
+      },
+      {
+        "romaji": "Ito-gun Koya-cho",
+        "kanji": "伊都郡高野町"
+      },
+      {
+        "romaji": "Ito-gun Kudoyama-cho",
+        "kanji": "伊都郡九度山町"
+      },
+      {
+        "romaji": "Iwade-shi",
+        "kanji": "岩出市"
+      },
+      {
+        "romaji": "Kainan-shi",
+        "kanji": "海南市"
+      },
+      {
+        "romaji": "Kaiso-gun Kimino-cho",
+        "kanji": "海草郡紀美野町"
+      },
+      {
+        "romaji": "Kinokawa-shi",
+        "kanji": "紀の川市"
+      },
+      {
+        "romaji": "Nishimuro-gun Kamitonda-cho",
+        "kanji": "西牟婁郡上富田町"
+      },
+      {
+        "romaji": "Nishimuro-gun Shirahama-cho",
+        "kanji": "西牟婁郡白浜町"
+      },
+      {
+        "romaji": "Nishimuro-gun Susami-cho",
+        "kanji": "西牟婁郡すさみ町"
+      },
+      {
+        "romaji": "Shingu-shi",
+        "kanji": "新宮市"
+      },
+      {
+        "romaji": "Tanabe-shi",
+        "kanji": "田辺市"
+      },
+      {
+        "romaji": "Wakayama-shi",
+        "kanji": "和歌山市"
+      }
+    ]
+  },
+  "Yamagata": {
+    "kanji": "山形県",
+    "romaji": "Yamagata",
+    "cities": [
+      {
+        "romaji": "Akumi-gun Yuza-machi",
+        "kanji": "飽海郡遊佐町"
+      },
+      {
+        "romaji": "Higashimurayama-gun Nakayama-machi",
+        "kanji": "東村山郡中山町"
+      },
+      {
+        "romaji": "Higashimurayama-gun Yamanobe-machi",
+        "kanji": "東村山郡山辺町"
+      },
+      {
+        "romaji": "Higashine-shi",
+        "kanji": "東根市"
+      },
+      {
+        "romaji": "Higashiokitama-gun Kawanishi-machi",
+        "kanji": "東置賜郡川西町"
+      },
+      {
+        "romaji": "Higashiokitama-gun Takahata-machi",
+        "kanji": "東置賜郡高畠町"
+      },
+      {
+        "romaji": "Higashitagawa-gun Mikawa-machi",
+        "kanji": "東田川郡三川町"
+      },
+      {
+        "romaji": "Higashitagawa-gun Shonai-machi",
+        "kanji": "東田川郡庄内町"
+      },
+      {
+        "romaji": "Kaminoyama-shi",
+        "kanji": "上山市"
+      },
+      {
+        "romaji": "Kitamurayama-gun Oishida-machi",
+        "kanji": "北村山郡大石田町"
+      },
+      {
+        "romaji": "Mogami-gun Funagata-machi",
+        "kanji": "最上郡舟形町"
+      },
+      {
+        "romaji": "Mogami-gun Kaneyama-machi",
+        "kanji": "最上郡金山町"
+      },
+      {
+        "romaji": "Mogami-gun Mamurogawa-machi",
+        "kanji": "最上郡真室川町"
+      },
+      {
+        "romaji": "Mogami-gun Mogami-machi",
+        "kanji": "最上郡最上町"
+      },
+      {
+        "romaji": "Mogami-gun Okura-mura",
+        "kanji": "最上郡大蔵村"
+      },
+      {
+        "romaji": "Mogami-gun Sakegawa-mura",
+        "kanji": "最上郡鮭川村"
+      },
+      {
+        "romaji": "Mogami-gun Tozawa-mura",
+        "kanji": "最上郡戸沢村"
+      },
+      {
+        "romaji": "Murayama-shi",
+        "kanji": "村山市"
+      },
+      {
+        "romaji": "Nagai-shi",
+        "kanji": "長井市"
+      },
+      {
+        "romaji": "Nanyo-shi",
+        "kanji": "南陽市"
+      },
+      {
+        "romaji": "Nishimurayama-gun Asahi-machi",
+        "kanji": "西村山郡朝日町"
+      },
+      {
+        "romaji": "Nishimurayama-gun Kahoku-cho",
+        "kanji": "西村山郡河北町"
+      },
+      {
+        "romaji": "Nishimurayama-gun Nishikawa-machi",
+        "kanji": "西村山郡西川町"
+      },
+      {
+        "romaji": "Nishimurayama-gun Oe-machi",
+        "kanji": "西村山郡大江町"
+      },
+      {
+        "romaji": "Nishiokitama-gun Iide-machi",
+        "kanji": "西置賜郡飯豊町"
+      },
+      {
+        "romaji": "Nishiokitama-gun Oguni-machi",
+        "kanji": "西置賜郡小国町"
+      },
+      {
+        "romaji": "Nishiokitama-gun Shirataka-machi",
+        "kanji": "西置賜郡白鷹町"
+      },
+      {
+        "romaji": "Obanazawa-shi",
+        "kanji": "尾花沢市"
+      },
+      {
+        "romaji": "Sagae-shi",
+        "kanji": "寒河江市"
+      },
+      {
+        "romaji": "Sakata-shi",
+        "kanji": "酒田市"
+      },
+      {
+        "romaji": "Shinjo-shi",
+        "kanji": "新庄市"
+      },
+      {
+        "romaji": "Tendo-shi",
+        "kanji": "天童市"
+      },
+      {
+        "romaji": "Tsuruoka-shi",
+        "kanji": "鶴岡市"
+      },
+      {
+        "romaji": "Yamagata-shi",
+        "kanji": "山形市"
+      },
+      {
+        "romaji": "Yonezawa-shi",
+        "kanji": "米沢市"
+      }
+    ]
+  },
+  "Yamaguchi": {
+    "kanji": "山口県",
+    "romaji": "Yamaguchi",
+    "cities": [
+      {
+        "romaji": "Abu-gun Abu-cho",
+        "kanji": "阿武郡阿武町"
+      },
+      {
+        "romaji": "Hagi-shi",
+        "kanji": "萩市"
+      },
+      {
+        "romaji": "Hikari-shi",
+        "kanji": "光市"
+      },
+      {
+        "romaji": "Hofu-shi",
+        "kanji": "防府市"
+      },
+      {
+        "romaji": "Iwakuni-shi",
+        "kanji": "岩国市"
+      },
+      {
+        "romaji": "Kudamatsu-shi",
+        "kanji": "下松市"
+      },
+      {
+        "romaji": "Kuga-gun Waki-cho",
+        "kanji": "玖珂郡和木町"
+      },
+      {
+        "romaji": "Kumage-gun Hirao-cho",
+        "kanji": "熊毛郡平生町"
+      },
+      {
+        "romaji": "Kumage-gun Kaminoseki-cho",
+        "kanji": "熊毛郡上関町"
+      },
+      {
+        "romaji": "Kumage-gun Tabuse-cho",
+        "kanji": "熊毛郡田布施町"
+      },
+      {
+        "romaji": "Mine-shi",
+        "kanji": "美祢市"
+      },
+      {
+        "romaji": "Nagato-shi",
+        "kanji": "長門市"
+      },
+      {
+        "romaji": "Oshima-gun Suooshima-cho",
+        "kanji": "大島郡周防大島町"
+      },
+      {
+        "romaji": "Sanyoonoda-shi",
+        "kanji": "山陽小野田市"
+      },
+      {
+        "romaji": "Shimonoseki-shi",
+        "kanji": "下関市"
+      },
+      {
+        "romaji": "Shunan-shi",
+        "kanji": "周南市"
+      },
+      {
+        "romaji": "Ube-shi",
+        "kanji": "宇部市"
+      },
+      {
+        "romaji": "Yamaguchi-shi",
+        "kanji": "山口市"
+      },
+      {
+        "romaji": "Yanai-shi",
+        "kanji": "柳井市"
+      }
+    ]
+  },
+  "Yamanashi": {
+    "kanji": "山梨県",
+    "romaji": "Yamanashi",
+    "cities": [
+      {
+        "romaji": "Chuo-shi",
+        "kanji": "中央市"
+      },
+      {
+        "romaji": "Fuefuki-shi",
+        "kanji": "笛吹市"
+      },
+      {
+        "romaji": "Fujiyoshida-shi",
+        "kanji": "富士吉田市"
+      },
+      {
+        "romaji": "Hokuto-shi",
+        "kanji": "北杜市"
+      },
+      {
+        "romaji": "Kai-shi",
+        "kanji": "甲斐市"
+      },
+      {
+        "romaji": "Kitatsuru-gun Kosuge-mura",
+        "kanji": "北都留郡小菅村"
+      },
+      {
+        "romaji": "Kitatsuru-gun Tabayama-mura",
+        "kanji": "北都留郡丹波山村"
+      },
+      {
+        "romaji": "Kofu-shi",
+        "kanji": "甲府市"
+      },
+      {
+        "romaji": "Koshu-shi",
+        "kanji": "甲州市"
+      },
+      {
+        "romaji": "Minamiarupusu-shi",
+        "kanji": "南アルプス市"
+      },
+      {
+        "romaji": "Minamikoma-gun Fujikawa-cho",
+        "kanji": "南巨摩郡富士川町"
+      },
+      {
+        "romaji": "Minamikoma-gun Hayakawa-cho",
+        "kanji": "南巨摩郡早川町"
+      },
+      {
+        "romaji": "Minamikoma-gun Minobu-cho",
+        "kanji": "南巨摩郡身延町"
+      },
+      {
+        "romaji": "Minamikoma-gun Nambu-cho",
+        "kanji": "南巨摩郡南部町"
+      },
+      {
+        "romaji": "Minamitsuru-gun Doshi-mura",
+        "kanji": "南都留郡道志村"
+      },
+      {
+        "romaji": "Minamitsuru-gun Fujikawaguchiko Mac",
+        "kanji": "南都留郡富士河口湖町"
+      },
+      {
+        "romaji": "Minamitsuru-gun Narusawa-mura",
+        "kanji": "南都留郡鳴沢村"
+      },
+      {
+        "romaji": "Minamitsuru-gun Nishikatsura-cho",
+        "kanji": "南都留郡西桂町"
+      },
+      {
+        "romaji": "Minamitsuru-gun Oshino-mura",
+        "kanji": "南都留郡忍野村"
+      },
+      {
+        "romaji": "Minamitsuru-gun Yamanakako-mura",
+        "kanji": "南都留郡山中湖村"
+      },
+      {
+        "romaji": "Nakakoma-gun Showa-cho",
+        "kanji": "中巨摩郡昭和町"
+      },
+      {
+        "romaji": "Nirasaki-shi",
+        "kanji": "韮崎市"
+      },
+      {
+        "romaji": "Nishiyatsushiro-gun Ichikawamisato",
+        "kanji": "西八代郡市川三郷町"
+      },
+      {
+        "romaji": "Otsuki-shi",
+        "kanji": "大月市"
+      },
+      {
+        "romaji": "Tsuru-shi",
+        "kanji": "都留市"
+      },
+      {
+        "romaji": "Uenohara-shi",
+        "kanji": "上野原市"
+      },
+      {
+        "romaji": "Yamanashi-shi",
+        "kanji": "山梨市"
+      }
+    ]
+  }
+}
