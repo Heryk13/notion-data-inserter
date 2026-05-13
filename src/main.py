@@ -1,9 +1,10 @@
 from pathlib import Path
 
-import pandas as pd
+from pandas import read_excel, DataFrame
 
 from integrations import CredentialStore, connect_to_notion, pick_database
 from utils import normalize_for_notion, pick_japan_location
+from time import sleep
 
 REQUIRED_COLUMNS = ["Phone Number", "Nome"]
 COLUMN_MAPPING = {
@@ -17,12 +18,12 @@ def clear_terminal() -> None:
     print("\033[H\033[J", end="")
 
 
-def load_excel(file_path: Path) -> pd.DataFrame | None:
+def load_excel(file_path: Path) -> DataFrame | None:
     if not file_path.exists():
         print("arquivo não encontrado")
         return None
 
-    df = pd.read_excel(file_path)
+    df = read_excel(file_path)
     print(f"Total: {len(df)} linhas")
     print(f"removendo linhas sem {' e '.join(REQUIRED_COLUMNS)}")
     df = df.dropna(subset=REQUIRED_COLUMNS)
@@ -62,6 +63,7 @@ def main() -> None:
             "approaches": 0,
         },
     )
+    sleep(5)
 
 
 if __name__ == "__main__":

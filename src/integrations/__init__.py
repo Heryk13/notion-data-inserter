@@ -1,7 +1,7 @@
 from getpass import getpass
 
-import questionary
-import requests
+from questionary import confirm, text
+from requests import HTTPError
 
 from .credential_store import CredentialStore
 from .notion_client import (
@@ -36,16 +36,16 @@ def pick_database(client: NotionClient, store: CredentialStore) -> str:
     if stored_id:
         try:
             db = client.get_database(stored_id)
-            if questionary.confirm(
+            if confirm(
                 f"Usar o database '{extract_db_title(db)}'?", default=True
             ).ask():
                 return stored_id
-        except requests.HTTPError:
+        except HTTPError:
             print("Database salvo não encontrado ou sem acesso.")
         store.delete_database_id()
 
     while True:
-        raw = questionary.text("Cole o ID ou URL do database do Notion:").ask()
+        raw = text("Cole o ID ou URL do database do Notion:").ask()
         if raw is None:
             raise KeyboardInterrupt
         try:
@@ -54,7 +54,7 @@ def pick_database(client: NotionClient, store: CredentialStore) -> str:
             print(f"Database encontrado: {extract_db_title(db)}")
             store.set_database_id(db_id)
             return db_id
-        except (ValueError, requests.HTTPError) as e:
+        except (ValueError, HTTPError) as e:
             print(f"Falhou: {e}. Tente novamente.")
 
 

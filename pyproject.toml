@@ -11,3 +11,8 @@ dependencies = [
     "questionary>=2.1.1",
     "requests>=2.34.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.20.0",
+]

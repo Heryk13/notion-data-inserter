@@ -1,13 +1,19 @@
-import json
+from json import load
 from pathlib import Path
-
+import sys
 import questionary
 
 
-_DATA_FILE = Path(__file__).parent.parent / "data" / "japan_regions.json"
+def _resource_dir() -> Path:
+    """Funciona tanto rodando como script quanto bundlado pelo PyInstaller."""
+    if hasattr(sys, "_MEIPASS"):
+        return Path(sys._MEIPASS) / "data"
+    return Path(__file__).parent.parent / "data"
+
+_DATA_FILE = _resource_dir() / "japan_regions.json"
 
 with open(_DATA_FILE, encoding="utf-8") as f:
-    _REGIONS = json.load(f)
+    _REGIONS = load(f)
 
 
 _CITY_SUFFIXES = (
