@@ -1,6 +1,7 @@
 import re
 
 import pandas as pd
+import phonenumbers
 import requests
 
 
@@ -25,8 +26,19 @@ def normalize_phone(phone) -> str:
 
 
 def format_phone(phone) -> str:
-    """Formata telefone pro Notion sem parênteses: '(056)-111-111' -> '056-111-111'."""
-    return str(phone).strip().replace("(", "").replace(")", "")
+    """Formata telefone japonês no padrão nacional via libphonenumber.
+
+    '09012345678' -> '090-1234-5678', '0111234567' -> '011-123-4567'.
+    Se não der pra interpretar, devolve o valor sem parênteses.
+    """
+    raw = str(phone).strip()
+    try:
+        parsed = phonenumbers.parse(raw, "JP")
+        if phonenumbers.is_valid_number(parsed):
+            return phonenumbers.format_number(parsed, phonenumbers.PhoneNumberFormat.NATIONAL)
+    except phonenumbers.NumberParseException:
+        pass
+    return raw.replace("(", "").replace(")", "")
 
 
 def extract_property_value(page: dict, prop_name: str) -> str | None:

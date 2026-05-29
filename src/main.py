@@ -26,7 +26,7 @@ def load_excel(file_path: Path) -> DataFrame | None:
         print("arquivo não encontrado")
         return None
 
-    df = read_excel(file_path)
+    df = read_excel(file_path, dtype={"Phone Number": str})
     print(f"Total: {len(df)} linhas")
     print(f"removendo linhas sem {' e '.join(REQUIRED_COLUMNS)}")
     df = df.dropna(subset=REQUIRED_COLUMNS)
