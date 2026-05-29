@@ -24,6 +24,11 @@ def normalize_phone(phone) -> str:
     return re.sub(r"\D", "", str(phone))
 
 
+def format_phone(phone) -> str:
+    """Formata telefone pro Notion sem parênteses: '(056)-111-111' -> '056-111-111'."""
+    return str(phone).strip().replace("(", "").replace(")", "")
+
+
 def extract_property_value(page: dict, prop_name: str) -> str | None:
     """Extrai valor de uma propriedade independente do tipo."""
     prop = page.get("properties", {}).get(prop_name)
@@ -69,7 +74,7 @@ def format_property(value, prop_type: str) -> dict | None:
     if prop_type == "rich_text":
         return {"rich_text": [{"text": {"content": s}}]}
     if prop_type == "phone_number":
-        return {"phone_number": s}
+        return {"phone_number": format_phone(s)}
     if prop_type == "url":
         return {"url": s}
     if prop_type == "email":
