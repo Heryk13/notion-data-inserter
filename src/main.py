@@ -60,7 +60,7 @@ def main() -> None:
         return
 
     print("verificando estado e cidade de cada linha")
-    resolved = resolve_locations(list(zip(df["State"], df["City"])))
+    resolved = resolve_locations(list(zip(df["Nome"], df["State"], df["City"])))
     df = df.copy()
     df["State"] = [state for state, _ in resolved]
     df["City"] = [city for _, city in resolved]

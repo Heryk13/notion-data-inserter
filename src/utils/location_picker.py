@@ -83,6 +83,16 @@ def verify_location(state, city) -> tuple[str, str] | None:
     return (pref, canon_city) if canon_city else None
 
 
+def _bad_column(state, city) -> str:
+    """Qual coluna está incorreta: 'State', 'City' (ou '' se a localização é válida)."""
+    pref = _PREF_LOOKUP.get(_key(state))
+    if not pref:
+        return "State"
+    if _CITY_LOOKUP[pref].get(_key(city)) is None:
+        return "City"
+    return ""
+
+
 def _build_choice(romaji: str, kanji: str, include_kanji: bool) -> questionary.Choice:
     label = f"{romaji} ({kanji})" if include_kanji else romaji
     return questionary.Choice(title=label, value=romaji)
@@ -138,28 +148,60 @@ def pick_japan_location(include_kanji: bool = True) -> tuple[str, str]:
     return prefecture, city
 
 
-def resolve_locations(pairs, include_kanji: bool = True) -> list[tuple[str, str]]:
-    """
-    Verifica cada par (state, city) contra japan_regions.json e devolve os
-    valores normalizados prontos pro Notion, na mesma ordem da entrada.
+def _correct_location(name, state, city, bad, include_kanji: bool) -> tuple[str, str]:
+    """Pergunta como corrigir uma linha com localização inválida."""
+    label = _clean(name) or "(sem nome)"
+    choice = questionary.select(
+        f"Corrigir '{label}' (coluna {bad} inválida):",
+        choices=[
+            questionary.Choice("Escolher prefeitura e cidade", value="pick"),
+            questionary.Choice(
+                f"Manter como está (State='{_clean(state)}', City='{_clean(city)}')",
+                value="keep",
+            ),
+        ],
+    ).ask()
+    if choice is None:
+        raise KeyboardInterrupt
+    if choice == "pick":
+        pref, city_romaji = pick_japan_location(include_kanji=include_kanji)
+        return normalize_for_notion(pref), normalize_for_notion(city_romaji)
+    return _key(state), _key(city)
 
-    Pares não reconhecidos caem no picker interativo. Respostas (e verificações)
-    são cacheadas por valor bruto, então valores repetidos não perguntam de novo.
+
+def resolve_locations(rows, include_kanji: bool = True) -> list[tuple[str, str]]:
+    """
+    Verifica a localização de cada linha e devolve (state, city) normalizados,
+    na mesma ordem. `rows` é uma lista de (nome, state, city).
+
+    Linhas válidas são resolvidas automaticamente (com cache por valor). As
+    inválidas são listadas com nome e coluna problemática, e corrigidas uma a uma.
     """
     cache: dict[tuple[str, str], tuple[str, str]] = {}
-    results: list[tuple[str, str]] = []
+    results: list[tuple[str, str]] = [("", "")] * len(rows)
+    problems: list[tuple[int, object, object, object, str]] = []
 
-    for state, city in pairs:
+    for i, (name, state, city) in enumerate(rows):
         key = (_key(state), _key(city))
-        if key not in cache:
-            match = verify_location(state, city)
-            if match is None:
-                print(
-                    f"Localização não reconhecida (estado='{_clean(state)}', "
-                    f"cidade='{_clean(city)}'). Selecione manualmente:"
-                )
-                match = pick_japan_location(include_kanji=include_kanji)
+        if key in cache:
+            results[i] = cache[key]
+            continue
+        match = verify_location(state, city)
+        if match is None:
+            problems.append((i, name, state, city, _bad_column(state, city)))
+        else:
             cache[key] = (normalize_for_notion(match[0]), normalize_for_notion(match[1]))
-        results.append(cache[key])
+            results[i] = cache[key]
+
+    if problems:
+        print(f"\n{len(problems)} linha(s) com localização incorreta:")
+        for _, name, state, city, bad in problems:
+            print(
+                f"  - {_clean(name) or '(sem nome)'}: coluna {bad} inválida "
+                f"(State='{_clean(state)}', City='{_clean(city)}')"
+            )
+        print()
+        for i, name, state, city, bad in problems:
+            results[i] = _correct_location(name, state, city, bad, include_kanji)
 
     return results
