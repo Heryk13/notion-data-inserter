@@ -3,14 +3,17 @@ from pathlib import Path
 from pandas import read_excel, DataFrame
 
 from integrations import CredentialStore, connect_to_notion, pick_database
-from utils import normalize_for_notion, pick_japan_location
+from utils import resolve_locations
 from time import sleep
 
 REQUIRED_COLUMNS = ["Phone Number", "Nome"]
+LOCATION_COLUMNS = ["State", "City"]
 COLUMN_MAPPING = {
     "Nome": "company name",
     "URL": "URL",
     "Phone Number": "Phone",
+    "State": "state",
+    "City": "city",
 }
 
 
@@ -23,7 +26,7 @@ def load_excel(file_path: Path) -> DataFrame | None:
         print("arquivo não encontrado")
         return None
 
-    df = read_excel(file_path)
+    df = read_excel(file_path, dtype={"Phone Number": str})
     print(f"Total: {len(df)} linhas")
     print(f"removendo linhas sem {' e '.join(REQUIRED_COLUMNS)}")
     df = df.dropna(subset=REQUIRED_COLUMNS)
@@ -40,6 +43,11 @@ def main() -> None:
     if df is None or df.empty:
         return
 
+    missing = [c for c in LOCATION_COLUMNS if c not in df.columns]
+    if missing:
+        print(f"colunas de localização ausentes no Excel: {', '.join(missing)}")
+        return
+
     print("checando credencial do notion")
     store = CredentialStore()
     client = connect_to_notion(store)
@@ -51,17 +59,18 @@ def main() -> None:
     if df.empty:
         return
 
-    prefecture, city = pick_japan_location()
+    print("verificando estado e cidade de cada linha")
+    resolved = resolve_locations(list(zip(df["Nome"], df["State"], df["City"])))
+    df = df.copy()
+    df["State"] = [state for state, _ in resolved]
+    df["City"] = [city for _, city in resolved]
+
     print("inserindo dados no notion")
     client.insert_rows(
         df,
         database_id,
         column_mapping=COLUMN_MAPPING,
-        extra_properties={
-            "state": normalize_for_notion(prefecture),
-            "city": normalize_for_notion(city),
-            "approaches": 0,
-        },
+        extra_properties={"approaches": 0},
     )
     sleep(5)
 

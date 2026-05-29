@@ -1,6 +1,7 @@
 import re
 
 import pandas as pd
+import phonenumbers
 import requests
 
 
@@ -22,6 +23,22 @@ def normalize_phone(phone) -> str:
     if phone is None or pd.isna(phone):
         return ""
     return re.sub(r"\D", "", str(phone))
+
+
+def format_phone(phone) -> str:
+    """Formata telefone japonês no padrão nacional via libphonenumber.
+
+    '09012345678' -> '090-1234-5678', '0111234567' -> '011-123-4567'.
+    Se não der pra interpretar, devolve o valor sem parênteses.
+    """
+    raw = str(phone).strip()
+    try:
+        parsed = phonenumbers.parse(raw, "JP")
+        if phonenumbers.is_valid_number(parsed):
+            return phonenumbers.format_number(parsed, phonenumbers.PhoneNumberFormat.NATIONAL)
+    except phonenumbers.NumberParseException:
+        pass
+    return raw.replace("(", "").replace(")", "")
 
 
 def extract_property_value(page: dict, prop_name: str) -> str | None:
@@ -69,7 +86,7 @@ def format_property(value, prop_type: str) -> dict | None:
     if prop_type == "rich_text":
         return {"rich_text": [{"text": {"content": s}}]}
     if prop_type == "phone_number":
-        return {"phone_number": s}
+        return {"phone_number": format_phone(s)}
     if prop_type == "url":
         return {"url": s}
     if prop_type == "email":

@@ -5,16 +5,17 @@ from PyInstaller.utils.hooks import collect_all
 keyring_datas, keyring_binaries, keyring_hidden = collect_all('keyring')
 quest_datas, quest_binaries, quest_hidden = collect_all('questionary')
 pt_datas, pt_binaries, pt_hidden = collect_all('prompt_toolkit')
+phone_datas, phone_binaries, phone_hidden = collect_all('phonenumbers')
 
 
 a = Analysis(
     ['src/main.py'],
     pathex=['src'],
-    binaries=keyring_binaries + quest_binaries + pt_binaries,
-    datas=keyring_datas + quest_datas + pt_datas + [
+    binaries=keyring_binaries + quest_binaries + pt_binaries + phone_binaries,
+    datas=keyring_datas + quest_datas + pt_datas + phone_datas + [
         ('src/data/japan_regions.json', 'data'),
     ],
-    hiddenimports=keyring_hidden + quest_hidden + pt_hidden + [
+    hiddenimports=keyring_hidden + quest_hidden + pt_hidden + phone_hidden + [
         'openpyxl',
         'openpyxl.cell._writer',
     ],
